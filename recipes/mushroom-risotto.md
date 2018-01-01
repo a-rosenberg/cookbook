@@ -9,7 +9,7 @@
 </div>
 <br>
 
-#### ingredients
+### ingredients
 - 1 quart vegetable stock
 - 1.5 lbs assorted mushrooms (a mixture is best); cleaned, trimmed and thinly sliced
 - 4 Tbsp olve oil
@@ -24,7 +24,7 @@
 - more parmesan and any finely minced herb for serving
 - 1 oz dried porcini (optional)
 
-#### instructions
+### instructions
 1. If you have dried procinis, heat stock and allow dried mushrooms to steep until soft, about 5 minutes. Remove hydrated porcinis and roughly chop. Add mushroom scraps to the stock and allow to sit until later when the stock is added to the rice. 
 2. Heat olive and oil and butter in the pressure cooker and add all of the mushrooms. Cook until the moisture is released and the mushrooms are beginning to brown. 
 3. Add onion and garlic and cook until barely softened, then add rice and cook until starting to become transluscent around the edges; about 5 minutes. 
@@ -33,5 +33,5 @@
 6. Stir in parmesan and check the seasoning. 
 7. Serve with extra grated parmesan and herbs at the table.
 
-#### notes
+### notes
 Not a good choice for someone who doesn't like mushrooms.  The dried porcinis are nice but not necessary - I generally skip the extra step. Also, if the rissotto comes out a little too dry, feel free to loosen it with a few tablespoons of stock or heavy cream.
