@@ -1,6 +1,6 @@
 <p align="right">12.31.2017</p>
 
-<h2 align="center">pressure cooker mushroom risotto</h2>
+<h1 align="center">pressure cooker mushroom risotto</h1>
 
 <div align="center">
   <a href="#ingredients">ingredients</a> | 

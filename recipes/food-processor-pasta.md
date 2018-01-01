@@ -1,6 +1,6 @@
 <p align="right">12.31.2017</p>
 
-<h2 align="center">food processor pasta dough</h2>
+<h1 align="center">food processor pasta dough</h1>
 
 <div align="center">
   <a href="#ingredients">ingredients</a> | 

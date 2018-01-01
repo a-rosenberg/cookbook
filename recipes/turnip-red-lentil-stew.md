@@ -1,6 +1,6 @@
 <p align="right">12.31.2017</p>
 
-<h2 align="center">turnip red lentil stew</h2>
+<h1 align="center">turnip red lentil stew</h1>
 
 <div align="center">
   <a href="#ingredients">ingredients</a> | 
