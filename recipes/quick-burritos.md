@@ -10,7 +10,7 @@
 <br>
 
 ### ingredients
-- 2 cups brown rice; cooked
+- 2 cups dry brown rice; cooked (will yield about 4 cups)
 - 2 cans black beans; drained
 - 2 cups frozen corn
 - 2 jalapenos; diced
