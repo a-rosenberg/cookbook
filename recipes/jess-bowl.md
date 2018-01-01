@@ -16,6 +16,7 @@
 - 1 recipe [japanese braised greens](https://github.com/a-rosenberg/cookbook/blob/master/recipes/japanese-braised-greens.md)
 - 8 oz crimini mushrooms; stems removed and washed
 - 2 tbsp neutral oil
+- kosher salt
 - 1 avocado; sliced
 - siricha to taste
 - toasted sesame oil to taste
@@ -26,8 +27,8 @@
 
 ### instructions
 1. Place rice in a rice cooker or on the stove. Cook according to package directions.
-2. Peel sweet potatoes and cut into 3/4" cubes. Cut off top of delicata squash, slice length-wise, scoop out inards, and slice into 1/2" wide half moons.
-3. While potatoes & squash are cooking, heat a pan to low medium heat. Add 2 tbsp neutral oil and crimini mushrooms. Cook until tender. While mushrooms are cooking, prepare japanese braised greens. Jess prefers using lacinato kale. Add cooked mushrooms to the pan of greens and cook on low for another minute. Remove from heat and set aside.
+2. Heat oven to 400 degress. Peel sweet potatoes and cut into 3/4" cubes. Toss in a neutral oil with a sprinkle of salt. Cut off top of delicata squash, slice length-wise, scoop out inards, and slice into 1/2" wide half moons. Again, toss in a neutral oil with a sprinkle of salt. Using one large or two smaller trays, spread out sweet potatoes and delicata squash. Roast for 20 minutes, until browning underneath. Flip & toss. Roast for another 10-20 minutes. Sweet potatoes should be bronzed and tender and squash should be browning at edges. Toss chunks around one more time if it looks like they are cooking unevenly.
+3. While potatoes & squash are cooking, heat a pan to medium-low heat. Add 2 tbsp neutral oil and crimini mushrooms to the pan, cooking until tender. While mushrooms are cooking, prepare japanese braised greens. Jess prefers using lacinato kale for this specific recipe, but you do you. Throw cooked mushrooms into to the pan of greens, stir, and cook together on low for another minute. Remove from heat and set aside.
 4. Prepare bowls. Before adding vegetables, mix a dash of toasted sesame oil into the cooked rice. Pile on vegetables and top with a fried egg (optional). Add tamari/soy sauce and siracha to taste.
 
 ### notes
