@@ -18,7 +18,7 @@
 - 4 cups vegetable broth
 - 2 tbsp unsalted butter
 - 1 scant tbsp balsamic vinegar
-- 1 8-10 ounce package fettucine noodles or 1 recipe of [homemade pasta dough]()
+- 1 8-10 ounce package fettucine noodles or 1 recipe of [homemade pasta dough](https://github.com/a-rosenberg/cookbook/blob/master/recipes/food-processor-pasta.md)
 
 ### instructions
 1. Heat the oil over medium-low heat then add carrots.  Cook for a couple minutes then add onions and cook until golden; about 10-15 minutes.
