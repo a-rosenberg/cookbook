@@ -1,6 +1,6 @@
 <p align="right">12.31.2017</p>
 
-<h2 align="center">ingredient soup</h2>
+<h2 align="center">shakshuka</h2>
 
 <div align="center">
   <a href="#ingredients">ingredients</a> | 
@@ -29,7 +29,7 @@
 5. Once the eggs are just about cooked, remove from heat and sprinkle with feta and parsley, a light drizzle of a good olive and a few cracks of pepper. Serve with pitas, naan, or a baguette.
 
 #### Notes
-Goes well with [www.google.com](naan) recipe.
+Goes well with budget bytes [naan](https://www.budgetbytes.com/2010/09/naan/) recipe.
 
 
 
