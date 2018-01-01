@@ -20,7 +20,7 @@
 - 1 tsp white sesame seeds
 - 1 tsp black sesame seeds
 - 1 delicata squash (optional); cut into half moons
-- 1 recipe [miso-tahini dressing]()
+- 1 recipe [miso-tahini dressing](https://github.com/a-rosenberg/cookbook/blob/master/recipes/miso-tahini-dressing.md)
 
 ### instructions
 1. Heat oven to 400 degrees. Place rice in a rice cooker or on the stove and cook according to package directions. 
