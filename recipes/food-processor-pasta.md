@@ -5,7 +5,7 @@
 <div align="center">
   <a href="#ingredients">ingredients</a> | 
   <a href="#instructions">instructions</a> | 
-  <a href="#notes">notes</a> | 
+  <a href="#notes">notes</a>
 </div>
 <br>
 
