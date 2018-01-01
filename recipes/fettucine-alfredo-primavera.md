@@ -19,7 +19,7 @@
 - 1/2 cup peas
 - 1 bunch asparagus; trimmed
 - 2 or 3 portabello mushrooms; rinsed and gills cleaned out
-- 1 recipe of [homemade food processor pasta]()
+- 1 recipe of [homemade food processor pasta](https://github.com/a-rosenberg/cookbook/blob/master/recipes/food-processor-pasta.md)
 
 #### instructions
 1. Bring 1 cup of the heavy cream to a simmer and cook until reduced to about 2/3 cup; 12-15 minutes.  
