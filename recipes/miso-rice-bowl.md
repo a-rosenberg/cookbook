@@ -14,9 +14,9 @@
 - 1/4 cup of wild rice
 - 1-2 sweet potatoes; cubed
 - 1 large bundle of broccoli
-- 1-2 tbsp olive oil
-- Coarse or kosher salt
-- Freshly ground black pepper
+- 2-4 tbsp neutral oil
+- coarse or kosher salt
+- freshly ground black pepper
 - 1 tsp white sesame seeds
 - 1 tsp black sesame seeds
 - 1 delicata squash (optional); cut into half moons
@@ -31,4 +31,4 @@
 
 ### notes
 Easily doubled. 
-Equally delicious over wheatberries or farro. 
+Equally delicious over wheat berries or farro. 
