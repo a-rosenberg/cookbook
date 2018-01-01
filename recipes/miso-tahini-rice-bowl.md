@@ -34,8 +34,8 @@ bowl
 
 ### instructions
 1. Heat oven to 400 degrees. Place rice in a rice cooker or on the stove and cook according to package directions. 
-2. Peel sweet potatoes and cut into 1-inch cubes. Toss lightly in a neutral oil and a sprinkle of salt. Cut tops of broccoli and separate into bite-size florets. Again, toss lightly in a neutral oil and a sprinkle of salt. If using delicate squash, cut off one end of the squash and slice length-wise. Scoop out inards and slice into 1/2 inch wide half moons. 
-3. Using one large or two smaller trays, spread out sweet potatoes (and delicata squash) and roast for 20 minutes, until browning underneath. Flip, toss, and add broccoli to the tray(s). Roast for another 10-20 minutes. Broccoli should be lightly charred at the edges, sweet potatoes should be bronzed and tender, and squash should be browning at edges. Toss chunks around one more time if it looks like they are cooking unevenly.
+2. Peel sweet potatoes and cut into 1-inch cubes. Toss lightly in a neutral oil and a sprinkle of salt. Cut tops of broccoli and separate into bite-size florets. Again, toss lightly in a neutral oil and a sprinkle of salt. If using delicata squash, cut off one end of the squash and slice length-wise. Scoop out inards and slice into 1/2 inch wide half moons. 
+3. Using one large or two smaller trays, spread out sweet potatoes (and delicata squash, optional) and roast for 20 minutes, until browning underneath. Flip, toss, and add broccoli to the tray(s). Roast for another 10-20 minutes. Broccoli should be lightly charred at the edges, sweet potatoes should be bronzed and tender, and squash should be browning at edges. Toss chunks around one more time if it looks like they are cooking unevenly.
 4. While vegetables are roasting, prepare the sesame-miso dressing. Combine everything in a blender and run until smooth, scraping  down sides once. 
 5. Assemble bowls. Scoop rice into each bowl, pile on vegetables, and coat lightly with dressing. Sprinkle toasted sesame seeds on top.
 
