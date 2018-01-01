@@ -14,7 +14,7 @@
 - 1 cup unsweetened plain almond milk
 - 2 Tbsp natural peanut butter
 - 1 Tbsp rolled oats
-- 1/2 cup frozen spinach or 1 to cups of fresh rinsed spinach
+- 1/2 cup frozen spinach or 1 to 2 cups of fresh, rinsed spinach
 - 1 tsp flax seed (optional)
 - 1 tsp spirulina powder (optional)
 - 1 pinch garam masala or cinnamon powder (optional)
