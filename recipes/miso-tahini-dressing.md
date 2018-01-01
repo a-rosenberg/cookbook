@@ -20,7 +20,8 @@
 - 2 tbsp olive oil
 
 #### instructions
-1. 
+1. Combine everything in a blender and run until smooth, scraping  down sides once. 
+2. Taste and adjust as needed.
 
 #### notes
 Stores well.
