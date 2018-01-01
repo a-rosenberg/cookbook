@@ -23,10 +23,10 @@
 - pinch of red pepper flakes (optional)
 
 #### instructions
-1. Cook the ingredient.  
-2. Combine with other ingredient. 
-3. Sprinkle over minced ingredient and serve warm.
+1. Heat pan on medium then add oil and onion. Cook until onion begins to soften then add garlic and cook until both are softened through - just sweating the veggies, no need to try to brown here. Add turnips and toss with aromatics.  Add tomato sauce and veggie broth and stir to combine. Add lentils and stir again. 
+2. Bring soup to a boil then reduce to a simmer and cook for about 20 minutes stirring occasionally. Around then the lentils will be a consistent color and texture though and will plump up to fill the pot all of the sudden. At this point stir in the herbs if you're using them and the kale and let cook for a couple minutes.  
+3. Taste the soup- if it lacks body, add vegetable broth base 1/2 tsp at a time, or maybe a pinch of salt if it just needs more seasoning.
 
 #### notes
-Feel free to add extra ingredients. 
+Serve with a crack of pepper and/or a pinch of red pepper flakes.
 
