@@ -21,7 +21,7 @@
 - 2 tsp coriander
 - 1/2 tsp turmeric 
 - 1/4 tsp cayenne
-- 1 bunch cilantro; rinsed
+- 1/2 bunch cilantro; rinsed, rough chop
 - 1 lemon (optional)
 - 1 recipe; perfect basmati
 
