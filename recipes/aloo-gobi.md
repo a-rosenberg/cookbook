@@ -1,4 +1,4 @@
-<p align="right">12.31.2017</p>
+<p align="right">2.6.2018</p>
 
 <h1 align="center">aloo gobi</h1>
 
@@ -14,7 +14,7 @@
 - 1-2 russet potato
 - 1" ginger root; peeled and minced
 - 1 serrano; super small dice, deseeded if preffered
-- 2 tomatoes; diced
+- 2 on the vine tomatoes; diced
 - 1 cup green peas
 - 1 tsp ground cumin
 - 1 tsp garam masala
