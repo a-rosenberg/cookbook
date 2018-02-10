@@ -33,4 +33,4 @@
 3. Add can of tomatoes, crushing with your hands as they go in (granny style) or crush with wooden spoon in pan.  Bring to a boil then simmer for 5 minutes then cover and simmer 5 more.
 4. Once the sauce has darkened and thickened a little bit start spooning in the lentils with a slotted spoon.  If it's too thick, thin with some of the lentil cooking liquid.  I found that mine typicaly doesn't need any additional liquid.
 5. Simmer on low heat for 10 more minutes, uncovered if looking to thicken the sauce.  Taste and adjust seasoning.  Add cayenne if it could use some spice.  
-6. Serve with basmati rice and a sprinkle of chopped cilantro.
+6. Serve with basmati rice or [naan](https://www.budgetbytes.com/2010/09/naan/) and a sprinkle of chopped cilantro.
