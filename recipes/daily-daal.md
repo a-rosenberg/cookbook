@@ -24,7 +24,7 @@
 - 1 14oz can plum tomatoes
 - cayenne pepper (optional)
 - handful of cilantro; rinsed and roughly chopped (optional)
-- one recipe [basmati rice]()
+- one recipe [basmati rice](https://github.com/a-rosenberg/cookbook/blob/master/recipes/basmati-steamed.md)
 
 
 ### instructions
