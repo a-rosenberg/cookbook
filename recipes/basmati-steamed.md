@@ -13,7 +13,7 @@
 - 1 cup basmati rice
 - 1.5 cups just boiled water
 - 1-2 tbsp neutral oil
-- 1 pinch salt (~3/4 tsp salt)
+- 1 pinch salt (3/4 tsp salt)
 - tbsp ghee (optional)
 
 ### instructions
