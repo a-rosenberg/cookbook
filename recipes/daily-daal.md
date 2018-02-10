@@ -11,7 +11,7 @@
 
 ### ingredients
 - 8 oz red lentils (about 1 heaping cup)
-- tbsp neutral cooking oil (e.g., avocado)
+- 2 tbsp neutral cooking oil (e.g., avocado)
 - 10-15 black peppercorns
 - 5-10 cloves
 - 1 onion; small dice
