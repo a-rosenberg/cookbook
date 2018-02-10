@@ -28,4 +28,4 @@ allow to cook for 35-45 minutes until the lentils have absorbed much of the wate
 4. Serve over noodles with a few cracks of fresh pepper and some chopped parsley.
 
 ### notes
-Can use any type of broth.  Mushroom or chicken broth would be nice.
+Can use any type of broth.  Mushroom or chicken broth would be nice. Lately I've been adding a stalk of celery (small dice) to the miropoix.
