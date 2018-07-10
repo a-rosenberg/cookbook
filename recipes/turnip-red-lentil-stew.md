@@ -15,7 +15,7 @@
 - 1 bunch of small turnips (I like hakurei); washed, trimmed, and quartered or 2 large turnips; peeled and 1/2" dice
 - 1 can tomato puree
 - 4 cups vegetable broth and extra vegetable base concentrate
-- 1/2 bunch chard (could substitute lacinato kale); washed, thick stems removed, and thinly sliced
+- 1 bunch chard (could substitute lacinato kale); washed, thick stems removed, and thinly sliced
 - 1 cup red lentils; rinsed
 - 2 tbsp olive or neutral oil
 - 1/2 tsp thyme (fresh or dried)
