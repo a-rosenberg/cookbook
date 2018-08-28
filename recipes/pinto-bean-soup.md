@@ -30,5 +30,4 @@ consistency. Heat back up to a simmer while stirring occasionally.
 3. Serve hot with sliced avocado, a dash of cayenne and some cilantro leaves.
 
 ### notes
-Look into doubling this.  Water likely won't scale at 100%.  Current recipe makes about 3 bowls.  
-Maybe serve with a lime slice?
+Look into doubling this.  Water likely won't scale at 100%.  Current recipe makes about 3 bowls.  Maybe serve with a lime slice?
