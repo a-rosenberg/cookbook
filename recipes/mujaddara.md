@@ -33,6 +33,6 @@ heat through.  Taste for seasoning.  I found it needed a couple more pinches.
 3. Serve warm with a dollop of yogurt (I prefer plain goat yogurt) with a crack of pepper.
 
 ### notes
-Make sure to use proper french lentils and not just "green lentils" as they cook completely differently -- frencg green won't turn to mush!
+Make sure to use proper [french lentils](https://www.bobsredmill.com/petite-french-green-lentils.html) and not just "green lentils" as they cook completely differently -- frencg green won't turn to mush!
 A simple way to cook green lentils: add 1 cup of lentils and 3 cups of cold water to a medium sized pot.  Bring to a boil then drop to low 
 and simmer for 25 minutes.  If the lentils are tender, strain and set aside.
