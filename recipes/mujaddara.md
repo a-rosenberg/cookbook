@@ -22,6 +22,7 @@
 - 3 tsp sherry vinegar
 - 3 cup french green lentils (e.g., puy) cooked; 1 cup dry; seasoned with salt after cooking
 - 3 cup short grained brown rice cooked; 2 cup dry
+- 1/2 cup of yogurt (optional); I prefer plain goat yogurt for this
 
 ### instructions
 1. Heat a wide, large skillet or pot over medium-high.  Add olive oil and allow to heat for a bit before adding onions and salt.
