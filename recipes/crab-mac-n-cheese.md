@@ -35,4 +35,4 @@ ligtly browned.  Let sit to cool for 5 minutes then serve.
 
 ### notes
 Other pastas that would work besides cavatappi: campanelle, macaroni, elbows, shells, fusilli (a la Boston Market), mezzi 
-rigatoni, or penne. 
+rigatoni, or penne.  While claw meat looks good with the red highlights, I think the lump crab meat tasted better and had less shell bits.
