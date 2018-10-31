@@ -20,7 +20,7 @@
 - 1/2 tsp salt
 - 1/4 tsp freshly ground black pepper
 - 1/8 tsp rep pepper (optional)
-- 1/2 - 1 lb crab meat; drained (lump or claw, optional)
+- 1/2 lb crab meat; drained (lump or claw, optional)
 
 ### instructions
 1. Preheat oven to 400F and grease a dutch oven or baking dish.  Heat 2 cups of milk in microwave for 1.5 minutes.
