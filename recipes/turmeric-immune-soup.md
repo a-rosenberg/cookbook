@@ -13,7 +13,7 @@
 - 2 tsp olive oil
 - 4 carrots; small dice
 - 4 celery stalks; small dice
-- 2 small/medium white onion
+- 2 smallish white, sweet or spanish onion; small dice
 - 2-3 inches garlic; minced
 - 6-8 garlic cloves; minced
 - 3 tsp ground turmeric 
