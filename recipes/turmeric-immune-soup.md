@@ -19,7 +19,7 @@
 - 3 tsp ground turmeric 
 - 1/2 tsp red chili flakes
 - 1 1/3 cup dried orzo
-- 4 cups vegetable broth
+- 8 cups vegetable broth
 - 4 tsp light miso
 - 2 tsp apple cider vinegar
 - 1/4 cup parsley, flat or curly; chopped
