@@ -1,6 +1,6 @@
 <p align="right">12.31.2017</p>
 
-<h1 align="center">turkish eggplant, lentil, pomegranate stew</h1>
+<h1 align="center">eggplant, lentil, pomegranate stew</h1>
 
 <div align="center">
   <a href="#ingredients">ingredients</a> | 
@@ -22,6 +22,8 @@
 - 1 pinch red pepper flakes
 - 2 tsp kosher salt
 - small handful mint leaves; chopped with a few reserved
+- pomegranate seeds (optional)
+- goat or greek yogurt (optional)
 
 ### instructions
 1. Partially peel the eggplant so it has lengthwise stripes, then cut it lengthwise into 4 slices. Score each slice 
@@ -38,6 +40,7 @@ half of the remaining vegetable mixture. Top with the remaining eggplant, lentil
 remaining olive oil around the side and over the vegetables, then drizzle with the pomegranate molasses.
 6. Heat the stew over medium until the liquid in the stew is simmering. Cover and cook over medium-low heat until the 
 eggplant is very tender, about 1 1/2 hours.
+7. Serve over basmati rice (see notes), garnish with mint and the optional yogurt and pomegranate seeds.
 
 ### notes
 Pair with steamed basmati rice cooked with toasted cinnamon stick and cloves.
