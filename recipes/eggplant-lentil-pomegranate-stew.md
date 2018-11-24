@@ -43,4 +43,4 @@ eggplant is very tender, about 1 1/2 hours.
 6. Serve over basmati rice (see notes), garnish with mint and the optional yogurt and pomegranate seeds.
 
 ### notes
-Pair with steamed basmati rice cooked with toasted cinnamon stick and cloves.
+Pair with [steamed basmati rice](https://github.com/a-rosenberg/cookbook/blob/master/recipes/basmati-steamed.md) cooked with toasted cinnamon stick and cloves.
