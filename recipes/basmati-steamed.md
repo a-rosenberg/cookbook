@@ -28,3 +28,5 @@
 
 ### notes
 Some combinations of aromatics I enjoy are a cinnamon stick and cloves, or cumin seeds and curry leaves.
+
+Can be scaled 100% for doubling but use only 2.5 cups water. 
