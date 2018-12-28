@@ -17,6 +17,7 @@
 - 1 scant Tbsp maple syrup
 - couple cracks of black pepper
 
+
 - 12-16 oz new potatoes; cooked (boiled or steamed) and cut in half
 - 7 oz arrugula; washed and dried as much as possible
 - 1 1/4 cup uncooked brown rice
