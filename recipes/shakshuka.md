@@ -12,11 +12,12 @@
 ### ingredients
 - 1 medium onion; small dice
 - 4 cloves garlic; crushed then sliced
-- 3 jalapeño or 2 serrano peppers thinly sliced
+- 2 Anaheim peppers; seeds removed and diced
+- 3 jalapeño or 2 serrano peppers; sliced
 - 1 Tbsp cumin
 - 2 tsp smoked paprika
 - 28oz san marzano tomatoes
-- 6 eggs
+- 6 or 7 eggs
 - 1 handful of chopped parsley
 - 1/4 cup crumbled feta
 - olive oil and pepper to finsih
@@ -29,7 +30,7 @@
 5. Once the eggs are just about cooked, remove from heat and sprinkle with feta and parsley, a light drizzle of a good olive and a few cracks of pepper. Serve with pitas, naan, or a baguette.
 
 ### notes
-Goes well with budget bytes [naan](https://www.budgetbytes.com/2010/09/naan/) recipe.
+Goes well with baguette or budget bytes [naan](https://www.budgetbytes.com/2010/09/naan/) recipe.
 
 
 
