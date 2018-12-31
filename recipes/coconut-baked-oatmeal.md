@@ -24,7 +24,7 @@
 - coconut whipped cream (optional)
 
 ### instructions
-1. Preheat the oven to 375 degrees (without convection) and melt coconut oil (or replacement) and grease baking dish.
+1. Preheat the oven to 375 degrees (without convection) and melt coconut oil (or replacement) to grease baking dish.
 2. Smash bananas in large mixing bowl. Combine all ingredients up to rolled oats and mix well.  Spoon in oats and stir to combine.
 3. Bake for 45 minutes at 375F.  Remove and let cool for a couple minutes before digging in.  Optionally, top with fruit and whipped coconut cream.
 
