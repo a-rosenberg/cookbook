@@ -1,6 +1,6 @@
 <p align="right">12.31.2017</p>
 
-<h1 align="center">quick burritos</h1>
+<h1 align="center">cilantro lime burritos</h1>
 
 <div align="center">
   <a href="#ingredients">ingredients</a> | 
