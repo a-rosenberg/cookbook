@@ -15,7 +15,7 @@
 - 1 1/2 Tbsp kosher salt
 - 680 g white flour
 - 230 g whole wheat flour
-- Some semolina flour
+- some semolina flour
 
 ### instructions
 1. In a large, sealable container over a scale add water Then yeast and salt.  Mix a little bit.  
