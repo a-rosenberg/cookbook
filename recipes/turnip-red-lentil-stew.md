@@ -12,7 +12,7 @@
 ### ingredients
 - 1 sweet onion; diced
 - 4 garlic cloves; minced
-- 1 bunch of small turnips (I like hakurei); washed, trimmed, and quartered or 2 large turnips; peeled and 1/2" dice
+- 1 bunch of small turnips (I like hakurei); washed, trimmed, and quartered or 4 large turnips; peeled and 1/2" dice
 - 1 can tomato puree
 - 4 cups vegetable broth and extra vegetable base concentrate
 - 1 bunch chard (could substitute lacinato kale); washed, thick stems removed, and thinly sliced
