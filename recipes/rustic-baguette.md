@@ -29,4 +29,4 @@ slash 3 times lengthwise on a slight angle and bake for 25 minutes.
 4. Let cool, then eat.  Should last a day or two.
 
 ### notes
-None
+Makes 5-8 baguettes depending on size.
