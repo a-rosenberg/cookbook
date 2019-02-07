@@ -12,7 +12,7 @@
 ### ingredients
 - 680 grams lukewarm water; less than 100F
 - 1 Tbsp granulated yeast
-- 1-1.5 Tbsp kosher salt
+- 1 1/2 Tbsp kosher salt
 - 680 g white flour
 - 230 g whole wheat flour
 - Some semolina flour
