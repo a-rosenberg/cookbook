@@ -10,7 +10,7 @@
 <br>
 
 ### ingredients
-- 1/4 cup hummus (roasted garlic preferred)
+- 1/4-1/2 cup hummus (roasted garlic preferred)
 - 1 tsp spicy whole grain mustard
 - 1/2 tsp lemon zest (1 lemon's worth)
 - 1 Tbsp capers; finely minced
