@@ -1,4 +1,4 @@
-<p align="right">12.31.2017</p>
+<p align="right">6.12.2019</p>
 
 <h1 align="center">hummus caesar dressing</h1>
 
@@ -10,8 +10,8 @@
 <br>
 
 ### ingredients
-- 1/4 Cup hummus (roasted garlic preferred)
-- 1 tsp spicy mustard
+- 1/4 cup hummus (roasted garlic preferred)
+- 1 tsp spicy whole grain mustard
 - 1/2 tsp lemon zest (1 lemon's worth)
 - 1 Tbsp capers; finely minced
 - 1 heaping Tbsp caper brine
