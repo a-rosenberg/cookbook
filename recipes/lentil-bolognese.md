@@ -15,7 +15,7 @@
 - 2 carrots; small dice
 - 1-2 celery stalks; small dice
 - 1 onion; small dice
-- 1 cup puy lentils
+- 1 cup beluga (black) lentils
 - 4 cups vegetable broth
 - 2 tbsp unsalted butter
 - 1 scant tbsp balsamic vinegar
