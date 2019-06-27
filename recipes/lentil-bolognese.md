@@ -13,6 +13,7 @@
 ### ingredients
 - 3 tbsp olive oil (not extra virgin)
 - 2 carrots; small dice
+- 1-2 celery stalks; small dice
 - 1 onion; small dice
 - 1 cup puy lentils
 - 4 cups vegetable broth
@@ -21,7 +22,7 @@
 - 1 8-10 ounce package fettucine noodles or 1 recipe of [homemade pasta dough](https://github.com/a-rosenberg/cookbook/blob/master/recipes/food-processor-pasta.md)
 
 ### instructions
-1. Heat the oil over medium-low heat then add carrots.  Cook for a couple minutes then add onions and cook until golden; about 10-15 minutes.
+1. Heat the oil over medium-low heat then add carrots.  Cook for a couple minutes then add onions and celery and cook until golden; about 10-15 minutes.
 2. Rinse lentils then add to the pot.  Toss around then add the 4 cups of broth.  Bring to a boil over high heat then reduce to a simmer and 
 allow to cook for 35-45 minutes until the lentils have absorbed much of the water and are abundantly tender.  This is a good time to check the seasoning.
 3. Remove half the sauce to a blender or food processer and blitz to a rough paste.  Add this back to the pot along with butter and the balmasic vinegar.
