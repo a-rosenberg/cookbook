@@ -10,7 +10,7 @@
 <br>
 
 ### ingredients
-- 4 Tbsp dijon mustard
+- 2 Tbsp dijon mustard
 - 2 Tbsp whole grain mustard (e.g., Maille)
 - 1/2 cup EVOO
 - 2 Tbsp sherry vinegar (or something similar)
