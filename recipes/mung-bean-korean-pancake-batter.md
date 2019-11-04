@@ -21,5 +21,5 @@ water. Blend on high speed until the mixture is very smooth, 15 to 30 seconds.
 1. Season before cooking.  Do not add salt until ready to cook.
 
 ### notes
-You can make this mixture and refrigerate, covered, for up to 3 days.  Can add kimchi, green onions, sprouted
+You can make this mixture and refrigerate, covered, for up to 3 days.  Can add kimchi, sauerkraut, green onions, sprouted
 mung beans, tamari, fish sauce, etc.
