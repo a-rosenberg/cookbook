@@ -1,6 +1,6 @@
 <p align="right">9.27.2018</p>
 
-<h1 align="center">rustic baguette</h1>
+<h1 align="center">rustic baguettes</h1>
 
 <div align="center">
   <a href="#ingredients">ingredients</a> | 
@@ -23,7 +23,7 @@ Tare then add white flour, tare again and add whole wheat.  Combine thoroughly w
 whisk or wooden spoon, making sure to get the corners. 
 1. Let sit out, with lid on lightly so that gases can escape, for 2-4 hours while it rises then collapses a bit.  
 Then place in the fridge for 3 hours to 10 days.  
-1. When ready to cook, preheat oven to 450 with a steamer tray.  Dust bin top with a little semolina then gently 
+1. When ready to cook, preheat oven to 450F with a steamer tray.  Dust bin top with a little semolina then gently 
 shape into baguettes, rolling in a little more semolina as needed to prevent sticking.  Let rest for 20 minutes then 
 slash 3 times lengthwise on a slight angle and bake for 25 minutes.
 1. Let cool, then eat.  Should last a day or two.
