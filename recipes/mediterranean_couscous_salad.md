@@ -20,10 +20,11 @@
 - salt
 
 ### instructions
-1. Boil 1.5 cups of water with a pinch of salt in a small saucepan.  Once it's boiling, add couscous and stir, take off heat and let rest for 5+ minutes with the lid on before fluffing with a fork.
-2. Combine veggies and dressing to let marinate while couscous steams. 
-3. Top couscous with veggie salad.  Top that with optional sliced avocados.  Add more dressing if necessary.
+1. Boil 1.5 cups of water with a pinch of salt in a small saucepan.  Once it's boiling, add couscous and stir, take 
+off heat and let rest for 5+ minutes with the lid on before fluffing with a fork.
+1. Combine veggies and dressing to let marinate while couscous steams. 
+1. Top couscous with veggie salad.  Top that with optional sliced avocados.  Add more dressing if necessary.
 
 ### notes
-If really getting fancy, could add chopped parsley. If using persian cucumbers prep 2-3 instead of 1. For chickopeas, 
+If really getting fancy, could add chopped parsley. If using persian cucumbers prep 2-3 instead of 1. For chickpeas, 
 I prefer *Goya* brand. 

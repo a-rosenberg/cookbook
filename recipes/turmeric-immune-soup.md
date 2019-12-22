@@ -27,11 +27,11 @@
 ### instructions
 1. Heat a broad based pot over medium high heat.  Add olive oil, then onion, carrot and celery.  Cook until onion is 
 very translucent, about 5-10 minutes. Add garlic, ginger, turmeric and chili flakes and cook until fragrant, about a 
-minute.  Add broth and bring to boil.
-2. Once at a low boil, add orzo and cook stirring intermittently until almost al dente; 7-10 minutes.  In a small bowl, 
+minute.  Add broth and bring to boil. 
+1. Once at a low boil, add orzo and cook stirring intermittently until almost al dente; 7-10 minutes.  In a small bowl, 
 combine miso paste and vinegar.  Ladle in 2-3 Tbsp broth and stir until dissolved.  Add back into pot, then take off 
-heat.  
-3. Check seasoning and add salt or pepper as needed. Stir in parsley and serve.  
+heat.
+1. Check seasoning and add salt or pepper as needed. Stir in parsley and serve.  
 
 ### notes
 Goes well with a crusty bread. Also stores well, but orzo will get plump and absorb 

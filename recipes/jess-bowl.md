@@ -29,7 +29,7 @@
 
 ### instructions
 1. Cook rice in a rice cooker on brown setting or on the stove.
-1. Heat oven to 400 degress. Peel sweet potatoes and cut into 3/4" cubes. Toss in a 1-2 Tbsp neutral oil with a 
+1. Heat oven to 400F. Peel sweet potatoes and cut into 3/4" cubes. Toss in a 1-2 Tbsp neutral oil with a 
 sprinkle of salt. Cut off top of delicata squash, slice length-wise, scoop out inards, and slice into 1/2" wide 
 half moons. Again, toss in a neutral oil with a sprinkle of salt. Using one large or two smaller trays, spread 
 out sweet potatoes and delicata squash. Roast for 20 minutes, until browning underneath. Flip and toss. Roast for 
