@@ -1,6 +1,6 @@
 <p align="right">12.31.2017</p>
 
-<h1 align="center">breakfast sammy</h1>
+<h1 align="center">open faced breakfast sammy</h1>
 
 <div align="center">
   <a href="#ingredients">ingredients</a> | 
