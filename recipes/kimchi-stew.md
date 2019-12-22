@@ -11,19 +11,13 @@
 
 ### ingredients
 - 2.5 cups short grain white rice
-
-
 - 1 handful dried shitake mushrooms
 - 3 cups hot water
-
-
 - 2 persian cucumbers (or 1 larger cucumber)
 - 3 Tbsp rice vinegar
 - 1.5 Tbsp tamari
 - 1/2 tsp gochugaru
 - 1 tsp white sesame seeds
-
-
 - 2 cups kimchi (chopped)
 - ~ 1/4 cup kimchi juice
 - 1 white or sweet onion (sliced vertically)
