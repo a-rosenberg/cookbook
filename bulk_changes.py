@@ -48,10 +48,10 @@ def list_ingredients(data):
     recipe = re.findall("<h1.*>(.+)</h1>", data)
     if recipe:
         ingredients = re.findall("- (.*)", data)
-        print recipe[0]
+        print(recipe[0])
         for ingredient in ingredients:
-            print 'ingredient:', ingredient
-        print
+            print('ingredient:', ingredient)
+        print()
     return data
 
 
