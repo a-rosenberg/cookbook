@@ -16,7 +16,6 @@
 - 1/2 cup cilantro; chopped
 - 1 pinch salt
 - 1-2 Tbsp neutral oil
-
 - tortillas
 - 2 sweet potatoes; small to medium dice
 - 2 cans black beans with liquid 

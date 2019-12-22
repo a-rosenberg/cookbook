@@ -15,7 +15,6 @@
 - 1/2 teaspoon garlic powder
 - 1/2 teaspoon cumin
 - 2-3 bay leaves
-
 - sliced avocado 
 - shake cayenne pepper
 - torn cilantro
