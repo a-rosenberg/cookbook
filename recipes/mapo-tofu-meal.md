@@ -11,8 +11,6 @@
 
 ### ingredients
 - 4 Cups jasmine rice; cooked in rice cooker
-
-smashed cucumnber 
 - 2 full size english cucumbers (or 6 persian cucumbers)
 - 1.5 Tbsp rice vinegar 
 - 2 tsp tamari or soy sauce 
@@ -22,8 +20,6 @@ smashed cucumnber
 - 2 tbsp sugar
 - 1 pinch of gochugaru or red pepper flakes (to taste)
 - sesame seeds (white, black or both); for garnish
-
-mapo tofu
 - 2 oz dried shitake mushrooms
 - 5 Cups room temperature water
 - 12 oz crimini mushrooms
