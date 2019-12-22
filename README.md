@@ -10,3 +10,5 @@ Assuming OS X operating system:
 ## Create Book
 `python create_book.py` uses the markdown files in `./recipes` (ignores `./development` where recipes in
 development live) and the `titlesec.tex` LaTex file as input.  Outputs an updated `recipe-book.pdf` file.
+
+Book can be viewed in GitHub [here](/recipe-book.pdf)
