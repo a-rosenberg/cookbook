@@ -1,4 +1,4 @@
-<p align="right">02.09.2018</p>
+<p align="right">2.9.2018</p>
 
 <h1 align="center">daily daal</h1>
 
@@ -24,7 +24,7 @@
 - 1 14oz can plum tomatoes
 - cayenne pepper (optional)
 - handful of cilantro; rinsed and roughly chopped (optional)
-- one recipe [basmati rice](https://github.com/a-rosenberg/cookbook/blob/master/recipes/basmati-steamed.md)
+- one recipe basmati rice
 - lemon (optional)
 
 
@@ -47,3 +47,4 @@ Add cayenne if it could use some spice.  Add lemon juice for acid if needed.
 
 ### Notes
 Might want to remove cloves and peppercorns before serving if they're too powerful.
+
