@@ -1,4 +1,4 @@
-<p align="right">12.31.2017</p>
+<p align="right">3.8.2017</p>
 
 <h1 align="center">open faced breakfast sammy</h1>
 
@@ -12,18 +12,21 @@
 ### ingredients
 - 1 slice of sourdough bread
 - 1 cup of uncooked spinach
-- 2 thin slices of "unexpected cheddar" (found at Trader Joe's)
+- 2 thin slices of "unexpected cheddar" (Trader Joe's)
 - 1 egg
-- 1-2 tbsp neutral oil
+- 1-2 Tbsp neutral oil
 - 1 tsp olive oil
 - kosher salt
 - ground pepper
 
 ### instructions
 1. Toast sourdough bread. 
-2. While bread is toasting, heat pan to medium heat and add 1-2 tbsp of neutral oil to the pan. Once heated, add spinach to one side of pan and crack an egg on the other side.
-3. Allow egg to cook until the white congeals and the inside is somewhere between runny and molten. While egg is cooking, make sure to toss spinach to ensure it cooks evenly.
-4. Assemble sandwich. Drizzle olive oil over bread. Layer the cheese, spinach, and fried egg. Add a sprinkle of salt and a dash of pepper.
+2. While bread is toasting, heat pan to medium heat and add 1-2 Tbsp of neutral oil to the pan. Once heated, add 
+spinach to one side of pan and crack an egg on the other side.
+3. Allow egg to cook until the white congeals and the inside is somewhere between runny and molten. While egg is 
+cooking, make sure to toss spinach to ensure it cooks evenly.
+4. Assemble sandwich. Drizzle olive oil over bread. Layer the cheese, spinach, and fried egg. Add a sprinkle of salt 
+and a dash of pepper.
 
 ### notes
 Delicious served on own or with a side of fruit. 

@@ -1,4 +1,4 @@
-<p align="right">12.31.2017</p>
+<p align="right">12.20.2018</p>
 
 <h1 align="center">cilantro lime burritos</h1>
 
@@ -16,14 +16,15 @@
 - 1/2 cup cilantro; chopped
 - 1 pinch salt
 - 1-2 Tbsp neutral oil
-- tortillas
+- tortillas, large, about 10"
 - 2 sweet potatoes; small to medium dice
 - 2 cans black beans with liquid 
 - 2 garlic cloves; lightly crushed
 - 3 springs cilantro; whole
-- shredded cheese (pepperjack is nice)
+- shredded cheese (pepper-jack is nice)
 - red salsa
-- sriracha (optional) 
+- hot sauce (optional)
+- nutritional yeast (optional) 
 
 ### instructions
 1. Cook short grain rice in rice cooker with bay leaves and correct amount of water.  Once finished, remove leaves, add juice of 1/2 lime, cilantro, salt and neutral oil.  Taste the rice and adjust as necessary.
@@ -32,5 +33,5 @@
 4.  Heat tortilla until it is supple and almost too hot to handle.  Lay on a plate and pile on the rice, then beans, then sweet potato.  Top with salsa and cheese.  Burrito roll it and serve hot. 
 
 ### notes
-Keep the main ingredients in the fridge and assmeble each burrito when ready for cooking. 
+If not serving immediately, keep the main ingredients in the fridge and assemble each burrito when ready for cooking. 
 

@@ -10,19 +10,19 @@
 <br>
 
 ### ingredients
-- 1 tbsp fresh ginger; minced
-- 1 small garlic clove; minced
-- 2 tbsp light (shiro) yellow miso
-- 2 tbsp tahini
-- 1 tbsp honey (or maple syrup)
+- 1 Tbsp fresh ginger; chopped
+- 1 small garlic clove; chopped
+- 2 Tbsp light (shiro) yellow miso
+- 2 Tbsp tahini
+- 1 scant Tbsp honey (or maple syrup)
 - 1/4 cup rice vinegar
-- 2 tbsp toasted sesame oil
-- 2 tbsp olive oil
+- 2 Tbsp toasted sesame oil
+- 2 Tbsp olive oil
 
 ### instructions
 1. Combine everything in a blender and run until smooth, scraping  down sides once. 
 2. Taste and adjust as needed.
 
 ### notes
-Stores well.
+Stores well.  This is an acceptably sized small batch, but there isn't much reason not to double this recipe. 
 

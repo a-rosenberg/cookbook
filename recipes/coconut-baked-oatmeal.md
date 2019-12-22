@@ -1,4 +1,4 @@
-<p align="right">12.31.2017</p>
+<p align="right">9.18.2018</p>
 
 <h1 align="center">coconut baked oatmeal</h1>
 
@@ -24,9 +24,11 @@
 - coconut whipped cream (optional)
 
 ### instructions
-1. Preheat the oven to 375 degrees (without convection) and melt coconut oil (or replacement) to grease baking dish.
-2. Smash bananas in large mixing bowl. Combine all ingredients up to rolled oats and mix well.  Spoon in oats and stir to combine.
-3. Bake for 45 minutes at 375F.  Remove and let cool for a couple minutes before digging in.  Optionally, top with fruit and whipped coconut cream.
+1. Preheat the oven to 375F (without convection) and melt coconut oil (or replacement) to grease baking dish.
+1. Smash bananas in large mixing bowl. Combine all ingredients up to rolled oats and mix well.  Spoon in oats and 
+stir to combine.
+1. Bake for 45 minutes.  Remove and let cool for a couple minutes before digging in.  Optionally, top with fruit and 
+coconut whipped cream.
 
 ### notes
-Can be served warm or cold.
+Can be served warm or cold. Keeps for a few days in the fridge.

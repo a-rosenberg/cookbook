@@ -11,8 +11,9 @@
 
 ### ingredients
 - 1.5 cup whole wheat couscous
-- 1 cucumber; mushy core removed, small dice
-- 0.5 lb (1 carton?) good cherry tomatoes; cut in half
+- 1 english cucumber; small dice
+- 1 small carton good cherry tomatoes; cut in half
+- 1 red pepper; small dice (optional, as a replacement for tomatoes)
 - 1 can garbanzo beans; drained
 - 1/4 cup (or more) italian dressing
 - 1 avocado (optional as topping)
@@ -24,4 +25,5 @@
 3. Top couscous with veggie salad.  Top that with optional sliced avocados.  Add more dressing if necessary.
 
 ### notes
-If really getting fancy, could add chopped parsley.
+If really getting fancy, could add chopped parsley. If using persian cucumbers prep 2-3 instead of 1. For chickopeas, 
+I prefer *Goya* brand. 

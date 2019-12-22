@@ -1,6 +1,6 @@
 <p align="right">11.3.2019</p>
 
-<h1 align="center">mung bean pancake batter</h1>
+<h1 align="center">mung bean korean pancake batter</h1>
 
 <div align="center">
   <a href="#ingredients">ingredients</a> | 
@@ -11,7 +11,7 @@
 
 ### ingredients
 - 1 cup split yellow mung beans
-- 2.5 cups of water
+- 2.5 cups of water; separated
 
 ### instructions
 1. Place the beans and 2 cups of the water in a medium bowl and 

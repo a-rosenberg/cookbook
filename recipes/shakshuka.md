@@ -23,14 +23,21 @@
 - olive oil and pepper to finsih
 
 ### instructions
-1. Heat a 12-14" pan on medium heat. Add onions, peppers, a few tablespoons of olive oil and a small pinch of salt and cook until transluscent and just beginning to brown. 
-2. Add the garlic and cook for 30 seconds. Add the cumin and smoked paprika and cook for 30 more. Dump in the tomatoes and crush with a wooden spoon until it resembles a chunky pasta sauce. Bring to a boil then reduce to low and simmer for approximately 15 minutes, stirring occasionally to prevent the sauce from burning at the bottom, until it is the consistency of oatmeal. 
-3. This is a good time to taste the sauce and season it until it tastes right. 
-4. Distribute the eggs evenly over the surface and spoon the sauce over some of the egg white before covering. Cook for 5-10 minutes checking for the eggs to be completely cooked like it is poached. 
-5. Once the eggs are just about cooked, remove from heat and sprinkle with feta and parsley, a light drizzle of a good olive and a few cracks of pepper. Serve with pitas, naan, or a baguette.
+1. Heat a 12-14" pan on medium heat. Add onions, peppers, a few tablespoons of olive oil and a small pinch of salt and 
+cook until onions are translucent and just beginning to brown. 
+1. Add the garlic and cook for 30 seconds. Add the cumin and smoked paprika and cook for 30 more. Dump in the tomatoes
+and crush with a wooden spoon until it resembles a chunky pasta sauce. Bring to a boil then reduce to low and simmer 
+for approximately 15 minutes, stirring occasionally to prevent the sauce from burning at the bottom, until it is the 
+consistency of oatmeal. 
+1. This is a good time to taste the sauce and season it until it's right. 
+1. Create egg divots with the back of a spoon and distribute the eggs into the divots. Spoon the sauce over some of the 
+egg white before covering. Cook for 5-10 minutes checking for the eggs to be completely cooked like it is poached. 
+1. Once the eggs are just about cooked, remove from heat and sprinkle with feta and parsley, a light drizzle of a good 
+olive and a few cracks of pepper.
 
 ### notes
-Goes well with baguette or budget bytes [naan](https://www.budgetbytes.com/2010/09/naan/) recipe.
+Goes well with baguette or naan.  Can add lots of different veggies to the base: carrots, radishes, green beans, 
+eggplant, etc. Also goes well with a drizzle of tahini sauce.
 
 
 

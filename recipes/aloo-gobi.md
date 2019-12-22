@@ -11,9 +11,10 @@
 
 ### ingredients
 - 1 head cauliflower; cut into big size florets
-- 1-2 russet potato; large dice
+- 1-2 russet potato, about 1 lb; large dice
+- 1-2 Tbsp neutral oil
 - 1" ginger root; peeled and minced
-- 1 serrano; super small dice, deseeded if preffered
+- 1 serrano; small dice, deseeded if preferred
 - 3-4 on the vine tomatoes; diced
 - 1 cup green peas
 - 1 tsp ground cumin
@@ -28,14 +29,14 @@
 ### instructions
 1. Preheat the oven to 400°F. Toss cauliflower florets and potatoes with a couple tbsp neutral oil. Spread on baking sheet. 
 Roast until caramelized and mostly tender, 20-30 minutes, tossing halfway through.
-2. Heat a couple tbsp neutral oil in small stainless-steel skillet until shimmering. Add ginger and serrano chilis and 
-cook, stirring frequently, until fragrant, about 1 minute. Add cumin, garam masala, coriander, turmeric, cayenne, and 
-pinch of salt. Allow spices to toast in oil, being careful not to burn, for at least one minute. Add 
+1. Heat a couple tbsp neutral oil in small stainless-steel skillet until shimmering. Add ginger and serrano chilis and 
+cook, stirring frequently, until fragrant. About 1 minute. Add cumin, garam masala, coriander, turmeric, cayenne, and 
+pinch of salt. Allow spices to toast in oil, being careful not to burn, for about one minute. Add 
 roasted cauliflower and potato and toss well in spices. Cook for an additional 2 minutes, then add tomatoes. Cook until 
-thickened and fragrant, about 5 minutes. 
-3. Add green peas and cook until warmed through - test some to make sure they're good. 
+thickened and fragrant, about 5 minutes more. 
+1. Add green peas and cook until warmed through - test some to make sure they're good. 
 Adjust seasoning to taste with salt, lemon and additional garam masala or cayenne.
-4. Stir in cilantro and serve with rice, passing lemon wedges tableside.
+1. Stir in cilantro and serve with rice, passing lemon wedges tableside.
 
 ### notes
-Would work well with roti or naan too.  Goes great with Cinnamon Clove Cashew Pilaf.
+Would work well with roti or naan too.  Check out steamed basmati recipe.

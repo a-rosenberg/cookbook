@@ -1,4 +1,4 @@
-<p align="right">12.31.2017</p>
+<p align="right">7.21.2017</p>
 
 <h1 align="center">food processor pasta dough</h1>
 
@@ -13,14 +13,15 @@
 - 3 eggs
 - 1/2 tsp salt
 - 2 cups all purpose flour
-- 1 tbsp olive oil
+- 1 Tbsp olive oil
 
 ### instructions
 1. Pulse salt and flour in a food processor. 
-2. Add eggs and olive oil to bowl and process for 30-60 seconds.  The contents should come together into a large ball.  
+1. Add eggs and olive oil to bowl and process for 30-60 seconds.  The contents should come together into a large ball.  
 If the dough isn't coming coming together add water 1 tbsp at a time and process again for 15 seconds.
-3. Once you have a ball, plop the dough onto a cutting board and knead until the ball is relatively smooth and soft.
-4. Cover the dough with plastic wrap and let rest for 30 minutes.  Once rested it is ready to be rolled into whatever style pasta you'd like
+1. Once you have a ball, plop the dough onto a cutting board and knead until the ball is relatively smooth and soft.  
+This is typically a minute or two.
+1. Cover the dough with plastic wrap and let rest for 30 minutes.  Once rested it is ready to be rolled into whatever style pasta you'd like
 
 ### notes
-For a more decandent pasta, replace one whole egg with two yolks.
+For a more decadent pasta, replace one whole egg with two yolks.

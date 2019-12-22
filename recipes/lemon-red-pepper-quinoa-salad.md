@@ -26,13 +26,14 @@
 - 1/2 tsp kosher salt
 
 ### instructions
-1. Cook the quinoa.  Thoroughly rinse dry quinoa while heating oil in medium pot over medium heat.  When quinoa washed and pan hot, 
-add drained quinoa and cook stirring to toast as the remaining water evaporates - about 2-3 minutes.  Stir in water and salt and bring 
-to a rolling boil.  Reduce heat to the lowest setting and cover the pot.  Cook for 15 minutes, then take off heat and let sit, unopened, for 
-5 more minutes.  Fluff with a fork and allow to cool some. 
-2. Prep and combine the ingredients from cucumber to parsley in a large mixing bowl.
-3. Make the dressing.  Combine ingredients from olive oil to kosher salt in a mason jar.  Put on the lid and give it a good shake.
-4. Once the quinoa has cooled a bit as to not cook the veggies, add to the mixing bowl and stir to mix.  Shake the dressing again and pour 
+1. Cook the quinoa. Thoroughly rinse dry quinoa while heating oil in medium sized pot over medium heat.  When quinoa 
+are washed  and pan hot, add drained quinoa and cook stirring to toast as the remaining water evaporates - about 2-3 
+minutes. Stir in water and salt and bring to a rolling boil.  Reduce heat to the lowest setting and cover the pot.  
+Cook for 15 minutes without removing the top, then take off heat and let sit, unopened, for 5 more minutes.  
+Fluff with a fork and allow to cool some. 
+1. While quinoa cooks, prep and combine the ingredients from cucumber to parsley in a large mixing bowl.
+1. Make the dressing. Combine ingredients from olive oil to kosher salt in a mason jar.  Put on the lid and give it a good shake.
+1. Once the quinoa has cooled a bit as to not cook the veggies, add to the mixing bowl and stir to mix.  Shake the dressing again and pour 
 over the mixture while stirring.  It's good now a little warm, and will be good cold out of the fridge for another few days.
 
 ### notes
