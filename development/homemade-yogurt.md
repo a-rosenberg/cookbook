@@ -1,6 +1,6 @@
 <p align="right">12.25.2019</p>
 
-<h1 align="center">homemade-yogurt</h1>
+<h1 align="center">homemade yogurt</h1>
 
 <div align="center">
   <a href="#ingredients">ingredients</a> | 
