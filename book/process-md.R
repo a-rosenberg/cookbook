@@ -13,9 +13,9 @@ ff <- stringr::str_c(1:length(ff), "-", ff, ".Rmd")
 
 dir.create('tmp')
 
-ff <- str_c('tmp/', ff)
+ffo <- str_c('tmp/', ff)
 
-file.copy(from = fo, to = ff)
+file.copy(from = fo, to = ffo)
 
 ## add necessary level-1 headers to md files in `/book`
 
@@ -30,5 +30,7 @@ add_correct_header <- function(file) {
   write_lines(lines_of_file, file)
 }
 
-ff %>% 
+ffo %>% 
   map(add_correct_header)
+
+file.copy(from = ffo, to = ff)
