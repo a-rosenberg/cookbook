@@ -1,0 +1,25 @@
+<p align="right">11.3.2019</p>
+
+<h1 align="center">mung bean korean pancake batter</h1>
+
+<div align="center">
+  <a href="#ingredients">ingredients</a> | 
+  <a href="#instructions">instructions</a> | 
+  <a href="#notes">notes</a>
+</div>
+<br>
+
+### ingredients
+- 1 cup split yellow mung beans
+- 2.5 cups of water; separated
+
+### instructions
+1. Place the beans and 2 cups of the water in a medium bowl and 
+soak for 1 hour. They should increase in volume by about 50 percent.
+1. Drain the beans, then place in a blender. Add the remaining 1/2 cup 
+water. Blend on high speed until the mixture is very smooth, 15 to 30 seconds. 
+1. Season before cooking.  Do not add salt until ready to cook.
+
+### notes
+You can make this mixture and refrigerate, covered, for up to 3 days.  Can add kimchi, sauerkraut, green onions, sprouted
+mung beans, tamari, fish sauce, etc.
