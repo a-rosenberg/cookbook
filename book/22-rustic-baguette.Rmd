@@ -1,3 +1,5 @@
+# rustic baguette
+
 <p align="right">9.27.2018</p>
 
 <h1 align="center">rustic baguettes</h1>
@@ -8,8 +10,6 @@
   <a href="#notes">notes</a>
 </div>
 <br>
-# rustic baguette
-# rustic baguette
 
 ### ingredients
 - 680 grams lukewarm water; less than 100F

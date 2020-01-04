@@ -1,3 +1,5 @@
+# cilantro lime burritos
+
 <p align="right">12.20.2018</p>
 
 <h1 align="center">cilantro lime burritos</h1>
@@ -8,9 +10,6 @@
   <a href="#notes">notes</a>
 </div>
 <br>
-# cilantro lime burritos
-# cilantro lime burritos
-# cilantro lime burritos
 
 ### ingredients
 - 2.5 cups dry short grain brown rice

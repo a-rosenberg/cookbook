@@ -1,3 +1,5 @@
+# jess bowl
+
 <p align="right">4.11.2018</p>
 
 <h1 align="center">jess bowl</h1>
@@ -8,8 +10,6 @@
   <a href="#notes">notes</a>
 </div>
 <br>
-# jess bowl
-# jess bowl
 
 ### ingredients
 - neutral oil

@@ -1,3 +1,5 @@
+# coconut rice
+
 <p align="right">6.21.2019</p>
 
 <h1 align="center">coconut rice</h1>
@@ -8,8 +10,6 @@
   <a href="#notes">notes</a>
 </div>
 <br>
-# coconut rice
-# coconut rice
 
 ### ingredients
 - 2 cup jasmine rice; thoroughly rinsed

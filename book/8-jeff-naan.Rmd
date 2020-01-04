@@ -1,3 +1,5 @@
+# jeff naan
+
 <p align="right">2.2.2016</p>
 
 <h1 align="center">jeff's naan</h1>
@@ -8,8 +10,6 @@
   <a href="#notes">notes</a>
 </div>
 <br>
-# jeff naan
-# jeff naan
 
 ### ingredients
 - 2 tsp dry active yeast

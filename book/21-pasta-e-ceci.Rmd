@@ -1,3 +1,5 @@
+# pasta e ceci
+
 <p align="right">7.11.2019</p>
 
 <h1 align="center">pasta e ceci (pasta and chickpea soup)</h1>
@@ -8,8 +10,6 @@
   <a href="#notes">notes</a>
 </div>
 <br>
-# pasta e ceci
-# pasta e ceci
 
 ### ingredients
 - 3 Tbsp olive oil

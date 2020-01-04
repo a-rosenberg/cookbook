@@ -1,3 +1,5 @@
+# morning smoothie
+
 <p align="right">5.29.2017</p>
 
 <h1 align="center">morning banana smoothie</h1>
@@ -8,8 +10,6 @@
   <a href="#notes">notes</a>
 </div>
 <br>
-# morning smoothie
-# morning smoothie
 
 ### ingredients
 - 1 peeled; previously frozen banana

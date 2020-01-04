@@ -1,3 +1,5 @@
+# lemon red pepper quinoa salad
+
 <p align="right">9.6.2018</p>
 
 <h1 align="center">lemon red pepper quinoa salad</h1>
@@ -8,8 +10,6 @@
   <a href="#notes">notes</a>
 </div>
 <br>
-# lemon red pepper quinoa salad
-# lemon red pepper quinoa salad
 
 ### ingredients
 - 1 cup dry quinoa (about 3 cups cooked)

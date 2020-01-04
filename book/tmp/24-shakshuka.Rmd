@@ -1,3 +1,5 @@
+# shakshuka
+
 <p align="right">12.31.2017</p>
 
 <h1 align="center">shakshuka</h1>
@@ -8,8 +10,6 @@
   <a href="#notes">notes</a> | 
 </div>
 <br>
-# shakshuka
-# shakshuka
 
 ### ingredients
 - 1 medium onion; small dice

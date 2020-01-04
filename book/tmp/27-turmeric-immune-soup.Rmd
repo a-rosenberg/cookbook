@@ -1,3 +1,5 @@
+# turmeric immune soup
+
 <p align="right">11.5.2018</p>
 
 <h1 align="center">turmeric immune soup</h1>
@@ -8,8 +10,6 @@
   <a href="#notes">notes</a>
 </div>
 <br>
-# turmeric immune soup
-# turmeric immune soup
 
 ### ingredients
 - 2 tsp olive oil

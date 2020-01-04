@@ -1,3 +1,5 @@
+# mustard arugula farm salad
+
 <p align="right">12.27.2018</p>
 
 <h1 align="center">mustard arugula farm salad</h1>
@@ -8,8 +10,6 @@
   <a href="#notes">notes</a>
 </div>
 <br>
-# mustard arugula farm salad
-# mustard arugula farm salad
 
 ### ingredients
 - 2 Tbsp dijon mustard

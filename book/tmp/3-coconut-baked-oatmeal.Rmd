@@ -1,3 +1,5 @@
+# coconut baked oatmeal
+
 <p align="right">9.18.2018</p>
 
 <h1 align="center">coconut baked oatmeal</h1>
@@ -8,8 +10,6 @@
   <a href="#notes">notes</a>
 </div>
 <br>
-# coconut baked oatmeal
-# coconut baked oatmeal
 
 ### ingredients
 - 1 Tbsp coconut oil (or other neutral oil to grease baking pan)

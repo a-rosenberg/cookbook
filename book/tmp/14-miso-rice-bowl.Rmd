@@ -1,3 +1,5 @@
+# miso rice bowl
+
 <p align="right">12.31.2017</p>
 
 <h1 align="center">miso rice bowl</h1>
@@ -8,8 +10,6 @@
   <a href="#notes">notes</a> | 
 </div>
 <br>
-# miso rice bowl
-# miso rice bowl
 
 ### ingredients
 - 3/4 cup of brown rice 

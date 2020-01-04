@@ -1,3 +1,5 @@
+# food processor pasta
+
 <p align="right">7.21.2017</p>
 
 <h1 align="center">food processor pasta dough</h1>
@@ -8,8 +10,6 @@
   <a href="#notes">notes</a>
 </div>
 <br>
-# food processor pasta
-# food processor pasta
 
 ### ingredients
 - 3 eggs

@@ -1,3 +1,5 @@
+# salt brine pickles
+
 <p align="right">1.2.2020</p>
 
 <h1 align="center">salt brine fermented pickles</h1>
@@ -8,8 +10,6 @@
   <a href="#notes">notes</a>
 </div>
 <br>
-# salt brine pickles
-# salt brine pickles
 
 ### ingredients
 - 2 TB salt

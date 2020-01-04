@@ -1,3 +1,5 @@
+# daily daal
+
 <p align="right">2.9.2018</p>
 
 <h1 align="center">daily daal</h1>
@@ -8,8 +10,6 @@
   <a href="#notes">notes</a>
 </div>
 <br>
-# daily daal
-# daily daal
 
 ### ingredients
 - 8 oz red lentils (about 1 heaping cup)

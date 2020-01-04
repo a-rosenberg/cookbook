@@ -1,3 +1,5 @@
+# aloo gobi
+
 <p align="right">2.6.2018</p>
 
 <h1 align="center">aloo gobi</h1>
@@ -8,10 +10,6 @@
   <a href="#notes">notes</a>
 </div>
 <br>
-# aloo gobi
-# aloo gobi
-# aloo gobi
-# aloo gobi
 
 ### ingredients
 - 1 head cauliflower; cut into big size florets

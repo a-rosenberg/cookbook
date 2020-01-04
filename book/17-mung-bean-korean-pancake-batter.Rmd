@@ -1,3 +1,5 @@
+# mung bean korean pancake batter
+
 <p align="right">11.3.2019</p>
 
 <h1 align="center">mung bean korean pancake batter</h1>
@@ -8,8 +10,6 @@
   <a href="#notes">notes</a>
 </div>
 <br>
-# mung bean korean pancake batter
-# mung bean korean pancake batter
 
 ### ingredients
 - 1 cup split yellow mung beans

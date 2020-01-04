@@ -1,3 +1,5 @@
+# sweet potato bisque
+
 <p align="right">12.21.2019</p>
 
 <h1 align="center">sweet potato bisque</h1>
@@ -8,8 +10,6 @@
   <a href="#notes">notes</a>
 </div>
 <br>
-# sweet potato bisque
-# sweet potato bisque
 
 ### ingredients
 - 2 Tbsp coconut oil (or other neutral oil)

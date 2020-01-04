@@ -15,7 +15,7 @@ dir.create('tmp')
 
 ffo <- str_c('tmp/', ff)
 
-file.copy(from = fo, to = ffo)
+file.copy(from = fo, to = ffo, overwrite = TRUE)
 
 ## add necessary level-1 headers to md files in `/book`
 
@@ -26,11 +26,12 @@ add_correct_header <- function(file) {
   l1_header <- str_c(split_names, collapse = " ")
   l1_header <- str_sub(l1_header, end = -5)
   l1_header <- str_c("# ", l1_header)
-  lines_of_file <- append(lines_of_file, l1_header, after = 10)
+  lines_of_file <- append(lines_of_file, "", after = 0)
+  lines_of_file <- append(lines_of_file, l1_header, after = 0)
   write_lines(lines_of_file, file)
 }
 
 ffo %>% 
   map(add_correct_header)
 
-file.copy(from = ffo, to = ff)
+file.copy(from = ffo, to = ff, overwrite = TRUE)

@@ -1,3 +1,5 @@
+# mushroom risotto
+
 <p align="right">5.1.2017</p>
 
 <h1 align="center">pressure cooker mushroom risotto</h1>
@@ -8,8 +10,6 @@
   <a href="#notes">notes</a>
 </div>
 <br>
-# mushroom risotto
-# mushroom risotto
 
 ### ingredients
 - 4 cups vegetable stock

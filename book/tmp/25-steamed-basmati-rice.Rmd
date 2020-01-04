@@ -1,3 +1,5 @@
+# steamed basmati rice
+
 <p align="right">2.9.2018</p>
 
 <h1 align="center">steamed basmati rice</h1>
@@ -8,8 +10,6 @@
   <a href="#notes">notes</a>
 </div>
 <br>
-# steamed basmati rice
-# steamed basmati rice
 
 ### ingredients
 - 1 cup basmati rice
