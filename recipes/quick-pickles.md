@@ -1,6 +1,6 @@
 <p align="right">1.7.2020</p>
 
-<h1 align="center">quick pickle brine</h1>
+<h1 align="center">quick pickles</h1>
 
 <div align="center">
   <a href="#ingredients">ingredients</a> | 
