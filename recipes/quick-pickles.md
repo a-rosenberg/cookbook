@@ -10,7 +10,7 @@
 <br>
 
 ### ingredients
-- 1 mason jar full of chopped vegetables
+- 1 mason jar packed with vegetables
 - 1 cup hot tap water
 - 1/2 cup unseasoned rice vinegar
 - 5 Tbsp granulated sugar
@@ -18,7 +18,7 @@
 - 1 tsp corriander seeds (optional)
 
 ### instructions
-1. Combine all ingredients after mason jar and up to the corriander seeds in bowl and stir until salt and sugar are dissolved.
+1. Combine sugar, salt, vinegar and water in bowl and stir until dissolved.
 2. Pour into mason jar until vegetables are fully covered or brine reaches the top.  Add corriander if using.
 3. Place in fridge.  Can be eaten after a day or two.  Will be fully 'ready' after four days.  Will keep for a month.
 
