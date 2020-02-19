@@ -1,0 +1,1608 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Cookbook Book</title>
+  <meta name="description" content="TA book version of Aaron Rosenberg’s cookbook (https://github.com/a-rosenberg/cookbook)" />
+  <meta name="generator" content="bookdown 0.16 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Cookbook Book" />
+  <meta property="og:type" content="book" />
+  
+  
+  <meta property="og:description" content="TA book version of Aaron Rosenberg’s cookbook (https://github.com/a-rosenberg/cookbook)" />
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Cookbook Book" />
+  
+  <meta name="twitter:description" content="TA book version of Aaron Rosenberg’s cookbook (https://github.com/a-rosenberg/cookbook)" />
+  
+
+<meta name="author" content="" />
+
+
+<meta name="date" content="2020-01-04" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+
+
+<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">A Minimal Book Example</a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="0.0.1" data-path=""><a href="#ingredients"><i class="fa fa-check"></i><b>0.0.1</b> ingredients</a></li>
+<li class="chapter" data-level="0.0.2" data-path=""><a href="#instructions"><i class="fa fa-check"></i><b>0.0.2</b> instructions</a></li>
+<li class="chapter" data-level="0.0.3" data-path=""><a href="#notes"><i class="fa fa-check"></i><b>0.0.3</b> notes</a></li>
+<li class="chapter" data-level="0.0.4" data-path=""><a href="#ingredients-1"><i class="fa fa-check"></i><b>0.0.4</b> ingredients</a></li>
+<li class="chapter" data-level="0.0.5" data-path=""><a href="#instructions-1"><i class="fa fa-check"></i><b>0.0.5</b> instructions</a></li>
+<li class="chapter" data-level="0.0.6" data-path=""><a href="#notes-1"><i class="fa fa-check"></i><b>0.0.6</b> notes</a></li>
+<li class="chapter" data-level="0.0.7" data-path=""><a href="#ingredients-2"><i class="fa fa-check"></i><b>0.0.7</b> ingredients</a></li>
+<li class="chapter" data-level="0.0.8" data-path=""><a href="#instructions-2"><i class="fa fa-check"></i><b>0.0.8</b> instructions</a></li>
+<li class="chapter" data-level="0.0.9" data-path=""><a href="#notes-2"><i class="fa fa-check"></i><b>0.0.9</b> notes</a></li>
+<li class="chapter" data-level="0.0.10" data-path=""><a href="#ingredients-3"><i class="fa fa-check"></i><b>0.0.10</b> ingredients</a></li>
+<li class="chapter" data-level="0.0.11" data-path=""><a href="#instructions-3"><i class="fa fa-check"></i><b>0.0.11</b> instructions</a></li>
+<li class="chapter" data-level="0.0.12" data-path=""><a href="#notes-3"><i class="fa fa-check"></i><b>0.0.12</b> notes</a></li>
+<li class="chapter" data-level="0.0.13" data-path=""><a href="#ingredients-4"><i class="fa fa-check"></i><b>0.0.13</b> ingredients</a></li>
+<li class="chapter" data-level="0.0.14" data-path=""><a href="#instructions-4"><i class="fa fa-check"></i><b>0.0.14</b> instructions</a></li>
+<li class="chapter" data-level="0.0.15" data-path=""><a href="#notes-4"><i class="fa fa-check"></i><b>0.0.15</b> notes</a></li>
+<li class="chapter" data-level="0.0.16" data-path=""><a href="#ingredients-5"><i class="fa fa-check"></i><b>0.0.16</b> ingredients</a></li>
+<li class="chapter" data-level="0.0.17" data-path=""><a href="#instructions-5"><i class="fa fa-check"></i><b>0.0.17</b> instructions</a></li>
+<li class="chapter" data-level="0.0.18" data-path=""><a href="#notes-5"><i class="fa fa-check"></i><b>0.0.18</b> notes</a></li>
+<li class="chapter" data-level="0.0.19" data-path=""><a href="#ingredients-6"><i class="fa fa-check"></i><b>0.0.19</b> ingredients</a></li>
+<li class="chapter" data-level="0.0.20" data-path=""><a href="#instructions-6"><i class="fa fa-check"></i><b>0.0.20</b> instructions</a></li>
+<li class="chapter" data-level="0.0.21" data-path=""><a href="#notes-6"><i class="fa fa-check"></i><b>0.0.21</b> notes</a></li>
+<li class="chapter" data-level="0.0.22" data-path=""><a href="#ingredients-7"><i class="fa fa-check"></i><b>0.0.22</b> ingredients</a></li>
+<li class="chapter" data-level="0.0.23" data-path=""><a href="#instructions-7"><i class="fa fa-check"></i><b>0.0.23</b> instructions</a></li>
+<li class="chapter" data-level="0.0.24" data-path=""><a href="#notes-7"><i class="fa fa-check"></i><b>0.0.24</b> notes</a></li>
+<li class="chapter" data-level="0.0.25" data-path=""><a href="#ingredients-8"><i class="fa fa-check"></i><b>0.0.25</b> ingredients</a></li>
+<li class="chapter" data-level="0.0.26" data-path=""><a href="#instructions-8"><i class="fa fa-check"></i><b>0.0.26</b> instructions</a></li>
+<li class="chapter" data-level="0.0.27" data-path=""><a href="#notes-8"><i class="fa fa-check"></i><b>0.0.27</b> notes</a></li>
+<li class="chapter" data-level="0.0.28" data-path=""><a href="#ingredients-9"><i class="fa fa-check"></i><b>0.0.28</b> ingredients</a></li>
+<li class="chapter" data-level="0.0.29" data-path=""><a href="#instructions-9"><i class="fa fa-check"></i><b>0.0.29</b> instructions</a></li>
+<li class="chapter" data-level="0.0.30" data-path=""><a href="#notes-9"><i class="fa fa-check"></i><b>0.0.30</b> notes</a></li>
+<li class="chapter" data-level="0.0.31" data-path=""><a href="#ingredients-10"><i class="fa fa-check"></i><b>0.0.31</b> ingredients</a></li>
+<li class="chapter" data-level="0.0.32" data-path=""><a href="#instructions-10"><i class="fa fa-check"></i><b>0.0.32</b> instructions</a></li>
+<li class="chapter" data-level="0.0.33" data-path=""><a href="#notes-10"><i class="fa fa-check"></i><b>0.0.33</b> notes</a></li>
+<li class="chapter" data-level="0.0.34" data-path=""><a href="#ingredients-11"><i class="fa fa-check"></i><b>0.0.34</b> ingredients</a></li>
+<li class="chapter" data-level="0.0.35" data-path=""><a href="#instructions-11"><i class="fa fa-check"></i><b>0.0.35</b> instructions</a></li>
+<li class="chapter" data-level="0.0.36" data-path=""><a href="#notes-11"><i class="fa fa-check"></i><b>0.0.36</b> notes</a></li>
+<li class="chapter" data-level="0.0.37" data-path=""><a href="#ingredients-12"><i class="fa fa-check"></i><b>0.0.37</b> ingredients</a></li>
+<li class="chapter" data-level="0.0.38" data-path=""><a href="#instructions-12"><i class="fa fa-check"></i><b>0.0.38</b> instructions</a></li>
+<li class="chapter" data-level="0.0.39" data-path=""><a href="#notes-12"><i class="fa fa-check"></i><b>0.0.39</b> notes</a></li>
+<li class="chapter" data-level="0.0.40" data-path=""><a href="#ingredients-13"><i class="fa fa-check"></i><b>0.0.40</b> ingredients</a></li>
+<li class="chapter" data-level="0.0.41" data-path=""><a href="#instructions-13"><i class="fa fa-check"></i><b>0.0.41</b> instructions</a></li>
+<li class="chapter" data-level="0.0.42" data-path=""><a href="#notes-13"><i class="fa fa-check"></i><b>0.0.42</b> notes</a></li>
+<li class="chapter" data-level="0.0.43" data-path=""><a href="#ingredients-14"><i class="fa fa-check"></i><b>0.0.43</b> ingredients</a></li>
+<li class="chapter" data-level="0.0.44" data-path=""><a href="#instructions-14"><i class="fa fa-check"></i><b>0.0.44</b> instructions</a></li>
+<li class="chapter" data-level="0.0.45" data-path=""><a href="#notes-14"><i class="fa fa-check"></i><b>0.0.45</b> notes</a></li>
+<li class="chapter" data-level="0.0.46" data-path=""><a href="#ingredients-15"><i class="fa fa-check"></i><b>0.0.46</b> ingredients</a></li>
+<li class="chapter" data-level="0.0.47" data-path=""><a href="#instructions-15"><i class="fa fa-check"></i><b>0.0.47</b> instructions</a></li>
+<li class="chapter" data-level="0.0.48" data-path=""><a href="#notes-15"><i class="fa fa-check"></i><b>0.0.48</b> notes</a></li>
+<li class="chapter" data-level="0.0.49" data-path=""><a href="#ingredients-16"><i class="fa fa-check"></i><b>0.0.49</b> ingredients</a></li>
+<li class="chapter" data-level="0.0.50" data-path=""><a href="#instructions-16"><i class="fa fa-check"></i><b>0.0.50</b> instructions</a></li>
+<li class="chapter" data-level="0.0.51" data-path=""><a href="#notes-16"><i class="fa fa-check"></i><b>0.0.51</b> notes</a></li>
+<li class="chapter" data-level="0.0.52" data-path=""><a href="#ingredients-17"><i class="fa fa-check"></i><b>0.0.52</b> ingredients</a></li>
+<li class="chapter" data-level="0.0.53" data-path=""><a href="#instructions-17"><i class="fa fa-check"></i><b>0.0.53</b> instructions</a></li>
+<li class="chapter" data-level="0.0.54" data-path=""><a href="#notes-17"><i class="fa fa-check"></i><b>0.0.54</b> notes</a></li>
+<li class="chapter" data-level="0.0.55" data-path=""><a href="#ingredients-18"><i class="fa fa-check"></i><b>0.0.55</b> ingredients</a></li>
+<li class="chapter" data-level="0.0.56" data-path=""><a href="#instructions-18"><i class="fa fa-check"></i><b>0.0.56</b> instructions</a></li>
+<li class="chapter" data-level="0.0.57" data-path=""><a href="#notes-18"><i class="fa fa-check"></i><b>0.0.57</b> notes</a></li>
+<li class="chapter" data-level="0.0.58" data-path=""><a href="#ingredients-19"><i class="fa fa-check"></i><b>0.0.58</b> ingredients</a></li>
+<li class="chapter" data-level="0.0.59" data-path=""><a href="#instructions-19"><i class="fa fa-check"></i><b>0.0.59</b> instructions</a></li>
+<li class="chapter" data-level="0.0.60" data-path=""><a href="#notes-19"><i class="fa fa-check"></i><b>0.0.60</b> notes</a></li>
+<li class="chapter" data-level="0.0.61" data-path=""><a href="#ingredients-20"><i class="fa fa-check"></i><b>0.0.61</b> ingredients</a></li>
+<li class="chapter" data-level="0.0.62" data-path=""><a href="#instructions-20"><i class="fa fa-check"></i><b>0.0.62</b> instructions</a></li>
+<li class="chapter" data-level="0.0.63" data-path=""><a href="#notes-20"><i class="fa fa-check"></i><b>0.0.63</b> notes</a></li>
+<li class="chapter" data-level="0.0.64" data-path=""><a href="#ingredients-21"><i class="fa fa-check"></i><b>0.0.64</b> ingredients</a></li>
+<li class="chapter" data-level="0.0.65" data-path=""><a href="#instructions-21"><i class="fa fa-check"></i><b>0.0.65</b> instructions</a></li>
+<li class="chapter" data-level="0.0.66" data-path=""><a href="#notes-21"><i class="fa fa-check"></i><b>0.0.66</b> notes</a></li>
+<li class="chapter" data-level="0.0.67" data-path=""><a href="#ingredients-22"><i class="fa fa-check"></i><b>0.0.67</b> ingredients</a></li>
+<li class="chapter" data-level="0.0.68" data-path=""><a href="#instructions-22"><i class="fa fa-check"></i><b>0.0.68</b> instructions</a></li>
+<li class="chapter" data-level="0.0.69" data-path=""><a href="#notes-22"><i class="fa fa-check"></i><b>0.0.69</b> notes</a></li>
+<li class="chapter" data-level="0.0.70" data-path=""><a href="#ingredients-23"><i class="fa fa-check"></i><b>0.0.70</b> ingredients</a></li>
+<li class="chapter" data-level="0.0.71" data-path=""><a href="#instructions-23"><i class="fa fa-check"></i><b>0.0.71</b> instructions</a></li>
+<li class="chapter" data-level="0.0.72" data-path=""><a href="#notes-23"><i class="fa fa-check"></i><b>0.0.72</b> notes</a></li>
+<li class="chapter" data-level="0.0.73" data-path=""><a href="#ingredients-24"><i class="fa fa-check"></i><b>0.0.73</b> ingredients</a></li>
+<li class="chapter" data-level="0.0.74" data-path=""><a href="#instructions-24"><i class="fa fa-check"></i><b>0.0.74</b> instructions</a></li>
+<li class="chapter" data-level="0.0.75" data-path=""><a href="#notes-24"><i class="fa fa-check"></i><b>0.0.75</b> Notes</a></li>
+<li class="chapter" data-level="0.0.76" data-path=""><a href="#ingredients-25"><i class="fa fa-check"></i><b>0.0.76</b> ingredients</a></li>
+<li class="chapter" data-level="0.0.77" data-path=""><a href="#instructions-25"><i class="fa fa-check"></i><b>0.0.77</b> instructions</a></li>
+<li class="chapter" data-level="0.0.78" data-path=""><a href="#notes-25"><i class="fa fa-check"></i><b>0.0.78</b> notes</a></li>
+<li class="chapter" data-level="0.0.79" data-path=""><a href="#ingredients-26"><i class="fa fa-check"></i><b>0.0.79</b> ingredients</a></li>
+<li class="chapter" data-level="0.0.80" data-path=""><a href="#instructions-26"><i class="fa fa-check"></i><b>0.0.80</b> instructions</a></li>
+<li class="chapter" data-level="0.0.81" data-path=""><a href="#notes-26"><i class="fa fa-check"></i><b>0.0.81</b> notes</a></li>
+<li class="chapter" data-level="0.0.82" data-path=""><a href="#ingredients-27"><i class="fa fa-check"></i><b>0.0.82</b> ingredients</a></li>
+<li class="chapter" data-level="0.0.83" data-path=""><a href="#instructions-27"><i class="fa fa-check"></i><b>0.0.83</b> instructions</a></li>
+<li class="chapter" data-level="0.0.84" data-path=""><a href="#notes-27"><i class="fa fa-check"></i><b>0.0.84</b> notes</a></li>
+<li class="chapter" data-level="0.0.85" data-path=""><a href="#ingredients-28"><i class="fa fa-check"></i><b>0.0.85</b> ingredients</a></li>
+<li class="chapter" data-level="0.0.86" data-path=""><a href="#instructions-28"><i class="fa fa-check"></i><b>0.0.86</b> instructions</a></li>
+<li class="chapter" data-level="0.0.87" data-path=""><a href="#notes-28"><i class="fa fa-check"></i><b>0.0.87</b> notes</a></li>
+<li class="divider"></li>
+<li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Cookbook Book</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="header">
+<h1 class="title">Cookbook Book</h1>
+<p class="date"><em>2020-01-04</em></p>
+</div>
+
+<p align="right">
+2.6.2018
+</p>
+<h1 align="center">
+aloo gobi
+</h1>
+<div align="center">
+<p><a href="#ingredients">ingredients</a> |
+<a href="#instructions">instructions</a> |
+<a href="#notes">notes</a></p>
+</div>
+<p><br>
+# aloo gobi
+# aloo gobi</p>
+<div id="ingredients" class="section level3">
+<h3><span class="header-section-number">0.0.1</span> ingredients</h3>
+<ul>
+<li>1 head cauliflower; cut into big size florets</li>
+<li>1-2 russet potato, about 1 lb; large dice</li>
+<li>1-2 Tbsp neutral oil</li>
+<li>1&quot; ginger root; peeled and minced</li>
+<li>1 serrano; small dice, deseeded if preferred</li>
+<li>3-4 on the vine tomatoes; diced</li>
+<li>1 cup green peas</li>
+<li>1 tsp ground cumin</li>
+<li>1 tsp garam masala</li>
+<li>2 tsp coriander</li>
+<li>1/2 tsp turmeric</li>
+<li>1/4 tsp cayenne</li>
+<li>1/2 bunch cilantro; rinsed, rough chop</li>
+<li>1 lemon (optional)</li>
+<li>1 recipe; perfect basmati</li>
+</ul>
+</div>
+<div id="instructions" class="section level3">
+<h3><span class="header-section-number">0.0.2</span> instructions</h3>
+<ol style="list-style-type: decimal">
+<li>Preheat the oven to 400°F. Toss cauliflower florets and potatoes with a couple tbsp neutral oil. Spread on baking sheet.
+Roast until caramelized and mostly tender, 20-30 minutes, tossing halfway through.</li>
+<li>Heat a couple tbsp neutral oil in small stainless-steel skillet until shimmering. Add ginger and serrano chilis and
+cook, stirring frequently, until fragrant. About 1 minute. Add cumin, garam masala, coriander, turmeric, cayenne, and
+pinch of salt. Allow spices to toast in oil, being careful not to burn, for about one minute. Add
+roasted cauliflower and potato and toss well in spices. Cook for an additional 2 minutes, then add tomatoes. Cook until
+thickened and fragrant, about 5 minutes more.</li>
+<li>Add green peas and cook until warmed through - test some to make sure they’re good.
+Adjust seasoning to taste with salt, lemon and additional garam masala or cayenne.</li>
+<li>Stir in cilantro and serve with rice, passing lemon wedges tableside.</li>
+</ol>
+</div>
+<div id="notes" class="section level3">
+<h3><span class="header-section-number">0.0.3</span> notes</h3>
+<p>Would work well with roti or naan too. Check out steamed basmati recipe.</p>
+
+<p align="right">
+9.6.2018
+</p>
+<h1 align="center">
+lemon red pepper quinoa salad
+</h1>
+<div align="center">
+<p><a href="#ingredients">ingredients</a> |
+<a href="#instructions">instructions</a> |
+<a href="#notes">notes</a></p>
+</div>
+<p><br>
+# lemon red pepper quinoa salad
+# lemon red pepper quinoa salad</p>
+</div>
+<div id="ingredients-1" class="section level3">
+<h3><span class="header-section-number">0.0.4</span> ingredients</h3>
+<ul>
+<li>1 cup dry quinoa (about 3 cups cooked)</li>
+<li>1 3/4 cup water</li>
+<li>1/2 tsp kosher salt</li>
+<li>1 tsp olive oil or butter</li>
+<li>1 cucumber; small dice</li>
+<li>1 red pepper; small dice</li>
+<li>1 small red onion; small dice (maybe 1/2 or 3/4 of a giant one)</li>
+<li>1 can chickpeas; rinsed and drained</li>
+<li>1 bunch of parsley, finely chopped</li>
+<li>1/4 cup olive oil</li>
+<li>1/4 lemon juice (2 or 3 lemons)</li>
+<li>1 Tbsp sherry vinegar (red wine vinegar could work too)</li>
+<li>2 garlic cloves; pressed</li>
+<li>1/2 tsp kosher salt</li>
+</ul>
+</div>
+<div id="instructions-1" class="section level3">
+<h3><span class="header-section-number">0.0.5</span> instructions</h3>
+<ol style="list-style-type: decimal">
+<li>Cook the quinoa. Thoroughly rinse dry quinoa while heating oil in medium sized pot over medium heat. When quinoa
+are washed and pan hot, add drained quinoa and cook stirring to toast as the remaining water evaporates - about 2-3
+minutes. Stir in water and salt and bring to a rolling boil. Reduce heat to the lowest setting and cover the pot.<br />
+Cook for 15 minutes without removing the top, then take off heat and let sit, unopened, for 5 more minutes.<br />
+Fluff with a fork and allow to cool some.</li>
+<li>While quinoa cooks, prep and combine the ingredients from cucumber to parsley in a large mixing bowl.</li>
+<li>Make the dressing. Combine ingredients from olive oil to kosher salt in a mason jar. Put on the lid and give it a good shake.</li>
+<li>Once the quinoa has cooled a bit as to not cook the veggies, add to the mixing bowl and stir to mix. Shake the dressing again and pour
+over the mixture while stirring. It’s good now a little warm, and will be good cold out of the fridge for another few days.</li>
+</ol>
+</div>
+<div id="notes-1" class="section level3">
+<h3><span class="header-section-number">0.0.6</span> notes</h3>
+<p>Adapted from a cookie and kate blog recipe. I like the sherry vinegar a lot more than red wine in this application. As I was making
+it I thought it would need something like feta, but once I tasted it I really don’t think that’s the case. Dressing might benefit from
+a pinch of red pepper flakes. A good camping recipe due to the short cook and cold presentation.</p>
+
+<p align="right">
+11.4.2017
+</p>
+<h1 align="center">
+lentil bolognese
+</h1>
+<div align="center">
+<p><a href="#ingredients">ingredients</a> |
+<a href="#instructions">instructions</a> |
+<a href="#notes">notes</a></p>
+</div>
+<p><br>
+# lentil bolognese
+# lentil bolognese</p>
+</div>
+<div id="ingredients-2" class="section level3">
+<h3><span class="header-section-number">0.0.7</span> ingredients</h3>
+<ul>
+<li>3 Tbsp olive oil (not extra virgin)</li>
+<li>2 carrots; small dice</li>
+<li>1-2 celery stalks; small dice</li>
+<li>1 onion; small dice</li>
+<li>1 cup beluga (black) lentils</li>
+<li>4 cups vegetable broth</li>
+<li>2 Tbsp unsalted butter</li>
+<li>1 scant Tbsp balsamic vinegar</li>
+<li>pasta, dried or homemade; cooked</li>
+</ul>
+</div>
+<div id="instructions-2" class="section level3">
+<h3><span class="header-section-number">0.0.8</span> instructions</h3>
+<ol style="list-style-type: decimal">
+<li>Heat the oil over medium-low heat then add carrots. Cook for a couple minutes then add onions and celery and cook
+until golden; about 10-15 minutes.</li>
+<li>Rinse lentils then add to the pot. Toss around then add the 4 cups of broth. Bring to a boil over high heat then
+reduce to a simmer and
+allow to cook for 35-45 minutes until the lentils have absorbed much of the water and are abundantly tender. This is a
+good time to check the seasoning.</li>
+<li>Remove half the sauce to a blender or food processor and blitz to a rough paste. Add this back to the pot along with
+butter and the balsamic vinegar.</li>
+<li>Serve over noodles with a few cracks of fresh pepper and some chopped parsley.</li>
+</ol>
+</div>
+<div id="notes-2" class="section level3">
+<h3><span class="header-section-number">0.0.9</span> notes</h3>
+<p>Can use any type of broth. Mushroom or chicken broth would be nice. For boxed pasta I prefer <em>De Cecco</em> brand and a
+shape without holes or tubes for the sauce to get stuck in. Good options are farfalle, oriechette or fettucine. Also
+goes really well over roasted spaghetti squash.</p>
+
+<p align="right">
+5.20.2017
+</p>
+<h1 align="center">
+mediterranean couscous salad
+</h1>
+<div align="center">
+<p><a href="#ingredients">ingredients</a> |
+<a href="#instructions">instructions</a> |
+<a href="#notes">notes</a></p>
+</div>
+<p><br>
+# mediterranean_couscous_salad
+# mediterranean_couscous_salad</p>
+</div>
+<div id="ingredients-3" class="section level3">
+<h3><span class="header-section-number">0.0.10</span> ingredients</h3>
+<ul>
+<li>1.5 cup whole wheat couscous</li>
+<li>1 english cucumber; small dice</li>
+<li>1 small carton good cherry tomatoes; cut in half</li>
+<li>1 red pepper; small dice (optional, as a replacement for tomatoes)</li>
+<li>1 can garbanzo beans; drained</li>
+<li>1/4 cup (or more) italian dressing</li>
+<li>1 avocado (optional as topping)</li>
+<li>salt</li>
+</ul>
+</div>
+<div id="instructions-3" class="section level3">
+<h3><span class="header-section-number">0.0.11</span> instructions</h3>
+<ol style="list-style-type: decimal">
+<li>Boil 1.5 cups of water with a pinch of salt in a small saucepan. Once it’s boiling, add couscous and stir, take
+off heat and let rest for 5+ minutes with the lid on before fluffing with a fork.</li>
+<li>Combine veggies and dressing to let marinate while couscous steams.</li>
+<li>Top couscous with veggie salad. Top that with optional sliced avocados. Add more dressing if necessary.</li>
+</ol>
+</div>
+<div id="notes-3" class="section level3">
+<h3><span class="header-section-number">0.0.12</span> notes</h3>
+<p>If really getting fancy, could add chopped parsley. If using persian cucumbers prep 2-3 instead of 1. For chickpeas,
+I prefer <em>Goya</em> brand.</p>
+
+<p align="right">
+10.3.2017
+</p>
+<h1 align="center">
+miso braised greens
+</h1>
+<div align="center">
+<p><a href="#ingredients">ingredients</a> |
+<a href="#instructions">instructions</a> |
+<a href="#notes">notes</a></p>
+</div>
+<p><br>
+# miso braised greens
+# miso braised greens</p>
+</div>
+<div id="ingredients-4" class="section level3">
+<h3><span class="header-section-number">0.0.13</span> ingredients</h3>
+<ul>
+<li>2 Tbsp neutral oil</li>
+<li>1 bunch swiss chard; sliced, stems removed and chopped.</li>
+<li>3 cloves garlic; smashed under flat knife blade then thinly sliced</li>
+<li>2 Tbsp miso paste, light or medium</li>
+<li>1 tsp rice vinegar</li>
+<li>1 pinch red pepper flakes (optional)</li>
+</ul>
+</div>
+<div id="instructions-4" class="section level3">
+<h3><span class="header-section-number">0.0.14</span> instructions</h3>
+<ol style="list-style-type: decimal">
+<li>Cook stems in oil over medium low heat until the stems are starting to cook but still firm.</li>
+<li>Add garlic (and red pepper flakes if using) and simmer while stirring for another minute. Add chard leaves and
+stir while cooking until begins to release water.</li>
+<li>Add miso paste and rice vinegar and stir to evenly combine into the chard water. If it’s too dry add a couple
+tablespoons. Cook until most water evaporates and the chard is in a sticky sauce.</li>
+<li>Season to taste and serve. Add more miso or vinegar as needed.</li>
+</ol>
+</div>
+<div id="notes-4" class="section level3">
+<h3><span class="header-section-number">0.0.15</span> notes</h3>
+<p>Chard is easily replaced with lacinato (aka dinosaur) kale. Cut out and discard stems. The rest of the directions
+remain the same.</p>
+
+<p align="right">
+12.31.2017
+</p>
+<h1 align="center">
+miso rice bowl
+</h1>
+<div align="center">
+<p><a href="#ingredients">ingredients</a> |
+<a href="#instructions">instructions</a> |
+<a href="#notes">notes</a> |</p>
+</div>
+<p><br>
+# miso rice bowl
+# miso rice bowl</p>
+</div>
+<div id="ingredients-5" class="section level3">
+<h3><span class="header-section-number">0.0.16</span> ingredients</h3>
+<ul>
+<li>3/4 cup of brown rice</li>
+<li>1/4 cup of wild rice</li>
+<li>1-2 sweet potatoes; peeled and 3/4&quot; cubed</li>
+<li>1 large bundle of broccoli</li>
+<li>2-4 tbsp neutral oil</li>
+<li>coarse or kosher salt</li>
+<li>freshly ground black pepper</li>
+<li>1 tsp white sesame seeds</li>
+<li>1 tsp black sesame seeds</li>
+<li>1 recipe miso-tahini dressing</li>
+</ul>
+</div>
+<div id="instructions-5" class="section level3">
+<h3><span class="header-section-number">0.0.17</span> instructions</h3>
+<ol style="list-style-type: decimal">
+<li>Heat oven to 400F. Cook rice in a rice cooker on the brown setting.</li>
+<li>Toss sweet potatoes in a neutral oil and a sprinkle of salt.</li>
+<li>Using one large or two smaller trays, spread out sweet potatoes and roast for 20 minutes, until browning underneath.
+Flip, toss, and add broccoli to the tray. Drizzle with a little more neutral oil and a sprinkle of salt. Roast for
+another 10-20 minutes. Broccoli should be lightly charred at the edges and sweet potatoes should be browned and tender.</li>
+<li>While vegetables are roasting, prepare the miso-tahini dressing.</li>
+<li>Assemble bowls. Scoop rice into each bowl, pile on vegetables, and coat lightly with dressing. Sprinkle toasted
+sesame seeds on top.</li>
+</ol>
+</div>
+<div id="notes-5" class="section level3">
+<h3><span class="header-section-number">0.0.18</span> notes</h3>
+<p>Easily doubled. Equally delicious over wheat berries or farro. Also good with a drizzle of sriracha.</p>
+
+<p align="right">
+12.31.2017
+</p>
+<h1 align="center">
+miso tahini dressing
+</h1>
+<div align="center">
+<p><a href="#ingredients">ingredients</a> |
+<a href="#instructions">instructions</a> |
+<a href="#notes">notes</a></p>
+</div>
+<p><br>
+# miso tahini dressing
+# miso tahini dressing</p>
+</div>
+<div id="ingredients-6" class="section level3">
+<h3><span class="header-section-number">0.0.19</span> ingredients</h3>
+<ul>
+<li>1 Tbsp fresh ginger; chopped</li>
+<li>1 small garlic clove; chopped</li>
+<li>2 Tbsp light (shiro) yellow miso</li>
+<li>2 Tbsp tahini</li>
+<li>1 scant Tbsp honey (or maple syrup)</li>
+<li>1/4 cup rice vinegar</li>
+<li>2 Tbsp toasted sesame oil</li>
+<li>2 Tbsp olive oil</li>
+</ul>
+</div>
+<div id="instructions-6" class="section level3">
+<h3><span class="header-section-number">0.0.20</span> instructions</h3>
+<ol style="list-style-type: decimal">
+<li>Combine everything in a blender and run until smooth, scraping down sides once.</li>
+<li>Taste and adjust as needed.</li>
+</ol>
+</div>
+<div id="notes-6" class="section level3">
+<h3><span class="header-section-number">0.0.21</span> notes</h3>
+<p>Stores well. This is an acceptably sized small batch, but there isn’t much reason not to double this recipe.</p>
+
+<p align="right">
+5.29.2017
+</p>
+<h1 align="center">
+morning banana smoothie
+</h1>
+<div align="center">
+<p><a href="#ingredients">ingredients</a> |
+<a href="#instructions">instructions</a> |
+<a href="#notes">notes</a></p>
+</div>
+<p><br>
+# morning smoothie
+# morning smoothie</p>
+</div>
+<div id="ingredients-7" class="section level3">
+<h3><span class="header-section-number">0.0.22</span> ingredients</h3>
+<ul>
+<li>1 peeled; previously frozen banana</li>
+<li>1 cup unsweetened plain almond milk</li>
+<li>2 Tbsp natural peanut butter</li>
+<li>1 Tbsp rolled oats</li>
+<li>1/2 cup frozen spinach or 1 to 2 cups of fresh, rinsed spinach (optional)</li>
+<li>1 tsp flax seed (optional)</li>
+<li>1 tsp spirulina powder (optional)</li>
+<li>1 pinch garam masala or cinnamon powder (optional)</li>
+</ul>
+</div>
+<div id="instructions-7" class="section level3">
+<h3><span class="header-section-number">0.0.23</span> instructions</h3>
+<ol style="list-style-type: decimal">
+<li>Add to blender in the general order the ingredients are listed. If you want to really mix it up add one of the ‘optional’ spices.</li>
+<li>Blend until smooth, using the tamper or adding almond milk to help everything combine.</li>
+</ol>
+</div>
+<div id="notes-7" class="section level3">
+<h3><span class="header-section-number">0.0.24</span> notes</h3>
+<p>Can be made with more or less almond milk to adjust the consistency between a shake/ice cream treat or a drink. I
+sometimes add parsley if it’s around.</p>
+
+<p align="right">
+11.3.2019
+</p>
+<h1 align="center">
+mung bean korean pancake batter
+</h1>
+<div align="center">
+<p><a href="#ingredients">ingredients</a> |
+<a href="#instructions">instructions</a> |
+<a href="#notes">notes</a></p>
+</div>
+<p><br>
+# mung bean korean pancake batter
+# mung bean korean pancake batter</p>
+</div>
+<div id="ingredients-8" class="section level3">
+<h3><span class="header-section-number">0.0.25</span> ingredients</h3>
+<ul>
+<li>1 cup split yellow mung beans</li>
+<li>2.5 cups of water; separated</li>
+</ul>
+</div>
+<div id="instructions-8" class="section level3">
+<h3><span class="header-section-number">0.0.26</span> instructions</h3>
+<ol style="list-style-type: decimal">
+<li>Place the beans and 2 cups of the water in a medium bowl and
+soak for 1 hour. They should increase in volume by about 50 percent.</li>
+<li>Drain the beans, then place in a blender. Add the remaining 1/2 cup
+water. Blend on high speed until the mixture is very smooth, 15 to 30 seconds.</li>
+<li>Season before cooking. Do not add salt until ready to cook.</li>
+</ol>
+</div>
+<div id="notes-8" class="section level3">
+<h3><span class="header-section-number">0.0.27</span> notes</h3>
+<p>You can make this mixture and refrigerate, covered, for up to 3 days. Can add kimchi, sauerkraut, green onions, sprouted
+mung beans, tamari, fish sauce, etc.</p>
+
+<p align="right">
+5.1.2017
+</p>
+<h1 align="center">
+pressure cooker mushroom risotto
+</h1>
+<div align="center">
+<p><a href="#ingredients">ingredients</a> |
+<a href="#instructions">instructions</a> |
+<a href="#notes">notes</a></p>
+</div>
+<p><br>
+# mushroom risotto
+# mushroom risotto</p>
+</div>
+<div id="ingredients-9" class="section level3">
+<h3><span class="header-section-number">0.0.28</span> ingredients</h3>
+<ul>
+<li>4 cups vegetable stock</li>
+<li>1.5 lbs assorted mushrooms (a mixture is best); cleaned, trimmed and thinly sliced</li>
+<li>4 Tbsp olive oil</li>
+<li>4 Tbsp butter</li>
+<li>1 yellow onion; chopped</li>
+<li>4 garlic cloves; minced</li>
+<li>1.5 cup arborio rice</li>
+<li>2 tsp tamari or soy sauce</li>
+<li>1 Tbsp light (shiro) miso</li>
+<li>1/2 cup white wine</li>
+<li>1 oz grated high quality parmesan</li>
+<li>more parmesan and any finely minced herb for serving</li>
+<li>1 oz dried porcini or shitake (optional)</li>
+</ul>
+</div>
+<div id="instructions-9" class="section level3">
+<h3><span class="header-section-number">0.0.29</span> instructions</h3>
+<ol style="list-style-type: decimal">
+<li>If you have dried mushrooms, heat stock and allow dried mushrooms to steep until soft, about 5 minutes for
+porcinis or up to an hour for shitakes. Remove hydrated mushrooms and roughly chop. Add mushroom scraps to the stock
+and allow to sit until later when the stock is added to the rice.</li>
+<li>Heat olive and oil and butter in the pressure cooker and add all of the mushrooms. Cook until the moisture is
+released and the mushrooms are beginning to brown.</li>
+<li>Add onion and garlic and cook until barely softened, then add rice and cook until starting to become translucent
+around the edges; about 5 minutes.</li>
+<li>Stir in soy/tamari and miso paste until distributed then add wine and cook until the alcohol is released; about
+2-3 minutes.</li>
+<li>Pour the stock into the pot through a mesh strainer and discard the mushroom scraps. Cook on low pressure for 5
+minutes (10 psi on most cookers). Release steam valve and open the pressure cooker.</li>
+<li>Stir in parmesan and check the seasoning.</li>
+<li>Serve with extra grated parmesan and herbs at the table.</li>
+</ol>
+</div>
+<div id="notes-9" class="section level3">
+<h3><span class="header-section-number">0.0.30</span> notes</h3>
+<p>Not a good choice for someone who doesn’t like mushrooms. The dried mushrooms are nice but not necessary - I
+generally skip the extra step. Also, if the rissotto comes out a little too dry, feel free to loosen it with a
+few tablespoons of stock or heavy cream.</p>
+
+<p align="right">
+12.27.2018
+</p>
+<h1 align="center">
+mustard arugula farm salad
+</h1>
+<div align="center">
+<p><a href="#ingredients">ingredients</a> |
+<a href="#instructions">instructions</a> |
+<a href="#notes">notes</a></p>
+</div>
+<p><br>
+# mustard arugula farm salad
+# mustard arugula farm salad</p>
+</div>
+<div id="ingredients-10" class="section level3">
+<h3><span class="header-section-number">0.0.31</span> ingredients</h3>
+<ul>
+<li>2 Tbsp dijon mustard</li>
+<li>2 Tbsp whole grain mustard (e.g., Maille)</li>
+<li>1/2 cup extra virgin olive oil</li>
+<li>2 Tbsp sherry vinegar (or something similar)</li>
+<li>1 scant Tbsp maple syrup</li>
+<li>couple cracks of black pepper</li>
+<li>12-16 oz new potatoes; cooked (boiled or steamed) and cut in half</li>
+<li>7 oz arugula; washed and dried as much as possible</li>
+<li>1 1/4 cup uncooked brown rice</li>
+<li>1/4 cup uncooked wild rice</li>
+<li>1/4 cup dried cranberries</li>
+<li>4-6 eggs; quartered lengthwise</li>
+<li>1/4 cup pine nuts (optional)</li>
+<li>1 tin sardines or mackerel (optional)</li>
+</ul>
+</div>
+<div id="instructions-10" class="section level3">
+<h3><span class="header-section-number">0.0.32</span> instructions</h3>
+<ol style="list-style-type: decimal">
+<li>Combine all the ingredients in the top section in a pint jar with a lid (mason jar). Shake to create an even mixture then put in the fridge.</li>
+<li>Cook the brown and wild rice together. I like to combine them in a rice cooker and cook via timer overnight to be ready in the morning.</li>
+<li>Combine potatoes, arugula, rice, pine nuts and cranberries and toss until evenly distributed. Serve onto plates or into containers
+and top with eggs and fish – should make 4-6 meal sized servings. When ready to serve, drizzle over two spoonfuls of dressing. Add more to taste.</li>
+</ol>
+</div>
+<div id="notes-10" class="section level3">
+<h3><span class="header-section-number">0.0.33</span> notes</h3>
+<p>Fish isn’t necessary but a nice boost of protein.</p>
+
+<p align="right">
+12.20.2018
+</p>
+<h1 align="center">
+cilantro lime burritos
+</h1>
+<div align="center">
+<p><a href="#ingredients">ingredients</a> |
+<a href="#instructions">instructions</a> |
+<a href="#notes">notes</a></p>
+</div>
+<p><br>
+# cilantro lime burritos
+# cilantro lime burritos</p>
+</div>
+<div id="ingredients-11" class="section level3">
+<h3><span class="header-section-number">0.0.34</span> ingredients</h3>
+<ul>
+<li>2.5 cups dry short grain brown rice</li>
+<li>2 bay leaves</li>
+<li>1 lime</li>
+<li>1/2 cup cilantro; chopped</li>
+<li>1 pinch salt</li>
+<li>1-2 Tbsp neutral oil</li>
+<li>tortillas, large, about 10&quot;</li>
+<li>2 sweet potatoes; small to medium dice</li>
+<li>2 cans black beans with liquid</li>
+<li>2 garlic cloves; lightly crushed</li>
+<li>3 springs cilantro; whole</li>
+<li>shredded cheese (pepper-jack is nice)</li>
+<li>red salsa</li>
+<li>hot sauce (optional)</li>
+<li>nutritional yeast (optional)</li>
+</ul>
+</div>
+<div id="instructions-11" class="section level3">
+<h3><span class="header-section-number">0.0.35</span> instructions</h3>
+<ol style="list-style-type: decimal">
+<li>Cook short grain rice in rice cooker with bay leaves and correct amount of water. Once finished, remove leaves, add juice of 1/2 lime, cilantro, salt and neutral oil. Taste the rice and adjust as necessary.</li>
+<li>Combine whole cans of beans, crushed garlic and cilantro springs in a pot over medium low heat. Simmer for 30 minutes until super tender then crush some (maybe 1/4) of the beans against the side of the pot to release starch. Stir well.</li>
+<li>Preheat oven to 400F. Toss sweet potatoes in neutral oil and a pinch of salt and lay on a parchment lined baking sheet. Roast for 12 minutes then flip and roast another 12, checking a couple times during cooking to prevent any burning.</li>
+<li>Heat tortilla until it is supple and almost too hot to handle. Lay on a plate and pile on the rice, then beans, then sweet potato. Top with salsa and cheese. Burrito roll it and serve hot.</li>
+</ol>
+</div>
+<div id="notes-11" class="section level3">
+<h3><span class="header-section-number">0.0.36</span> notes</h3>
+<p>If not serving immediately, keep the main ingredients in the fridge and assemble each burrito when ready for cooking.</p>
+
+<p align="right">
+3.8.2017
+</p>
+<h1 align="center">
+open faced breakfast sammy
+</h1>
+<div align="center">
+<p><a href="#ingredients">ingredients</a> |
+<a href="#instructions">instructions</a> |
+<a href="#notes">notes</a></p>
+</div>
+<p><br>
+# open faced breakfast sammy
+# open faced breakfast sammy</p>
+</div>
+<div id="ingredients-12" class="section level3">
+<h3><span class="header-section-number">0.0.37</span> ingredients</h3>
+<ul>
+<li>1 slice of sourdough bread</li>
+<li>1 cup of uncooked spinach</li>
+<li>2 thin slices of “unexpected cheddar” (Trader Joe’s)</li>
+<li>1 egg</li>
+<li>1-2 Tbsp neutral oil</li>
+<li>1 tsp olive oil</li>
+<li>kosher salt</li>
+<li>ground pepper</li>
+</ul>
+</div>
+<div id="instructions-12" class="section level3">
+<h3><span class="header-section-number">0.0.38</span> instructions</h3>
+<ol style="list-style-type: decimal">
+<li>Toast sourdough bread.</li>
+<li>While bread is toasting, heat pan to medium heat and add 1-2 Tbsp of neutral oil to the pan. Once heated, add
+spinach to one side of pan and crack an egg on the other side.</li>
+<li>Allow egg to cook until the white congeals and the inside is somewhere between runny and molten. While egg is
+cooking, make sure to toss spinach to ensure it cooks evenly.</li>
+<li>Assemble sandwich. Drizzle olive oil over bread. Layer the cheese, spinach, and fried egg. Add a sprinkle of salt
+and a dash of pepper.</li>
+</ol>
+</div>
+<div id="notes-12" class="section level3">
+<h3><span class="header-section-number">0.0.39</span> notes</h3>
+<p>Delicious served on own or with a side of fruit.</p>
+
+<p align="right">
+7.11.2019
+</p>
+<h1 align="center">
+pasta e ceci (pasta and chickpea soup)
+</h1>
+<div align="center">
+<p><a href="#ingredients">ingredients</a> |
+<a href="#instructions">instructions</a> |
+<a href="#notes">notes</a></p>
+</div>
+<p><br>
+# pasta e ceci
+# pasta e ceci</p>
+</div>
+<div id="ingredients-13" class="section level3">
+<h3><span class="header-section-number">0.0.40</span> ingredients</h3>
+<ul>
+<li>3 Tbsp olive oil</li>
+<li>2 stalks celery; roughly chopped</li>
+<li>1 carrot; roughly chopped</li>
+<li>1 yellow onion; roughly chopped</li>
+<li>3 sprigs rosemary; minced</li>
+<li>6 cups vegetable stock (I prefer better than bouillon)</li>
+<li>1 15 oz cans chickpeas; drained and rinsed</li>
+<li>8 oz. small pasta (cavatelli, ditalini or oriechette)</li>
+<li>kosher salt and freshly ground black pepper, to taste</li>
+<li>2 Tbsp parsley; minced</li>
+<li>parmesan cheese for serving</li>
+<li>lemon (optional)</li>
+</ul>
+</div>
+<div id="instructions-13" class="section level3">
+<h3><span class="header-section-number">0.0.41</span> instructions</h3>
+<ol style="list-style-type: decimal">
+<li>Heat oil in a 6-qt. saucepan over medium-high; add rosemary, celery, carrot, and onion and cook until soft, 8-10 minutes.</li>
+<li>Add stock and chickpeas; simmer 5 minutes. Remove half the chickpeas and purée until smooth; return chickpeas to pan.</li>
+<li>Add pasta and cook until al dente, 10 minutes; season with salt and pepper. Taste for acid and add lemon juice if needed.</li>
+<li>Stir in parsley and serve with parmesan cheese.</li>
+</ol>
+</div>
+<div id="notes-13" class="section level3">
+<h3><span class="header-section-number">0.0.42</span> notes</h3>
+<p>Doubles well. If you don’t have fresh rosemary, do not add dried. Alternatively, consider adding fresh thyme.</p>
+
+<p align="right">
+9.27.2018
+</p>
+<h1 align="center">
+rustic baguettes
+</h1>
+<div align="center">
+<p><a href="#ingredients">ingredients</a> |
+<a href="#instructions">instructions</a> |
+<a href="#notes">notes</a></p>
+</div>
+<p><br>
+# rustic baguette
+# rustic baguette</p>
+</div>
+<div id="ingredients-14" class="section level3">
+<h3><span class="header-section-number">0.0.43</span> ingredients</h3>
+<ul>
+<li>680 grams lukewarm water; less than 100F</li>
+<li>1 Tbsp granulated yeast</li>
+<li>1 1/2 Tbsp kosher salt</li>
+<li>680 g white flour</li>
+<li>230 g whole wheat flour</li>
+<li>some semolina flour</li>
+</ul>
+</div>
+<div id="instructions-14" class="section level3">
+<h3><span class="header-section-number">0.0.44</span> instructions</h3>
+<ol style="list-style-type: decimal">
+<li>In a large, sealable container over a scale add water Then yeast and salt. Mix a little bit.<br />
+Tare then add white flour, tare again and add whole wheat. Combine thoroughly with a danish dough
+whisk or wooden spoon, making sure to get the corners.</li>
+<li>Let sit out, with lid on lightly so that gases can escape, for 2-4 hours while it rises then collapses a bit.<br />
+Then place in the fridge for 3 hours to 10 days.</li>
+<li>When ready to cook, preheat oven to 450F with a steamer tray. Dust bin top with a little semolina then gently
+shape into baguettes, rolling in a little more semolina as needed to prevent sticking. Let rest for 20 minutes then
+slash 3 times lengthwise on a slight angle and bake for 25 minutes.</li>
+<li>Let cool, then eat. Should last a day or two.</li>
+</ol>
+</div>
+<div id="notes-14" class="section level3">
+<h3><span class="header-section-number">0.0.45</span> notes</h3>
+<p>Makes 5-8 baguettes depending on size.</p>
+
+<p align="right">
+1.2.2020
+</p>
+<h1 align="center">
+salt brine fermented pickles
+</h1>
+<div align="center">
+<p><a href="#ingredients">ingredients</a> |
+<a href="#instructions">instructions</a> |
+<a href="#notes">notes</a></p>
+</div>
+<p><br>
+# salt brine pickles
+# salt brine pickles</p>
+</div>
+<div id="ingredients-15" class="section level3">
+<h3><span class="header-section-number">0.0.46</span> ingredients</h3>
+<ul>
+<li>2 TB salt</li>
+<li>vegetables</li>
+</ul>
+</div>
+<div id="instructions-15" class="section level3">
+<h3><span class="header-section-number">0.0.47</span> instructions</h3>
+<ol style="list-style-type: decimal">
+<li>Stir 2 TB salt into a 1 quart mason jar until salt is dissolved.</li>
+<li>Add chopped vegetables to the mason jar. Turnips, beets, radishes, carrots are particularly tasty.</li>
+<li>Optionally, add spices, particularly garlic, ginger, peppers (hot or sweet), and onions.</li>
+<li>Cover the mason jar loosely with its lid. If possible, ensure that the vegetables are submerged with the brine: one easy way to do this is to fill a plastic bag with beans and place it on top of the vegetables and brine. Specialized tools also exist. If the vegetables are not completely covered, those that are exposed to the air can be removed before storage.</li>
+<li>Ferment between 2-3 days and 2-3 weeks, or longer. Refrigerate to store with a closed lid.</li>
+</ol>
+</div>
+<div id="notes-15" class="section level3">
+<h3><span class="header-section-number">0.0.48</span> notes</h3>
+<p>If possible, use filtered water, as chlorine in water may inhibit lactic acid fermentation. The ratio of 2 TB salt to 1 quart of water can be scaled up or down (i.e., for 1 gallon of water, use 8 TB [1/2 cup] of salt). Salt can be reduced to taste, especially when a longer time is used for the ferment. Especially in cooler weather, as little as 1 TB salt per quart of water may suffice. This technique works for any vegetable, though leafy greens are known to taste bitter with this method.</p>
+
+<p align="right">
+12.31.2017
+</p>
+<h1 align="center">
+shakshuka
+</h1>
+<div align="center">
+<p><a href="#ingredients">ingredients</a> |
+<a href="#instructions">instructions</a> |
+<a href="#notes">notes</a> |</p>
+</div>
+<p><br>
+# shakshuka
+# shakshuka</p>
+</div>
+<div id="ingredients-16" class="section level3">
+<h3><span class="header-section-number">0.0.49</span> ingredients</h3>
+<ul>
+<li>1 medium onion; small dice</li>
+<li>4 cloves garlic; crushed then sliced</li>
+<li>2 Anaheim peppers; seeds removed and diced</li>
+<li>3 jalapeño or 2 serrano peppers; sliced</li>
+<li>1 Tbsp cumin</li>
+<li>2 tsp smoked paprika</li>
+<li>28oz san marzano tomatoes</li>
+<li>6 or 7 eggs</li>
+<li>1 handful of chopped parsley</li>
+<li>1/4 cup crumbled feta</li>
+<li>olive oil and pepper to finsih</li>
+</ul>
+</div>
+<div id="instructions-16" class="section level3">
+<h3><span class="header-section-number">0.0.50</span> instructions</h3>
+<ol style="list-style-type: decimal">
+<li>Heat a 12-14&quot; pan on medium heat. Add onions, peppers, a few tablespoons of olive oil and a small pinch of salt and
+cook until onions are translucent and just beginning to brown.</li>
+<li>Add the garlic and cook for 30 seconds. Add the cumin and smoked paprika and cook for 30 more. Dump in the tomatoes
+and crush with a wooden spoon until it resembles a chunky pasta sauce. Bring to a boil then reduce to low and simmer
+for approximately 15 minutes, stirring occasionally to prevent the sauce from burning at the bottom, until it is the
+consistency of oatmeal.</li>
+<li>This is a good time to taste the sauce and season it until it’s right.</li>
+<li>Create egg divots with the back of a spoon and distribute the eggs into the divots. Spoon the sauce over some of the
+egg white before covering. Cook for 5-10 minutes checking for the eggs to be completely cooked like it is poached.</li>
+<li>Once the eggs are just about cooked, remove from heat and sprinkle with feta and parsley, a light drizzle of a good
+olive and a few cracks of pepper.</li>
+</ol>
+</div>
+<div id="notes-16" class="section level3">
+<h3><span class="header-section-number">0.0.51</span> notes</h3>
+<p>Goes well with baguette or naan. Can add lots of different veggies to the base: carrots, radishes, green beans,
+eggplant, etc. Also goes well with a drizzle of tahini sauce.</p>
+
+<p align="right">
+2.9.2018
+</p>
+<h1 align="center">
+steamed basmati rice
+</h1>
+<div align="center">
+<p><a href="#ingredients">ingredients</a> |
+<a href="#instructions">instructions</a> |
+<a href="#notes">notes</a></p>
+</div>
+<p><br>
+# steamed basmati rice
+# steamed basmati rice</p>
+</div>
+<div id="ingredients-17" class="section level3">
+<h3><span class="header-section-number">0.0.52</span> ingredients</h3>
+<ul>
+<li>1 cup basmati rice</li>
+<li>1.5 cups just boiled water</li>
+<li>1-2 Tbsp neutral oil</li>
+<li>1 pinch salt (3/4 tsp salt)</li>
+<li>spices: cloves, cinnamon stick, black peppercorns, cumin seeds, mustard seeds, curry leaves (all optional)</li>
+</ul>
+</div>
+<div id="instructions-17" class="section level3">
+<h3><span class="header-section-number">0.0.53</span> instructions</h3>
+<ol style="list-style-type: decimal">
+<li>Rinse rice under cold water a few times or until it runs clear. Cover in cold water and let sit for at
+least 20 minutes, ideally 40 minutes, up to one hour.</li>
+<li>Heat oil in a broad pan (at least 12-14&quot;). If using spices, add to the hot oil and fry until fragrant.</li>
+<li>Add drained rice and the salt and toss to coat. Dump in just boiling water and bring pan to an aggresive boil.</li>
+<li>Once boiling, cover, turn heat down to low and let cook for 10 minutes.</li>
+<li>Keeping top on, remove from heat and let steam in residual heat for another 10 minutes.</li>
+<li>Serve with tasty curries.</li>
+</ol>
+</div>
+<div id="notes-17" class="section level3">
+<h3><span class="header-section-number">0.0.54</span> notes</h3>
+<p>Some combinations of aromatics I enjoy are a cinnamon stick and cloves, or cumin or mustard seeds and curry leaves.
+Can be scaled 100% when doubling, but reduce to 2.5 cups boiling water.</p>
+
+<p align="right">
+12.21.2019
+</p>
+<h1 align="center">
+sweet potato bisque
+</h1>
+<div align="center">
+<p><a href="#ingredients">ingredients</a> |
+<a href="#instructions">instructions</a> |
+<a href="#notes">notes</a></p>
+</div>
+<p><br>
+# sweet potato bisque
+# sweet potato bisque</p>
+</div>
+<div id="ingredients-18" class="section level3">
+<h3><span class="header-section-number">0.0.55</span> ingredients</h3>
+<ul>
+<li>2 Tbsp coconut oil (or other neutral oil)</li>
+<li>1 onion or 2 shallots; diced</li>
+<li>1 thumb ginger; finely chopped</li>
+<li>2 lb sweet potato; peeled and cubed</li>
+<li>1.5 tsp salt</li>
+<li>1 Tbsp curry powder</li>
+<li>1 tsp ground coriander</li>
+<li>3 cups water</li>
+<li>1/2 cup coconut milk (or almond milk) plus more for drizzling if desired</li>
+<li>1/4 bunch of cilantro (optional); washed and chopped</li>
+<li>1 lime (optional); cut into wedges</li>
+</ul>
+</div>
+<div id="instructions-18" class="section level3">
+<h3><span class="header-section-number">0.0.56</span> instructions</h3>
+<ol style="list-style-type: decimal">
+<li>Cook the onion and ginger in coconut oil in a deep soup pot over medium heat stirring occasionally, until soft – about
+10 minutes.</li>
+<li>Add the salt and spices and stir. Add the cubed sweet potatoes and toss to coat then add the water. Bring to a boil
+then reduce to a simmer and cook until fork tender – about 15 minutes.</li>
+<li>Transfer to a blender and remove blender plug then cover with a towel (or paper towel that will resist yellowing
+from curry powder). Blend until smooth. Either manually increasing slowly from low to high speed remaining on high for
+about 30 seconds or using the puree setting on the Vitamix.</li>
+<li>Rinse out pot if any small pieces of onion or potato remain and transfer puree back. Reheat over a low flame
+and stir in coconut milk (or almond milk). Check the seasoning then serve with cilantro and lime.</li>
+</ol>
+</div>
+<div id="notes-18" class="section level3">
+<h3><span class="header-section-number">0.0.57</span> notes</h3>
+<p>Also goes well with some crunchy toasted bread.</p>
+
+<p align="right">
+11.5.2018
+</p>
+<h1 align="center">
+turmeric immune soup
+</h1>
+<div align="center">
+<p><a href="#ingredients">ingredients</a> |
+<a href="#instructions">instructions</a> |
+<a href="#notes">notes</a></p>
+</div>
+<p><br>
+# turmeric immune soup
+# turmeric immune soup</p>
+</div>
+<div id="ingredients-19" class="section level3">
+<h3><span class="header-section-number">0.0.58</span> ingredients</h3>
+<ul>
+<li>2 tsp olive oil</li>
+<li>4 carrots; small dice</li>
+<li>4 celery stalks; small dice</li>
+<li>2 smallish white, sweet or spanish onion; small dice</li>
+<li>2-3 inches garlic; minced</li>
+<li>6-8 garlic cloves; minced</li>
+<li>3 tsp ground turmeric</li>
+<li>1/2 tsp red chili flakes</li>
+<li>1 1/3 cup dried orzo</li>
+<li>8 cups vegetable broth</li>
+<li>4 tsp light miso</li>
+<li>2 tsp apple cider vinegar</li>
+<li>1/4 cup parsley, flat or curly; chopped</li>
+</ul>
+</div>
+<div id="instructions-19" class="section level3">
+<h3><span class="header-section-number">0.0.59</span> instructions</h3>
+<ol style="list-style-type: decimal">
+<li>Heat a broad based pot over medium high heat. Add olive oil, then onion, carrot and celery. Cook until onion is
+very translucent, about 5-10 minutes. Add garlic, ginger, turmeric and chili flakes and cook until fragrant, about a
+minute. Add broth and bring to boil.</li>
+<li>Once at a low boil, add orzo and cook stirring intermittently until almost al dente; 7-10 minutes. In a small bowl,
+combine miso paste and vinegar. Ladle in 2-3 Tbsp broth and stir until dissolved. Add back into pot, then take off
+heat.</li>
+<li>Check seasoning and add salt or pepper as needed. Stir in parsley and serve.</li>
+</ol>
+</div>
+<div id="notes-19" class="section level3">
+<h3><span class="header-section-number">0.0.60</span> notes</h3>
+<p>Goes well with a crusty bread. Also stores well, but orzo will get plump and absorb
+lots of the broth.</p>
+
+<p align="right">
+12.31.2017
+</p>
+<h1 align="center">
+turnip red lentil stew
+</h1>
+<div align="center">
+<p><a href="#ingredients">ingredients</a> |
+<a href="#instructions">instructions</a> |
+<a href="#notes">notes</a></p>
+</div>
+<p><br>
+# turnip red lentil stew
+# turnip red lentil stew</p>
+</div>
+<div id="ingredients-20" class="section level3">
+<h3><span class="header-section-number">0.0.61</span> ingredients</h3>
+<ul>
+<li>1 sweet onion; diced</li>
+<li>4 garlic cloves; minced</li>
+<li>1 bunch of small turnips (I like hakurei); washed, trimmed, and quartered or 4 large turnips; peeled and 1/2&quot; dice</li>
+<li>1 can tomato puree</li>
+<li>4 cups vegetable broth and extra vegetable base concentrate</li>
+<li>1 bunch chard (could substitute lacinato kale); washed, thick stems removed, and thinly sliced</li>
+<li>1 cup red lentils; rinsed just before cooking</li>
+<li>2 tbsp olive or neutral oil</li>
+<li>1/2 tsp thyme (fresh or dried)</li>
+<li>1/4 tsp dried sage (optional)</li>
+<li>pinch of red pepper flakes (optional)</li>
+<li>2 shallots; cut in half lengthwise and thinly sliced (optional; see recipe)</li>
+<li>1/4 cup neutral oil (optional; see recipe)</li>
+<li>1 pinch salt (optional; see recipe)</li>
+</ul>
+</div>
+<div id="instructions-20" class="section level3">
+<h3><span class="header-section-number">0.0.62</span> instructions</h3>
+<ol style="list-style-type: decimal">
+<li>Heat pan on medium flame then add oil and onion. Cook until onion begins to soften then add garlic and cook until
+both are softened through - just sweating the veggies, no need to try to brown here. Add turnips and toss. Add tomato
+sauce and veggie broth and stir to combine. If using large turnips, cook for 15 minutes to get out any bitterness.<br />
+Add lentils and stir again.</li>
+<li>If making the optional crispy, caramelized shallots, add shallots and oil to a pan on medium low. After a few
+minutes the shallots should be sizzling as they release their moisture. Cook while stirring occasionally and continue
+with the stew steps below. About 20 minutes in the shallots should be turning golden. Remove them from the oil and
+spread out on a paper towel lined plate and sprinkle with salt.</li>
+<li>Bring soup to a boil then reduce to a simmer and cook for about 20 minutes stirring occasionally. Around then the
+lentils will be a consistent color and texture though and will plump up to fill the pot all of the sudden. At this
+point stir in the herbs if you’re using them and the greens and let cook for a couple minutes.</li>
+<li>Taste the soup- if it lacks body, add vegetable broth base 1/2 tsp at a time, or maybe a pinch of salt if it just
+needs more seasoning.</li>
+</ol>
+</div>
+<div id="notes-20" class="section level3">
+<h3><span class="header-section-number">0.0.63</span> notes</h3>
+<p>Serve with a crack of pepper and/or a pinch of red pepper flakes.</p>
+
+<p align="right">
+12.22.2019
+</p>
+<h1 align="center">
+vegan pumpkin cholocate chip cookies
+</h1>
+<div align="center">
+<p><a href="#ingredients">ingredients</a> |
+<a href="#instructions">instructions</a> |
+<a href="#notes">notes</a></p>
+</div>
+<p><br>
+# vegan pumpkin chocolate cookies
+# vegan pumpkin chocolate cookies</p>
+</div>
+<div id="ingredients-21" class="section level3">
+<h3><span class="header-section-number">0.0.64</span> ingredients</h3>
+<ul>
+<li>1/2 cup coconut oil; solid (be sure it’s not melted)</li>
+<li>3/4 cups dark brown sugar; packed</li>
+<li>1/2 cup granulated sugar</li>
+<li>2 tsp vanilla extract</li>
+<li>2 Tbsp maple syrup</li>
+<li>2 Tbsp unsweetened coconut milk (almond or soy milk will also work)</li>
+<li>2/3 can pumpkin puree (not pumpkin pie mix)</li>
+<li>2 1/4 cups all-purpose flour; unpacked</li>
+<li>1 tsp baking soda</li>
+<li>1/2 tsp salt</li>
+<li>2 tsp pumpkin pie spice (optional)</li>
+<li>1/2 - 1 cup chocolate chips</li>
+<li>coarse salt</li>
+</ul>
+</div>
+<div id="instructions-21" class="section level3">
+<h3><span class="header-section-number">0.0.65</span> instructions</h3>
+<ol style="list-style-type: decimal">
+<li>Preheat oven to 375F. Line a large baking sheet with parchment paper; set aside.</li>
+<li>In the bowl of a stand mixer fitted with the paddle attachment, or in a large bowl using a handheld electric mixer,
+beat the coconut oil, both sugars, and vanilla on medium-speed until smooth; about 2 minutes. Add in the molasses,
+coconut milk and pumpkin puree and beat on low speed until well combined. Turn mixer off.</li>
+<li>In a separate bowl combine the flour, baking soda, salt, and pumpkin pie spice; whisk well to combine.</li>
+<li>Add the dry ingredients into the wet mixture and, with the mixer on low speed, beat until ingredients are combined.
+The batter will be very thick! Fold in 1 and 1/4 cups of the chocolate chips.</li>
+<li>Scoop three tablespoon sized mounds of dough onto the prepared cookie sheet, leaving a few inches between each
+cookie. Bake for 9 to 10 minutes, or until the edges are golden and the centers are soft but set. Press remaining
+chocolate chips on top of warm cookies, and sprinkle with sea salt, if using. Cool cookies on the baking sheet for 30
+minutes before transferring them to a cooling rack.</li>
+</ol>
+</div>
+<div id="notes-21" class="section level3">
+<h3><span class="header-section-number">0.0.66</span> notes</h3>
+<p>Jess’ creation and favorite desert. These are somewhere between a cookie and a muffin top.</p>
+
+<p align="right">
+9.18.2018
+</p>
+<h1 align="center">
+coconut baked oatmeal
+</h1>
+<div align="center">
+<p><a href="#ingredients">ingredients</a> |
+<a href="#instructions">instructions</a> |
+<a href="#notes">notes</a></p>
+</div>
+<p><br>
+# coconut baked oatmeal
+# coconut baked oatmeal</p>
+</div>
+<div id="ingredients-22" class="section level3">
+<h3><span class="header-section-number">0.0.67</span> ingredients</h3>
+<ul>
+<li>1 Tbsp coconut oil (or other neutral oil to grease baking pan)</li>
+<li>3 ripe bananas</li>
+<li>2 eggs</li>
+<li>1/3 cup shredded, unsweetened coconut</li>
+<li>1/4 cup brown sugar</li>
+<li>1 tsp vanilla extract</li>
+<li>1 tsp baking powder</li>
+<li>1/2 tsp kosher salt</li>
+<li>1 can coconut milk</li>
+<li>2 1/4 cup rolled oats (not quick cooking)</li>
+<li>bluberries, strawberries, raspberries, blackberries; washed (optional)</li>
+<li>coconut whipped cream (optional)</li>
+</ul>
+</div>
+<div id="instructions-22" class="section level3">
+<h3><span class="header-section-number">0.0.68</span> instructions</h3>
+<ol style="list-style-type: decimal">
+<li>Preheat the oven to 375F (without convection) and melt coconut oil (or replacement) to grease baking dish.</li>
+<li>Smash bananas in large mixing bowl. Combine all ingredients up to rolled oats and mix well. Spoon in oats and
+stir to combine.</li>
+<li>Bake for 45 minutes. Remove and let cool for a couple minutes before digging in. Optionally, top with fruit and
+coconut whipped cream.</li>
+</ol>
+</div>
+<div id="notes-22" class="section level3">
+<h3><span class="header-section-number">0.0.69</span> notes</h3>
+<p>Can be served warm or cold. Keeps for a few days in the fridge.</p>
+
+<p align="right">
+6.21.2019
+</p>
+<h1 align="center">
+coconut rice
+</h1>
+<div align="center">
+<p><a href="#ingredients">ingredients</a> |
+<a href="#instructions">instructions</a> |
+<a href="#notes">notes</a></p>
+</div>
+<p><br>
+# coconut rice
+# coconut rice</p>
+</div>
+<div id="ingredients-23" class="section level3">
+<h3><span class="header-section-number">0.0.70</span> ingredients</h3>
+<ul>
+<li>2 cup jasmine rice; thoroughly rinsed</li>
+<li>1 14 oz can of coconut milk</li>
+<li>1.5 cup water</li>
+<li>1 tsp salt</li>
+<li>3 Tbsp shredded coconut; plus more, toasted for a garnish if desired</li>
+</ul>
+</div>
+<div id="instructions-23" class="section level3">
+<h3><span class="header-section-number">0.0.71</span> instructions</h3>
+<ol style="list-style-type: decimal">
+<li>Combine in a rice cooker and stir.</li>
+<li>Cook on sweet setting, or just the white setting if sweet is not an option.</li>
+<li>Fluff and stir to combine the shredded coconut which will have floated to the top.</li>
+</ol>
+</div>
+<div id="notes-23" class="section level3">
+<h3><span class="header-section-number">0.0.72</span> notes</h3>
+<p>High quality coconut milk makes a massive difference. I really like Thai Kitchen brand, and dislike Trader Joes.</p>
+
+<p align="right">
+2.9.2018
+</p>
+<h1 align="center">
+daily daal
+</h1>
+<div align="center">
+<p><a href="#ingredients">ingredients</a> |
+<a href="#instructions">instructions</a> |
+<a href="#notes">notes</a></p>
+</div>
+<p><br>
+# daily daal
+# daily daal</p>
+</div>
+<div id="ingredients-24" class="section level3">
+<h3><span class="header-section-number">0.0.73</span> ingredients</h3>
+<ul>
+<li>8 oz red lentils (about 1 heaping cup)</li>
+<li>2 Tbsp neutral cooking oil (e.g., avocado)</li>
+<li>10 black peppercorns</li>
+<li>5 cloves</li>
+<li>1 onion; small dice</li>
+<li>2.5&quot; ginger; finely mined or grated</li>
+<li>5 garlic cloves; peeled</li>
+<li>1 tsp chili powder</li>
+<li>1 scant tsp coriander</li>
+<li>1/2 tsp turmeric</li>
+<li>1 tsp salt</li>
+<li>1 14oz can plum tomatoes</li>
+<li>cayenne pepper (optional)</li>
+<li>handful of cilantro; rinsed and roughly chopped (optional)</li>
+<li>one recipe basmati rice</li>
+<li>lemon (optional)</li>
+</ul>
+</div>
+<div id="instructions-24" class="section level3">
+<h3><span class="header-section-number">0.0.74</span> instructions</h3>
+<ol style="list-style-type: decimal">
+<li>Rinse red lentils until water runs clear. Put in tall pot and cover with 2.5 cups cold water.<br />
+Bring to a boil then reduce heat, cover, and simmer for 10-15 minutes.</li>
+<li>While lentils are cooking, heat the oil in a new pan over medium-low heat. When hot, add peppercorns and
+cloves and cook until fragrant - about 30 seconds. Add onions and cook while stirring often for 8-10 minutes
+or golden. Add the ginger and crush in the garlic (I use a press) and cook for 2-3 minutes until fragrant but
+not burnt. Tip in spices and salt and stir to coat.</li>
+<li>Add can of tomatoes, crushing with your hands as they go in (granny style) or crush with wooden spoon in pan.<br />
+Bring to a boil then simmer for 5 minutes. Cover and simmer 5 more.</li>
+<li>Once the sauce has darkened and thickened a little bit start adding in the lentils with a slotted spoon.<br />
+If it’s too thick, thin with some of the lentil cooking liquid. I found that mine typicaly doesn’t need any
+additional liquid.</li>
+<li>Simmer on low heat for 10 more minutes, uncovered if looking to thicken the sauce. Taste and adjust seasoning.<br />
+Add cayenne if it could use some spice. Add lemon juice for acid if needed.</li>
+<li>Serve with basmati rice or Jeff’s naan and a sprinkle of chopped cilantro.</li>
+</ol>
+</div>
+<div id="notes-24" class="section level3">
+<h3><span class="header-section-number">0.0.75</span> Notes</h3>
+<p>Might want to remove cloves and peppercorns before serving if they’re too powerful.</p>
+
+<p align="right">
+7.21.2017
+</p>
+<h1 align="center">
+food processor pasta dough
+</h1>
+<div align="center">
+<p><a href="#ingredients">ingredients</a> |
+<a href="#instructions">instructions</a> |
+<a href="#notes">notes</a></p>
+</div>
+<p><br>
+# food processor pasta
+# food processor pasta</p>
+</div>
+<div id="ingredients-25" class="section level3">
+<h3><span class="header-section-number">0.0.76</span> ingredients</h3>
+<ul>
+<li>3 eggs</li>
+<li>1/2 tsp salt</li>
+<li>2 cups all purpose flour</li>
+<li>1 Tbsp olive oil</li>
+</ul>
+</div>
+<div id="instructions-25" class="section level3">
+<h3><span class="header-section-number">0.0.77</span> instructions</h3>
+<ol style="list-style-type: decimal">
+<li>Pulse salt and flour in a food processor.</li>
+<li>Add eggs and olive oil to bowl and process for 30-60 seconds. The contents should come together into a large ball.<br />
+If the dough isn’t coming coming together add water 1 tbsp at a time and process again for 15 seconds.</li>
+<li>Once you have a ball, plop the dough onto a cutting board and knead until the ball is relatively smooth and soft.<br />
+This is typically a minute or two.</li>
+<li>Cover the dough with plastic wrap and let rest for 30 minutes. Once rested it is ready to be rolled into whatever style pasta you’d like</li>
+</ol>
+</div>
+<div id="notes-25" class="section level3">
+<h3><span class="header-section-number">0.0.78</span> notes</h3>
+<p>For a more decadent pasta, replace one whole egg with two yolks.</p>
+
+<p align="right">
+6.12.2019
+</p>
+<h1 align="center">
+hummus caesar dressing
+</h1>
+<div align="center">
+<p><a href="#ingredients">ingredients</a> |
+<a href="#instructions">instructions</a> |
+<a href="#notes">notes</a></p>
+</div>
+<p><br>
+# hummus caesar dressing
+# hummus caesar dressing</p>
+</div>
+<div id="ingredients-26" class="section level3">
+<h3><span class="header-section-number">0.0.79</span> ingredients</h3>
+<ul>
+<li>1/2 cup hummus (roasted garlic preferred)</li>
+<li>1 tsp spicy whole grain mustard</li>
+<li>1/2 tsp lemon zest (1 lemon’s worth)</li>
+<li>1 Tbsp capers; finely minced</li>
+<li>1 heaping Tbsp caper brine</li>
+<li>3 Tbsp garlic; minced (4-5 small cloves cloves)</li>
+<li>1 pinch salt</li>
+<li>couple cracks of ground pepper</li>
+<li>1-2 Tbsp olive oil</li>
+<li>1 tsp maple syrup</li>
+<li>water (optional); to thin sauce</li>
+<li>lemon juice (optional); to taste as needed</li>
+</ul>
+</div>
+<div id="instructions-26" class="section level3">
+<h3><span class="header-section-number">0.0.80</span> instructions</h3>
+<ol style="list-style-type: decimal">
+<li>Stir everything together.</li>
+<li>Thin slightly with water to get desired consistency.</li>
+<li>Add lemon juice as needed. I find this often isn’t necessary with good caper brine.</li>
+<li>Can be served right away but does well with a sit for the flavors to mingle – maybe 30 minutes.</li>
+</ol>
+</div>
+<div id="notes-26" class="section level3">
+<h3><span class="header-section-number">0.0.81</span> notes</h3>
+<p>Really good massaged into crunchy greens; e.g., romaine hearts, lacinato kale.</p>
+
+<p align="right">
+2.2.2016
+</p>
+<h1 align="center">
+jeff’s naan
+</h1>
+<div align="center">
+<p><a href="#ingredients">ingredients</a> |
+<a href="#instructions">instructions</a> |
+<a href="#notes">notes</a></p>
+</div>
+<p><br>
+# jeff naan
+# jeff naan</p>
+</div>
+<div id="ingredients-27" class="section level3">
+<h3><span class="header-section-number">0.0.82</span> ingredients</h3>
+<ul>
+<li>2 tsp dry active yeast</li>
+<li>1 tsp sugar</li>
+<li>1/2 cup water</li>
+<li>2 1/2 - 3 cups all-purpose flour, divided</li>
+<li>1/2 tsp salt</li>
+<li>1/4 cup olive oil</li>
+<li>1/3 cup plain yogurt (greek works as well)</li>
+<li>1 large egg</li>
+</ul>
+</div>
+<div id="instructions-27" class="section level3">
+<h3><span class="header-section-number">0.0.83</span> instructions</h3>
+<ol style="list-style-type: decimal">
+<li>In a small bowl, combine the yeast, sugar and water. Stir to dissolve then let sit for a few minutes or until it is
+frothy on top. Once frothy, whisk in the oil, yogurt, and egg until evenly combined.</li>
+<li>In a separate medium bowl, combine 1 cup of the flour with the salt. Next, pour the bowl of wet ingredients
+to the flour/salt mixture and stir until well combined. Continue adding flour, a half cup at a time, until you can
+no longer stir it with a spoon (about 1 to 1.5 cups later). I find this is almost always 2.5 cups of flour total
+when using king arthur all-purpose flour.</li>
+<li>At that point, turn the ball of dough out onto a lightly floured surface and knead the ball of dough for about
+3 minutes, adding small amounts of flour as necessary to keep the dough from sticking. You’ll end up using between
+2.5 to 3 cups flour total. The dough should be smooth and very soft but not sticky. Avoid adding excessive amounts
+of flour as you knead, as this can make the dough too dry and stiff.</li>
+<li>Loosely cover the dough and let it rise until double in size (about 1 hour). After it rises, gently flatten the
+dough into a disc and cut it into 8 equal pieces. Shape each piece into a small ball.</li>
+<li>Heat a large, heavy bottomed skillet over medium heat (I prefer cast iron for this). Working with one ball at a time,
+roll it out until it is about 1/4 inch thick or approximately 6 inches in diameter. Place the rolled out dough onto
+the hot skillet and cook until the bottom is golden brown and large bubbles have formed on the surface. Flip the dough
+and cook the other side until golden brown as well. Stack the cooked flat bread on a plate and cover with a towel to
+keep warm as you cook the remaining pieces. Serve plain or brushed with melted butter and sprinkled with</li>
+</ol>
+</div>
+<div id="notes-27" class="section level3">
+<h3><span class="header-section-number">0.0.84</span> notes</h3>
+<p>This is pretty much just the budget bytes homemade naan recipe. These keep well stored in mason jars then reheated on
+a hot pan like they were cooked.</p>
+
+<p align="right">
+4.11.2018
+</p>
+<h1 align="center">
+jess bowl
+</h1>
+<div align="center">
+<p><a href="#ingredients">ingredients</a> |
+<a href="#instructions">instructions</a> |
+<a href="#notes">notes</a></p>
+</div>
+<p><br>
+# jess bowl
+# jess bowl</p>
+</div>
+<div id="ingredients-28" class="section level3">
+<h3><span class="header-section-number">0.0.85</span> ingredients</h3>
+<ul>
+<li>neutral oil</li>
+<li>1 3/4 cup brown rice</li>
+<li>1/4 cup wild rice; cooked</li>
+<li>2 large sweet potatoes; 3/4&quot; dice</li>
+<li>2 delicata squash; cut into half moons</li>
+<li>1 recipe miso braised greens</li>
+<li>8 oz crimini mushrooms; stems removed and washed, cut in half</li>
+<li>2 tbsp neutral oil</li>
+<li>kosher salt</li>
+<li>1 avocado; sliced</li>
+<li>sriracha to taste</li>
+<li>toasted sesame oil to taste</li>
+<li>soy sauce or tamari to taste</li>
+<li>1 tsp white sesame seeds</li>
+<li>1 tsp black sesame seeds</li>
+<li>fried egg (optional)</li>
+</ul>
+</div>
+<div id="instructions-28" class="section level3">
+<h3><span class="header-section-number">0.0.86</span> instructions</h3>
+<ol style="list-style-type: decimal">
+<li>Cook rice in a rice cooker on brown setting or on the stove.</li>
+<li>Heat oven to 400F. Peel sweet potatoes and cut into 3/4&quot; cubes. Toss in a 1-2 Tbsp neutral oil with a
+sprinkle of salt. Cut off top of delicata squash, slice length-wise, scoop out inards, and slice into 1/2&quot; wide
+half moons. Again, toss in a neutral oil with a sprinkle of salt. Using one large or two smaller trays, spread
+out sweet potatoes and delicata squash. Roast for 20 minutes, until browning underneath. Flip and toss. Roast for
+another 10-20 minutes. Sweet potatoes should be bronzed and tender and squash should be browning at edges. Toss
+chunks around one more time if it looks like they are cooking unevenly.</li>
+<li>While potatoes and squash are cooking, heat a pan to medium-low heat. Add 2 Tbsp neutral oil and crimini mushrooms
+to the pan, cooking until tender. While mushrooms are cooking, prepare japanese braised greens. Jess prefers using
+lacinato kale for this specific recipe, as opposed to chard. Throw cooked mushrooms into the pan of greens, stir, and
+cook together on low for another minute. Remove from heat and set aside.</li>
+<li>Prepare bowls. Before adding vegetables, mix a dash of toasted sesame oil into the cooked rice. Pile on vegetables
+and top with a fried egg (optional). Add tamari/soy sauce and siracha to taste.</li>
+</ol>
+</div>
+<div id="notes-28" class="section level3">
+<h3><span class="header-section-number">0.0.87</span> notes</h3>
+<p>Best rice bowl ever. Rice can be cooked on a timer so that it can soak for longer, up to 12 hours.</p>
+
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+
+
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": null,
+"text": null
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": ["recipes-book.pdf", "recipes-book.epub"],
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+</body>
+
+</html>
