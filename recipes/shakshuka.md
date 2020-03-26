@@ -19,7 +19,7 @@
 - 28oz san marzano tomatoes
 - 1 can chickpeas; drained and rinsed
 - 6 or 7 eggs
-- 1 handful of chopped parsley
+- 1 handful of chopped parsley; can also used chopped cilantro or thinly sliced green onion as garnish
 - 1/4 cup crumbled feta
 - olive oil and pepper to finsih
 
@@ -38,7 +38,7 @@ olive and a few cracks of pepper.
 
 ### notes
 Goes well with baguette or naan.  Can add lots of different veggies to the base: carrots, radishes, green beans, 
-eggplant, etc. Also goes well with a drizzle of tahini sauce.  Goya makes the best canned chickpeas. 
+eggplant, etc. Also goes well with a drizzle of tahini sauce.  Goya makes the best canned chickpeas. I like sprinkling on some Trader Joe's "Everything But the Bagel" spice mixture on top.
 
 
 
