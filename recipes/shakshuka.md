@@ -17,6 +17,7 @@
 - 1 Tbsp cumin
 - 2 tsp smoked paprika
 - 28oz san marzano tomatoes
+- 1 can chickpeas; drained and rinsed
 - 6 or 7 eggs
 - 1 handful of chopped parsley
 - 1/4 cup crumbled feta
@@ -26,7 +27,7 @@
 1. Heat a 12-14" pan on medium heat. Add onions, peppers, a few tablespoons of olive oil and a small pinch of salt and 
 cook until onions are translucent and just beginning to brown. 
 1. Add the garlic and cook for 30 seconds. Add the cumin and smoked paprika and cook for 30 more. Dump in the tomatoes
-and crush with a wooden spoon until it resembles a chunky pasta sauce. Bring to a boil then reduce to low and simmer 
+and crush with a wooden spoon until it resembles a chunky pasta sauce. Add the chickpeas. Bring to a boil then reduce to low and simmer 
 for approximately 15 minutes, stirring occasionally to prevent the sauce from burning at the bottom, until it is the 
 consistency of oatmeal. 
 1. This is a good time to taste the sauce and season it until it's right. 
@@ -37,7 +38,7 @@ olive and a few cracks of pepper.
 
 ### notes
 Goes well with baguette or naan.  Can add lots of different veggies to the base: carrots, radishes, green beans, 
-eggplant, etc. Also goes well with a drizzle of tahini sauce.
+eggplant, etc. Also goes well with a drizzle of tahini sauce.  Goya makes the best canned chickpeas. 
 
 
 
