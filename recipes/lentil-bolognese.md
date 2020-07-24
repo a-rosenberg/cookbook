@@ -29,7 +29,7 @@ allow to cook for 35-45 minutes until the lentils have absorbed much of the wate
 good time to check the seasoning.
 3. Remove half the sauce to a blender or food processor and blitz to a rough paste.  Add this back to the pot along with 
 butter and the balsamic vinegar.
-4. Serve over noodles with a few cracks of fresh pepper and some chopped parsley.
+4. Serve over noodles with a few cracks of fresh pepper and some chopped parsley or parmesan.
 
 ### notes
 Can use any type of broth.  Mushroom or chicken broth would be nice. For boxed pasta I prefer *De Cecco* brand and a
