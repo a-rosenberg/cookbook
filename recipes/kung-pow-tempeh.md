@@ -1,4 +1,4 @@
-<p align="right">12.31.2017</p>
+<p align="right">8.8.2020</p>
 
 <h1 align="center">kung pow tempeh</h1>
 
@@ -10,6 +10,7 @@
 <br>
 
 ### ingredients
+##### stiry fry
 - 4-5 celery stalks; sliced
 - 1/2 bunch green onion; thickly sliced with a little reserved for topping
 - 1-2 hot peppers (serrano or birds eye); thinly sliced or tiny dice
@@ -17,7 +18,7 @@
 - 1/2 cup chopped nuts (cashew or peanut)
 - neutral oil 
 
-Sauce
+##### sauce
 - 5 garlic cloves; pressed or grated
 - 2" ginger; finely minced or grated
 - 1/4 cup soy sauce or tamari
