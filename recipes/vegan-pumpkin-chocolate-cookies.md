@@ -27,7 +27,7 @@
 ### instructions
 1. Preheat oven to 375F. Line a large baking sheet with parchment paper; set aside.
 1. In the bowl of a stand mixer fitted with the paddle attachment, or in a large bowl using a handheld electric mixer, 
-beat the coconut oil, both sugars, and vanilla on medium-speed until smooth; about 2 minutes. Add in the molasses, 
+beat the coconut oil, both sugars, and vanilla on medium-speed until smooth; about 2 minutes. Add in the maple syrup, 
 coconut milk and pumpkin puree and beat on low speed until well combined. Turn mixer off.
 1. In a separate bowl combine the flour, baking soda, salt, and pumpkin pie spice; whisk well to combine.
 1. Add the dry ingredients into the wet mixture and, with the mixer on low speed, beat until ingredients are combined. 
