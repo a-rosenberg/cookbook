@@ -10,7 +10,7 @@
 <br>
 
 ### ingredients
-- 1 sweet onion; diced
+- 1 red or sweet yellow onion; diced
 - 4 garlic cloves; minced
 - 1 bunch of small turnips (I like hakurei); washed, trimmed, and quartered or 4-5 large turnips; peeled and 1/2" dice
 - 1 can tomato sauce/puree
@@ -37,5 +37,5 @@ sauce and veggie broth and stir to combine. If using large turnips, cook for 15-
 needs more seasoning.
 
 ### notes
-Serve with a crack of pepper.
+Serve with a crack of pepper and za'atar flatbread.
 
