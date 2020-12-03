@@ -27,7 +27,7 @@ until golden; about 10-15 minutes.
 reduce to a simmer and 
 allow to cook for 35-45 minutes until the lentils have absorbed much of the water and are abundantly tender.  This is a 
 good time to check the seasoning.
-3. Remove half the sauce to a blender or food processor and blitz to a rough paste.  Add this back to the pot along with 
+3. Remove half the sauce to a blender or food processor and blitz to a rough paste or smooth depending on preference.  Add this back to the pot along with 
 butter and the balsamic vinegar.
 4. Serve over noodles with a few cracks of fresh pepper and some chopped parsley or parmesan.
 
