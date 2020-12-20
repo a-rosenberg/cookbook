@@ -24,7 +24,7 @@
 - 1/4 cup soy sauce or tamari
 - 2 Tbsp unseasoned rice vinegar
 - 1 Tbsp honey or maple syrup
-- 1-2 Tbsp water
+- 1 Tbsp water
 - 1-2 Tbsp corn starch
 
 
