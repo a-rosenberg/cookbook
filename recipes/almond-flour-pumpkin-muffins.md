@@ -32,4 +32,4 @@
 1. When ready to eat, microwave for 20-30 seconds (depent on microwave, we have a weak one so use 30 seconds). 
 
 ### notes
-I add a few chocolate chips to the top before cooking to flag the chocolate muffins.  A flaky sea salt before baking could also be nice. 
+The 3 Tbsp of spices can be replace with 3 Tbsp of pumpkin spice powder.  Or even just 3 Tbsp of cinnamon for ease.  Any combination of autumnal spices will be fine.  I add a few chocolate chips to the top of the chococlate chip muffins before cooking as a flag.  A flaky sea salt before baking could also be nice. 
