@@ -1,6 +1,6 @@
 <p align="right">2.16.2021</p>
 
-<h1 align="center">almond flour muffins</h1>
+<h1 align="center">almond flour pumpkin muffins</h1>
 
 <div align="center">
   <a href="#ingredients">ingredients</a> | 
