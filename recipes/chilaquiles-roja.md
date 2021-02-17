@@ -39,4 +39,4 @@ for a few minutes until you have the desired consistency.  Then turn off the hea
 1. Plate the chilaquiles and add the egg, crumbled feta, chopped parsley and a crack of fresh black pepper.  Serve immediately before it gets soggy.
 
 ### notes
-Based on an Ethan Cheblowski recipe.  The salsa is relatively hot, especially if you use the chiles de arbol. 
+Meal for two. Based on an Ethan Cheblowski recipe.  The salsa is relatively hot, especially if you use the chiles de arbol. 
