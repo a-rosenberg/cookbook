@@ -17,7 +17,7 @@
 - 2 dried chiles de arbol (optional); tops trimmed, deseeded and covered and rehydrated in boiling water for 10 minutes
 - salt
 - avocado oil (or other neutral oil)
-- 4 cups tortilla chips (or whatever amountfeels right)
+- 4 cups tortilla chips (or whatever amount feels right -- I normally grab about four handfuls)
 - 1/2-1 cup vegetable broth 
 - feta cheese
 - fresh group pepper
