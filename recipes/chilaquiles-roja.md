@@ -16,8 +16,6 @@
 - 2 garlic cloves, peel on
 - 2 dried chiles de arbol (optional); tops trimmed, deseeded and covered and rehydrated in boiling water for 10 minutes
 - salt
-
-
 - avocado oil (or other neutral oil)
 - 4 cups tortilla chips (or whatever amountfeels right)
 - 1 cup vegetable broth 
