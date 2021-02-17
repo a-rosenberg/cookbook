@@ -18,7 +18,7 @@
 - salt
 - avocado oil (or other neutral oil)
 - 4 cups tortilla chips (or whatever amountfeels right)
-- 1 cup vegetable broth 
+- 1/2-1 cup vegetable broth 
 - feta cheese
 - fresh group pepper
 - 2 eggs
@@ -34,7 +34,7 @@ jalapeño.  Place all the vegtables in a food processor or blender (including th
 here might be a bit of preference.  Check seasoning.  Place in jar and store in the fridge if not using immediately.  
 1. When ready to cook, preheat a small pan for eggs on medium low and a larger pan on medium high for the tortillas.  
 1. Cook the eggs slowly, in a bit of oil, sunny side up or over easy.
-1. While eggs are cooking, add Tbsp of oil to the large pan then add 1.5 cups of the salsa roja and simmer for a few minutes on its own to develop flavor.  Add broth and bring back up to a simmer
+1. While eggs are cooking, add Tbsp of oil to the large pan then add 1 cup of the salsa roja and simmer for a few minutes on its own to develop flavor.  Add broth and bring back up to a simmer
 for a few minutes until you have the desired consistency.  Then turn off the heat and toss the tortillas in the sauce until coated. 
 1. Plate the chilaquiles and add the egg, crumbled feta, chopped parsley and a crack of fresh black pepper.  Serve immediately before it gets soggy.
 
