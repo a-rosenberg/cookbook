@@ -26,9 +26,9 @@
 
 ### instructions
 1. Preheat oven to 350F.
-1. Whisk together the dry ingredients and the wet ingredients separately. Mix until just combined.
-1. Setup muffin tin with 12 cups and fill to the brim.  If using chocolate chips, stop halfway through filling them and mix in the chocolate until evenly distributed.
-1. Cook for 30-32 minutes.  Let cook in the tin for a minute or two until cool enough to handle then carefully remove and place on a cooling rack.  Once completely cooled (30-60 minutes), stored in a sealed container in the fridge.
+1. Whisk together the dry ingredients and the wet ingredients separately (larger bowl for the dry). Add the wet to the dry and mix until just combined.
+1. Setup muffin tin with 12 cups and fill the batter to the brim.  If using chocolate chips, stop halfway through filling the cups and mix the chocolate into the batter until evenly distributed before finishing filling.
+1. Once preheated, cook for 30-32 minutes.  Let cool in the tin for a minute or two until cool enough to handle then carefully remove and place on a cooling rack.  Once completely cooled (30-60 minutes), stored in a sealed container in the fridge.
 1. When ready to eat, microwave for 20-30 seconds (depent on microwave, we have a weak one so use 30 seconds). 
 
 ### notes
