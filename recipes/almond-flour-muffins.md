@@ -25,7 +25,7 @@
 - 3 eggs
 
 ### instructions
-1. Preheat oven to 350F
+1. Preheat oven to 350F.
 1. Whisk together the dry ingredients and the wet ingredients separately. Mix until just combined.
 1. Setup muffin tin with 12 cups and fill to the brim.  If using chocolate chips, stop halfway through filling them and mix in the chocolate until evenly distributed.
 1. Cook for 30-32 minutes.  Let cook in the tin for a minute or two until cool enough to handle then carefully remove and place on a cooling rack.  Once completely cooled (30-60 minutes), stored in a sealed container in the fridge.
