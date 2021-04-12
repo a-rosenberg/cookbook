@@ -16,7 +16,6 @@
 - 2 tsp cinnamon
 - 1/2 tsp ground ginger
 - 1/2 tsp ground cloves
-- 1/2 tsp salt
 - 1/2 cup walnut chunks
 - 2 Tbsp small chocolate chips (optional, to add to half)
 - 1 can (14 oz) pumpkin puree
