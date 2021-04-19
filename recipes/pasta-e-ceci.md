@@ -11,17 +11,18 @@
 
 ### ingredients
 - 3 Tbsp olive oil
-- 2 stalks celery; roughly chopped
-- 1 carrot; roughly chopped
+- 3 stalks celery; roughly chopped
+- 4 carrot; roughly chopped
 - 1 yellow onion; roughly chopped
 - 3 sprigs rosemary; finely minced (optional)
 - 8 cups vegetable stock (I prefer better than bouillon)
-- 1 15 oz cans chickpeas; drained and rinsed
+- 2 15 oz cans chickpeas; drained and rinsed
 - 8 oz. small pasta (cavatelli, ditalini or oriechette) 
 - kosher salt and freshly ground black pepper, to taste
 - 2 Tbsp parsley; minced plus a little more for topping
-- parmesan cheese for serving; microplaned or grated
-- 1/2 lemon (optional but recommended)
+- parmesan cheese for serving (optional); microplaned or grated
+- 1/2 - 1 lemon (optional but recommended)
+- miso paste to taste
 
 ### instructions
 1. Heat oil in a large saucepan or pot over medium-high; add rosemary, celery, carrot, and onion and cook until soft, 8-10 minutes. 
