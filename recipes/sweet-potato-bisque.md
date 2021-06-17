@@ -14,7 +14,7 @@
 - 1 onion or 2 shallots; diced
 - 1 thumb ginger; finely chopped
 - 2 lb sweet potato; peeled and cubed
-- 1.5 tsp salt 
+- 1 scant tsp salt 
 - 1 Tbsp curry powder
 - 1 tsp ground coriander
 - 3 cups water 
