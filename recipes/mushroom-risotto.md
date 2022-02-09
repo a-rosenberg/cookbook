@@ -11,7 +11,7 @@
 
 ### ingredients
 - 4 cups vegetable stock
-- 1.5 lbs assorted mushrooms (a mixture is best); cleaned, trimmed and thinly sliced
+- 1.5 lbs (325g) assorted mushrooms (a mixture is best); cleaned, trimmed and thinly sliced
 - 4 Tbsp olive oil
 - 4 Tbsp butter
 - 1 yellow onion; chopped
@@ -22,7 +22,7 @@
 - 1/2 cup white wine
 - 1 oz grated high quality parmesan
 - more parmesan and any finely minced herb for serving
-- 1 oz dried porcini or shitake (optional)
+- 1-2 oz dried porcini or shitake (optional)
 
 ### instructions
 1. If you have dried mushrooms, heat stock and allow dried mushrooms to steep until soft, about 5 minutes for 
