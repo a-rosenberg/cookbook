@@ -39,10 +39,14 @@ for path in [os.path.join(recipe_directory, x) for x in os.listdir(recipe_direct
         raise RuntimeError('Could not find date and title ...')
 
 
-all_printable_paths = sorted([os.path.join(recipe_directory, x) for x in os.listdir(recipe_directory) if x.startswith('print_')])
-compile_command = (f'pandoc -s '
+all_printable_paths = sorted(
+    [os.path.join(recipe_directory, x) for x in os.listdir(recipe_directory) if x.startswith('print_')]
+)
+
+compile_command = (f'/opt/homebrew/bin/pandoc -s '
                    f'-V geometry:margin=1.5in '
                    f'--toc --toc-depth=1 '
+                   f'--pdf-engine="/Library/TeX/texbin/pdflatex" '
                    f'--include-in-header titlesec.tex '
                    f'-o recipe-book.pdf {" ".join(all_printable_paths)}')
 

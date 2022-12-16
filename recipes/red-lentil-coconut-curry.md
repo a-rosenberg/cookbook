@@ -24,12 +24,12 @@
 - 1 tablespoon curry powder
 - 1 pinch red pepper flakes
 - 1/2 lemon
-
 - (optional) 1 pinch asefotida or kombu for simmer
 - (optional) 1 side of steamed basmati rice; cooked with coconut oil and no spices
 
+
 ### instructions
-1. Preheat saucepan over medium hear. Add the onion and fry for 8 minutes, sitting frequently, until soft and caramelized.  Add curry powder, pepper flakes, garlic and ginger and fry for 2 more minutes, stirring continuously. 
+1. Preheat saucepan over medium heat. Add the onion and fry for 8 minutes, sitting frequently, until soft and caramelized.  Add curry powder, pepper flakes, garlic and ginger and fry for 2 more minutes, stirring continuously. 
 1. Add lentils and stir through for 1 minutes, then add tomatoes, cilantro stems, water, 1 tsp salt and a big grind of pepper.
 1. Add the coconut milk, reserving a few Tbsp if desired for finishing. Bring to a boil then simmer for 25-30 minutes, until the lentils are soft but still holding a little shape. Fold in spinach and take off heat once fully wilted. Season with salt, sugar as needed and lemon juice. 
 1. Top with fresh cilantro and optional reserved coconut milk.
