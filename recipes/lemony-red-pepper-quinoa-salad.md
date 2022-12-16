@@ -1,6 +1,6 @@
 <p align="right">9.6.2018</p>
 
-<h1 align="center">lemon red pepper quinoa salad</h1>
+<h1 align="center">lemony red pepper quinoa salad</h1>
 
 <div align="center">
   <a href="#ingredients">ingredients</a> | 

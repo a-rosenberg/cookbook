@@ -38,3 +38,4 @@ other toppings
 1. Break apart salmon and place on top of some rice, then add all the toppings you’d want.
 
 ### notes
+Pretty much any vegetable works with this.  Sometimes I add seared mushrooms or tofu.  Fake crab works great too.
