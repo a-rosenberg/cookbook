@@ -30,4 +30,6 @@ cayenne (if using), and mustard in a high speed blender and blend until silky sm
 tablespoons of water and blend again.
 1. Once the pasta is tender, drain it, then return the pasta to the pot and stir in the cheese sauce. Season to taste with 
 salt and pepper and serve warm.
+
 ### notes
+Can blanch peas with this too for a more complete meal.

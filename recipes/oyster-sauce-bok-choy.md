@@ -25,4 +25,4 @@
 1. Drizzle the sauce over the bok choy and serve. 
 
 ### notes
-Reminds me of the chinese brocolli in oyster sauce at Woody's Wings and Things.
+Reminds me of the chinese brocolli in oyster sauce at Woody's Wings and Things.  Maybe combine with mushrooms to make a meal over rice? 
