@@ -23,3 +23,5 @@ water. Blend on high speed until the mixture is very smooth, 15 to 30 seconds.
 ### notes
 You can make this mixture and refrigerate, covered, for up to 3 days.  Can add kimchi, sauerkraut, green onions, sprouted
 mung beans, tamari, fish sauce, etc.
+
+Todo(aaron): add full kimchi pancake recipe
