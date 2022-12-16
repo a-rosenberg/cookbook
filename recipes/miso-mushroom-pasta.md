@@ -1,0 +1,30 @@
+<p align="right">12.15.2022</p>
+
+<h1 align="center">miso mushroom pasta</h1>
+
+<div align="center">
+  <a href="#ingredients">ingredients</a> | 
+  <a href="#instructions">instructions</a> | 
+  <a href="#notes">notes</a>
+</div>
+<br>
+
+### ingredients
+- 8 oz mushrooms 
+- 8 oz asparagus
+- 8 oz pasta; e.g., TJs egg pappardelle or normal dried pasta like de cecco
+- 1 Tbsp extra virgin olive oil 
+- 1 pinch red pepper flakes
+- 4 cloves garlic; minced
+- 4 Tbsp butter
+- 2-3 Tbsp miso paste; I prefer shiro/white miso for this
+- salt and pepper
+- black sesame seeds for serving
+- (optional) green onion for serving
+
+### instructions
+1. Put a pot of water over heat and bring to a boil. While heating cut the mushrooms into chunks and start cooking in a pan with the olive oil and 1 Tbsp butter. Lightly salt to help remove moisture. Cut the asparagus to bite sized pieces and add after a few minutes. Once the veggies are almost cooked through, add the red pepper flakes and garlic bass another Tbsp of butter if needed.
+1. Start cooking the pasta. Once just before al dente, add to the veggie pan along with ~1 cup of cooking water, the miso and remaining butter. Stir well to mix the miso and butter. The pasta should come up to al dente as the sauce just thickens. Take off heat, add a generous amount of black pepper and stir again. Top with black sesame seeds and maybe green onion for looks. 
+
+### notes
+Could be good with chunks of precooked kabocha squash and chili crisp oil. 
