@@ -1,6 +1,6 @@
 <p align="right">12.15.2022</p>
 
-<h1 align="center">ingredient soup</h1>
+<h1 align="center">sesame edamame</h1>
 
 <div align="center">
   <a href="#ingredients">ingredients</a> | 
