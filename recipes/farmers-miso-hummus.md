@@ -16,12 +16,12 @@
 - 2-3 Tbsp chickpea liquid
 - 1/4 cup tahini
 - 2 Tbsp miso (any color, but darker for more flavor)
-- olive oil (optional)
+- extra virgin olive oil (optional)
 - za'atar (optional)
 
 ### instructions
 1. Add all the non-optional ingredients and blend.  Add more chickpea liquid as needed to keep things moving and get the desired texture. 
-1. Optionally, top with EVOO or Za'atar.
+1. Optionally, top with extra virgin olive oil or za'atar.
 
 ### notes
 Good dip for veggies or on sandwiches. Can pulse in parsley for a nice green effect.
