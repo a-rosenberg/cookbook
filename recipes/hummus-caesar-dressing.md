@@ -10,7 +10,7 @@
 <br>
 
 ### ingredients
-- 1/2 cup hummus (roasted garlic preferred)
+- 1/2 cup hummus
 - 1 tsp spicy whole grain mustard
 - 1/2 tsp lemon zest (1 lemon's worth)
 - 1 Tbsp capers; finely minced
@@ -20,14 +20,14 @@
 - couple cracks of ground pepper
 - 1-2 Tbsp olive oil
 - 1 tsp maple syrup 
-- water (optional); to thin sauce
-- lemon juice (optional); to taste as needed
+- (optional) water; to thin sauce
+- (optional) lemon juice; to taste as needed
 
 
 ### instructions
 1. Stir everything together.
 2. Thin slightly with water to get desired consistency.
-3. Add lemon juice as needed.  I find this often isn't necessary with good caper brine.
+3. Add lemon juice as needed.  I find this typically isn't necessary with good caper brine.
 4. Can be served right away but does well with a sit for the flavors to mingle -- maybe 30 minutes. 
 
 ### notes

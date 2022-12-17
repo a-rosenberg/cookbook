@@ -15,11 +15,10 @@
 - 1/2 cup unseasoned rice vinegar
 - 5 Tbsp granulated sugar
 - 2 1/4 tsp kosher salt
-- 1 tsp corriander seeds (optional)
 
 ### instructions
 1. Combine sugar, salt, vinegar and water in bowl and stir until dissolved.
-2. Pour into mason jar until vegetables are fully covered or brine reaches the top.  Add corriander if using.
+2. Pour into mason jar until vegetables are fully covered or brine reaches the top.
 3. Place in fridge.  Can be eaten after a day or two.  Will be fully 'ready' after four days.  Will keep for a month.
 
 ### notes
