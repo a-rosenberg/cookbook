@@ -1,0 +1,35 @@
+<p align="right">12.15.2022</p>
+
+<h1 align="center">simple soba noodles</h1>
+
+<div align="center">
+  <a href="#ingredients">ingredients</a> | 
+  <a href="#instructions">instructions</a> | 
+  <a href="#notes">notes</a>
+</div>
+<br>
+
+### ingredients
+- 200g (~5-6 oz) dried soba noodles; 2 bunches
+- 2 Tbsp soy sauce/shoyu
+- 1.5 Tbsp sesame oil 
+- 1 Tbsp rice vinegar
+- 1 Tbsp grated ginger; don’t need to peel if it’s fresh 
+- 2-3 green onion; thinly sliced
+- toasted white sesame seeds; for garnish 
+
+toppings:
+- chili oil crunch
+- pickled raddish 
+- runny egg 
+- seared extra-firm tofu
+- edamame
+
+### instructions
+1. Put water up to boil. Combine shoyu, sesame oil, rice vinegar, ginger and sliced scallion in a cup. Add a splash or water or dashi. 
+1. Once soba noodles are barely cooked through, strain and rinse under cold water. Place in bowl and top with sauce and garnishes. That’s it. 
+
+
+### notes
+Maybe more ginger. Serves 1 as a large meal, 2 as small.  Could drop to 150g for a single portion.
+Good side for a larger Japanese meal. 

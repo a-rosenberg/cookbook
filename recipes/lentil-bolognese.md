@@ -31,8 +31,15 @@ good time to check the seasoning.
 butter and the balsamic vinegar.
 1. Serve over noodles with a few cracks of fresh pepper and some chopped parsley or parmesan.
 
+Pressure cooker recipe: 
+1. Cook veggies in base of the pressure cooker on "sauté" mode with the top off.  Stir often so the vegetables don't burn, until browned and soft.
+1. Add lentils and 2.5 cups of the hot broth to the pressure cooker.  Cover and set to 15 minutes on high pressure. Manually release pressure with a rag over the steam output.
+1. Remove and blend half the sauce then put back into the pot.  Stir in butter and balsamic and season to taste.
+
 ### notes
 Can use any type of broth.  Mushroom or chicken broth would be nice. For boxed pasta I prefer *De Cecco* brand and a
 shape without holes or tubes for the sauce to get stuck in.  Good options are farfalle, oriechette or fettucine.  Also
 goes really well over roasted spaghetti squash.
+
+
 
