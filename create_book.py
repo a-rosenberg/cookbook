@@ -1,12 +1,13 @@
+import datetime
 import os
 import re
 import subprocess
 
+TIME_ORDER: bool = True  # if not time ordered, goes alphabetical
+NEWLINE = '\n'
+RECIPE_DIRECTORY = os.path.join(os.path.dirname(__file__), 'recipes')
 
-newline = '\n'
-recipe_directory = os.path.join(os.path.dirname(__file__), 'recipes')
-
-for path in [os.path.join(recipe_directory, x) for x in os.listdir(recipe_directory)
+for path in [os.path.join(RECIPE_DIRECTORY, x) for x in os.listdir(RECIPE_DIRECTORY)
              if x.endswith('.md') and not x.startswith('print_')]:
     new_rows = []
     date = None
@@ -22,15 +23,17 @@ for path in [os.path.join(recipe_directory, x) for x in os.listdir(recipe_direct
 
                 if date_match:
                     date = date_match.group(1)
+                    date_obj = datetime.datetime.strptime(date, '%m.%d.%Y')
                 elif title_match:
                     title = title_match.group(1)
                 else:
                     new_rows.append(row)
 
     if date and title:
-        final_rows = ['# ' + title + newline, date + newline] + new_rows
+        final_rows = ['# ' + title + NEWLINE, date + NEWLINE] + new_rows
         directory, basename = os.path.split(path)
-        basename = 'print_' + basename
+
+        basename = f'print_{date_obj.strftime("%Y%m%d")}_{basename}' if TIME_ORDER else f'print_{basename}'
 
         with open(os.path.join(directory, basename), 'w') as oid:
             oid.write(''.join(final_rows))
@@ -40,7 +43,7 @@ for path in [os.path.join(recipe_directory, x) for x in os.listdir(recipe_direct
 
 
 all_printable_paths = sorted(
-    [os.path.join(recipe_directory, x) for x in os.listdir(recipe_directory) if x.startswith('print_')]
+    [os.path.join(RECIPE_DIRECTORY, x) for x in os.listdir(RECIPE_DIRECTORY) if x.startswith('print_')]
 )
 
 compile_command = (f'/opt/homebrew/bin/pandoc -s '
@@ -51,7 +54,7 @@ compile_command = (f'/opt/homebrew/bin/pandoc -s '
                    f'-o recipe-book.pdf {" ".join(all_printable_paths)}')
 
 subprocess.call(compile_command, shell=True)
-[os.remove(os.path.join(recipe_directory, x)) for x in os.listdir(recipe_directory) if x.startswith('print_')]
+[os.remove(os.path.join(RECIPE_DIRECTORY, x)) for x in os.listdir(RECIPE_DIRECTORY) if x.startswith('print_')]
 
 print('complete.')
 

@@ -10,8 +10,8 @@
 <br>
 
 ### ingredients
-- neutral oil
 - 1 3/4 cup brown rice
+- neutral oil; I prefer avocado oil
 - 1/4 cup wild rice; cooked
 - 2 large sweet potatoes; 3/4" dice
 - 2 delicata squash; cut into half moons
@@ -36,7 +36,7 @@ out sweet potatoes and delicata squash. Roast for 20 minutes, until browning und
 another 10-20 minutes. Sweet potatoes should be bronzed and tender and squash should be browning at edges. Toss 
 chunks around one more time if it looks like they are cooking unevenly.
 1. While potatoes and squash are cooking, heat a pan to medium-low heat. Add 2 Tbsp neutral oil and crimini mushrooms 
-to the pan, cooking until tender. While mushrooms are cooking, prepare japanese braised greens. Jess prefers using 
+to the pan, cooking until tender. While mushrooms are cooking, prepare "miso braised greens". Jess prefers using 
 lacinato kale for this specific recipe, as opposed to chard. Throw cooked mushrooms into the pan of greens, stir, and 
 cook together on low for another minute. Remove from heat and set aside.
 1. Prepare bowls. Before adding vegetables, mix a dash of toasted sesame oil into the cooked rice. Pile on vegetables 

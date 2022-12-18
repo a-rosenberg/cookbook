@@ -38,7 +38,7 @@ Pressure cooker recipe:
 
 ### notes
 Can use any type of broth.  Mushroom or chicken broth would be nice. For boxed pasta I prefer *De Cecco* brand and a
-shape without holes or tubes for the sauce to get stuck in.  Good options are farfalle, oriechette or fettucine.  Also
+shape without holes or tubes for the sauce to get stuck in.  Good options are farfalle, oriechette or fettuccine.  Also
 goes really well over roasted spaghetti squash.
 
 

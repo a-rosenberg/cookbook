@@ -11,12 +11,14 @@
 
 ### ingredients
 - 1 package silken tofu drained (12 or 14 oz)
-- 1/2 cup dark chocolate; melted 
+- 1/2 cup dark chocolate
+- 1 pinch kosher salt
 - 2 Tbsp maple syrup
 
 ### instructions
-1. Blend everything really well and put into storage/serving jars or bowls. Put in fridge for a few hours. 
+1. Blend everything really well - until the chocolate is no longer grainy. 
+1. Put into storage and serving jars or bowl, then place in the fridge for a few hours. The flavor improves over time.
 
 ### notes
-Toppings; e.g., mint, raspberries, sliced almonds, shaved chocolate.  Like storing and serving these in small mason 
+Toppings; e.g., mint, raspberries, sliced almonds, shaved chocolate.  I like storing and serving these in small mason 
 jars.
