@@ -1,6 +1,6 @@
 <p align="right">12.17.2022</p>
 
-<h1 align="center">ingredient soup</h1>
+<h1 align="center">quinoa</h1>
 
 <div align="center">
   <a href="#ingredients">ingredients</a> | 
