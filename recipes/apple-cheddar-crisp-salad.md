@@ -1,6 +1,6 @@
 <p align="right">12.16.2022</p>
 
-<h1 align="center">apple cheffar crisp salad</h1>
+<h1 align="center">apple cheddar crisp salad</h1>
 
 <div align="center">
   <a href="#ingredients">ingredients</a> | 
