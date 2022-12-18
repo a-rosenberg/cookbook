@@ -15,13 +15,14 @@
 - 2 Anaheim peppers; seeds removed and diced
 - 3 jalapeño or 2 serrano peppers; sliced
 - 1 Tbsp cumin
-- 2 tsp smoked paprika
-- 28oz san marzano tomatoes
+- 1 Tbsp smoked paprika
+- 28oz high quality tomatoes; e.g., san marzano
 - 1 can chickpeas; drained and rinsed
 - 6 or 7 eggs
 - 1 handful of chopped parsley; can also used chopped cilantro or thinly sliced green onion as garnish
 - 1/4 cup crumbled feta
-- olive oil and pepper to finsih
+- olive oil and pepper to finish
+- (optional) fresh or pickled radish for garnish
 
 ### instructions
 1. Heat a 12-14" pan on medium heat. Add onions, peppers, a few tablespoons of olive oil and a small pinch of salt and 
@@ -38,7 +39,8 @@ olive and a few cracks of pepper.
 
 ### notes
 Goes well with baguette or naan.  Can add lots of different veggies to the base: carrots, radishes, green beans, 
-eggplant, etc. Also goes well with a drizzle of tahini sauce.  Goya makes the best canned chickpeas. I like sprinkling on some Trader Joe's "Everything But the Bagel" spice mixture on top.
+eggplant, etc. Also goes well with a drizzle of tahini sauce.  Goya makes the best canned chickpeas. 
+I like sprinkling on some Trader Joe's "Everything But the Bagel" spice mixture on top. Can also add a green with the chickpeas like lacinato kale or de-stemmed swiss chard.
 
 
 

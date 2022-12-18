@@ -10,25 +10,20 @@
 <br>
 
 ### ingredients
-rice 
 - 3 rice cooker cups of white short or medium grain rice 
 - 4 Tbsp rice vinegar 
 - 3 Tbsp (scant) sugar 
 - 1 tsp kosher salt 
-- approx 2”x2” kombu (optional)
-
-spicy mayo
+- approx 2x2” kombu (optional)
 - 4 Tbsp kewpie mayonnaise 
 - 2 Tbsp sriracha or similar hot sauce
-
-other toppings
 - 12-16 oz smoked slab salmon 
 - avocado; sliced
 - 1 cucumber thinly sliced and tossed with small amount of salt (optionally sugar), or 1 recipe of "smashed cucumbers" - below
 - nori slices to make little sushi tacos
 - pickled red onion, radish or jalapeño
 - white and black toasted sesame seeds 
-- Broiled asparagus
+- broiled asparagus
 
 ### instructions
 1. Start by cooking the rice in a rice cooker on the white or sushi setting. Make rice seasoning while it cooks by combining and stirring the rice vinegar, sugar and salt in a small mason jar. 
