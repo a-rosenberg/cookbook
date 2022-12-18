@@ -1,6 +1,6 @@
 <p align="right">2.2.2016</p>
 
-<h1 align="center">jeff's naan</h1>
+<h1 align="center">naan (jeff's naan)</h1>
 
 <div align="center">
   <a href="#ingredients">ingredients</a> |
