@@ -14,7 +14,7 @@
 - 1.5 cups just boiled water
 - 1-2 Tbsp neutral oil
 - 1 pinch salt (3/4 tsp salt)
-- spices: cloves, cinnamon stick, black peppercorns, cumin seeds, mustard seeds, curry leaves (all optional)
+- spices: panch puran (ideal), cloves, cinnamon stick, black peppercorns, cumin seeds, mustard seeds, curry leaves (all optional)
 
 ### instructions
 1. Rinse rice under cold water a few times or until it runs clear.  Cover in cold water and let sit for at 

@@ -18,8 +18,8 @@
 - some semolina flour
 
 ### instructions
-1. In a large, sealable container over a scale add water Then yeast and salt.  Mix a little bit.  
-Tare then add white flour, tare again and add whole wheat.  Combine thoroughly with a danish dough 
+1. In a large, sealable container over a scale add water then yeast and salt.  Mix.  
+Tare the scale then add white flour. Tare again and add whole wheat.  Combine thoroughly with a danish dough 
 whisk or wooden spoon, making sure to get the corners.
 1. Let sit out, with lid on lightly so that gases can escape, for 2-4 hours while it rises then collapses a bit.  
 Then place in the fridge for 3 hours to 10 days.
@@ -29,4 +29,4 @@ slash 3 times lengthwise on a slight angle and bake for 25 minutes.
 1. Let cool, then eat.  Should last a day or two.
 
 ### notes
-Makes 5-8 baguettes depending on size.
+Makes 5-8 baguettes depending on size. This dough also works great for pizza or a normal loaf.
