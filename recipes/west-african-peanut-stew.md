@@ -1,6 +1,6 @@
 <p align="right">12.31.2017</p>
 
-<h1 align="center">african peanut stew</h1>
+<h1 align="center">west african peanut stew</h1>
 
 <div align="center">
   <a href="#ingredients">ingredients</a> | 
