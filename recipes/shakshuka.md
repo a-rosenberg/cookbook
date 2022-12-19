@@ -20,7 +20,7 @@
 - 1 can chickpeas; drained and rinsed
 - 6 or 7 eggs
 - 1 handful of chopped parsley; can also used chopped cilantro or thinly sliced green onion as garnish
-- 1/4 cup crumbled feta
+- 1/4 cup crumbled feta; best from a block vs. pre-crumbled
 - olive oil and pepper to finish
 - (optional) fresh or pickled radish for garnish
 
