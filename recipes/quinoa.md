@@ -21,4 +21,4 @@
 4. Turn off heat but leave covered for 5 more minutes. Then fluff with a fork and let the residual steam evaporate, uncovered. Should be ready to serve in 5 minutes.
 
 ### notes
-If you don't have broth can substitute with water - just add 1/2 tsp salt.
+If you don't have broth it's fine to substitute with water - just add 1/2 tsp salt.

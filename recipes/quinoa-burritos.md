@@ -34,10 +34,10 @@
 1. Preheat oven to 400F with convection. Coat diced sweet potato in the 1 Tbsp neutral oil, salt, msg (if using), cumin, chili powder and smoked paprika. Spread on a 1/4 sized baking sheet covered in parchment or a silpat and roast for 15 minutes, shaking to make sure they don't burn after 10.
 1. Add full contents of the black bean can and one peeled and smashed garlic clove to a small saucepan and cook over medium heat stirring when you remember.  After about 10 minutes the beans should be good. When ready, remove the with a spoon so to leave behind any extra cooking liquid. 
 1. Combine cooked quinoa, sweet potato and black beans in a bowl or storage container. Add spinach and stir to wilt. Throw in the microwave for 30-60 seconds if there's not enough heat to break down the spinach.
-2. Season the mixture with half of a lime and salt as needed. Add another 1/2 tsp of cumin and stir well. Add feta, if using, and lightly stir.
-3. Preheat a cast iron pan large enough to hold the tortillas over medium heat. Once hot, add a tortilla and cook for 15 seconds each side so that the burrito is pliable. Remove from the pan and add the main mixture then the sriracha, pickled red onions, cashew cream and avocado slices. Roll up and place back onto the pan cut side down to seal and brown. Move around once or twice to brown the remaining sides of the burrito.
-4. Can eat whole or cut in half on a bias.
+1. Season the mixture with half of a lime and salt as needed. Add another 1/2 tsp of cumin and stir well. Add feta, if using, and lightly stir.
+1. Preheat a cast iron pan large enough to hold the tortillas over medium heat. Once hot, add a tortilla and cook for 15 seconds each side so that the burrito is pliable. Remove from the pan and add the main mixture then the sriracha, pickled red onions, cashew cream and avocado slices. Roll up and place back onto the pan cut side down to seal and brown. Move around once or twice to brown the remaining sides of the burrito.
+1. Can eat whole or cut in half on a bias.
 
 ### notes
-For this, I like to make a cashew cream out of 3/4 cup of cashews and water plus a pinch of salt, 1 tbsp of nutritional yeast and one small garlic clove. Just blend until smooth adding more cashews or water to get a good consistency, knowing that once it cools it will thicken some.
+I like to make a cashew cream out of 3/4 cup of cashews and 3/4 cup water plus a pinch of salt, 1 tbsp of nutritional yeast and one small garlic clove. Just blend until smooth adding more cashews or water to get a good consistency, knowing that once it cools it will thicken some.
 
