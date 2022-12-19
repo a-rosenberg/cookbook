@@ -39,5 +39,4 @@
 1. Can eat whole or cut in half on a bias.
 
 ### notes
-I like to make a cashew cream out of 3/4 cup of cashews and 3/4 cup water plus a pinch of salt, 1 tbsp of nutritional yeast and one small garlic clove. Just blend until smooth adding more cashews or water to get a good consistency, knowing that once it cools it will thicken some.
-
+I like to make a cashew cream out of 3/4 cup of cashews and 3/4 cup water plus a pinch of salt, 1 tbsp of nutritional yeast and one small garlic clove. Blend (in a high-powered blender) until very smooth adding more cashews or water to get a good consistency, knowing that once it cools it will thicken some.
