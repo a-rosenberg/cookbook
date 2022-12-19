@@ -12,7 +12,7 @@
 ### ingredients
 - 1 scant Tbsp oil; extra virgin olive oil or avocado work 
 - 1 cup quinoa
-- 1.75 cup vegetable broth; ideally hot.
+- 1.75 cup vegetable broth or water (see note); ideally hot.
 
 ### instructions
 1. Set a saucepan over medium heat. Rinse the quinoa in a fine mesh strainer and drain well.
@@ -21,5 +21,4 @@
 4. Turn off heat but leave covered for 5 more minutes. Then fluff with a fork and let the residual steam evaporate, uncovered. Should be ready to serve in 5 minutes.
 
 ### notes
-Can be used in place of a lot of grains. Good in quinoa burritos.
-
+If you don't have broth can substitute with water - just add 1/2 tsp salt.
