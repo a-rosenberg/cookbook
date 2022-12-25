@@ -10,15 +10,12 @@
 <br>
 
 ### ingredients
-##### stiry fry
 - 4-5 celery stalks; sliced
 - 1/2 bunch green onion; thickly sliced with a little reserved for topping
 - 1-2 hot peppers (serrano or birds eye); thinly sliced or tiny dice
 - 1 lb tempeh; cut into 1/2" cubes
 - 1/2 cup chopped nuts (cashew or peanut)
-- neutral oil 
-
-##### sauce
+- neutral oil
 - 5 garlic cloves; pressed or grated
 - 2" ginger; finely minced or grated
 - 1/4 cup soy sauce or tamari
