@@ -10,7 +10,7 @@
 <br>
 
 ### ingredients
-- 8 oz shrimp; peeled and deveined and patted dry
+- 6-8 oz shrimp; peeled and deveined and patted dry
 - 1 cup mung bean sprouts
 - 3 green onion; sliced into 2" chunks, white parts sliced in half lengthwise. 
 - 4 eggs
@@ -34,5 +34,5 @@
 1. Remove from the pan and serve with the sauce as a drizzle. 
 
 ### notes
-A classic Christmas eve dinner.
+A classic Christmas Eve dinner.
 
