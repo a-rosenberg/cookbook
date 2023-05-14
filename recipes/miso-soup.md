@@ -1,6 +1,6 @@
 <p align="right">5.13.2023</p>
 
-<h1 align="center">ingredient soup</h1>
+<h1 align="center">miso soup</h1>
 
 <div align="center">
   <a href="#ingredients">ingredients</a> | 
@@ -24,4 +24,4 @@ paste until dissolved. The strainer should prevent any large grains in the miso 
 1. Serve while still hot.
 
 ### notes
-Feel free to add extra ingredients. 
+Can add cubed soft tofu with green onion. I like it simpler, without tofu.
