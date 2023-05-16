@@ -10,7 +10,7 @@
 <br>
 
 ### ingredients
-- 2 small beets (or 1 large); cooked and peeled
+- 2 small beets (or 1 medium/large); cooked and peeled
 - 1/2 cup frozen berries
 - 1 frozen banana
 - 1 cup unsweetened almond milk
