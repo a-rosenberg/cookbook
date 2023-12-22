@@ -6,6 +6,8 @@ import subprocess
 TIME_ORDER: bool = True  # if not time ordered, goes alphabetical
 NEWLINE = '\n'
 RECIPE_DIRECTORY = os.path.join(os.path.dirname(__file__), 'recipes')
+OVERRIDE_DIRECTORY = os.path.join(os.path.dirname(__file__), '2023')  # None
+RECIPE_DIRECTORY = RECIPE_DIRECTORY if not OVERRIDE_DIRECTORY else OVERRIDE_DIRECTORY
 
 for path in [os.path.join(RECIPE_DIRECTORY, x) for x in os.listdir(RECIPE_DIRECTORY)
              if x.endswith('.md') and not x.startswith('print_')]:
