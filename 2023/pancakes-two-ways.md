@@ -9,7 +9,10 @@
 </div>
 <br>
 
-### ingredients
+They're both delicious. I think I prefer the texture of way 1 better, but the flavor of way 2. Can't go wrong with either.
+
+## way 1: the classic
+
 - 1.5 cups flour (225 g)
 - 0.5 cup almond flour (60g)
 - 1/4 tsp salt 
@@ -17,17 +20,14 @@
 - 1 Tbsp sugar 
 - 2 eggs 
 - 1.5 cups almond milk 
-- Toppings: strawberry, banana, chocolate chips 
 
 
 ### instructions
-1. Mix wet and dry separately then bring together until just hydrated. Don’t over mix, small clumps are ok. 
-1. Cook over medium in cast iron or non-stick with some butter. 
+Mix wet and dry separately then bring together until just hydrated. Don’t over mix, small clumps are ok. Cook over medium in cast iron or non-stick with some butter. 
 
-### notes
-There are many ways to make pancakes... this is my favorite. Another option is banana pancakes which have 
-good flavor but worse texture: 
+## way 2: banana mashed
 
+### ingredients
 - 3 ripe bananas 
 - 3 eggs 
 - almond flour
@@ -35,4 +35,7 @@ good flavor but worse texture:
 - salt (optional)
 - neutral or coconut oil 
 
-Smash bananas until they’re pudding. Mix in the eggs. Add flour until good pancake consistency (maybe 1/4 to 1/2 cup). Add baking powder and stir or whisk in. Add a pinch of salt if desired. Cook with oil.
+### instructions
+Mash bananas with a fork until they’re pudding. Mix in the eggs. Add flour until good pancake consistency (maybe 1/4 to 1/2 cup). Add baking powder and stir or whisk in. Add a pinch of salt if desired. Cook with oil.
+
+Can be scaled to any number of equal bananas and eggs easily.

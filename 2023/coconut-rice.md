@@ -17,9 +17,9 @@
 - 3 Tbsp shredded coconut; plus more, toasted for a garnish if desired
 
 ### instructions
-1. Combine in a rice cooker and stir.
-2. Cook on sweet setting, or just the white setting if sweet is not an option.
-3. Fluff and stir to combine the shredded coconut which will have floated to the top.
+Combine in a rice cooker and stir. Cook on sweet setting, or just the white setting if sweet is not an option.
+
+Fluff and stir to combine the shredded coconut which will have floated to the top.
 
 ### notes
 High quality coconut milk makes a massive difference.  I really like Thai Kitchen brand, and dislike Trader Joes.

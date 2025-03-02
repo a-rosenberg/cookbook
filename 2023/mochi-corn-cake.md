@@ -18,11 +18,12 @@
 - 1/2 tsp vanilla extract
 - 2 cups glutinous rice flour (I use Koda Farms Blue Star Mochiko)
 - 1 tsp baking powder
-- 1/2 tsp salt
+- 1/2 tsp kosher salt
 
 ### instructions
-1. Preheat oven to 350F non-convection.  Grease a 8x8 or 9x9 square or round pan. Blend corn and coconut milk until very smooth.  Blend in the other ingredients until smooth.  Pour into greased baking tray and knock out bubbles.
-1. Bake for 45 minutes to 1 hour.   Let cool completely then cut.  Store on counter up to 24 hours or fridge for longer. 
+Preheat oven to 350F non-convection.  Grease a 8x8 or 9x9 square or round pan. Blend corn and coconut milk until very smooth.  Blend in the remaining ingredients until smooth again.  Pour into greased baking tray and knock out bubbles.
+
+Bake for 45-60 minutes, until the center is set but bounces back when pushed, and edges are golden brown.  Let cool completely then cut.  Store on counter up to 24 hours or fridge for longer. 
 
 ### notes
 Reference: https://www.foodnetwork.ca/recipe/sweet-corn-mochi-cake/

@@ -15,16 +15,16 @@
 - splash of shoyu; about 1 tsp
 - dash of sesame oil
 - sesame seeds
-- (optional) 1 green onion; greens thinly sliced
+- 1 green onion; greens thinly sliced
 - (optional) roasted squash
 - (optional) white pepper
 - (optional) chili crunch oil
 - (optional) pickled radish
 
 ### instructions
-1. Blend cooked rice and broth until smooth with some chunks of suspended rice. 15-30 seconds on high. 
-1. Pour into a saucepan and cook for 5 minutes to allow the rice to absorb some of the broth and thicken.
-1. Serve with green onions and shoyu plus other optional toppings. 
+Blend cooked rice and broth until smooth with some chunks of suspended rice. 15-30 seconds on high. Pour into a saucepan and cook for 5 minutes to allow the rice to absorb some broth and thicken. 
+
+Serve with green onions and shoyu plus other optional toppings. 
 
 ### notes
 Serves 2.

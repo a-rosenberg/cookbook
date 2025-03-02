@@ -1,0 +1,43 @@
+<p align="right">01.04.2025</p>
+
+<h1 align="center">oatmeal scotchies</h1>
+
+<div align="center">
+  <a href="#ingredients">ingredients</a> | 
+  <a href="#instructions">instructions</a> | 
+  <a href="#notes">notes</a>
+</div>
+<br>
+
+### ingredients
+- 1½ Cups (188g) all-purpose flour  
+- 1 tsp baking soda  
+- 1 tsp ground cinnamon  
+- ½ tsp salt  
+- 1 Cup (226g) unsalted butter, softened to room temperature  
+- 1 Cup (200g) packed light or dark brown sugar  
+- ½ Cup (100g) granulated sugar  
+- 2 large eggs; room temperature  
+- 1 Tbsp (15ml) unsulphured or dark molasses (do not use blackstrap)  
+- 2 tsp pure vanilla extract  
+- 3 Cups (240g) old-fashioned whole rolled oats  
+- 1¾ Cups (300g) butterscotch morsels  
+
+### instructions
+1. In a medium bowl, whisk together the flour, baking soda, cinnamon, and salt. Set aside.  
+2. In a large bowl using a hand mixer or stand mixer fitted with a paddle attachment, beat the softened butter, brown sugar, and granulated sugar on medium-high speed until creamy and combined, about 2 minutes.  
+3. Add the eggs, molasses, and vanilla extract to the butter mixture. Beat on high speed until combined, scraping down the sides and bottom of the bowl as needed.  
+4. Add the dry ingredients to the wet ingredients and mix on low speed until combined.  
+5. With the mixer on low speed, beat in the oats and butterscotch morsels until evenly distributed. The dough will be thick and sticky.  
+6. Cover the dough tightly with plastic wrap and chill in the refrigerator for at least 45 minutes, or up to 4 days. Chilling is mandatory for this cookie dough.  
+7. When ready to bake, preheat the oven to 350°F (177°C). Line baking sheets with parchment paper or silicone baking mats.  
+8. Scoop about 3 Tbsp of dough per cookie and roll into balls. Place them on the prepared baking sheets, spacing them about 3 inches apart.  
+9. Bake the cookies for 12–14 minutes, or until the edges are lightly browned. The centers will look soft and undercooked.  
+10. Remove from the oven and allow the cookies to cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely.  
+
+### notes
+- **Storage:** Cookies stay fresh covered at room temperature for up to 1 week.  
+- **Make-Ahead Instructions:** You can make the cookie dough and chill it in the refrigerator for up to 4 days. Let it sit at room temperature for about 10 minutes before baking. Baked cookies freeze well for up to 3 months. Unbaked cookie dough balls freeze well for up to 3 months. Bake frozen cookie dough balls for an extra minute; no need to thaw.  
+- **Molasses:** Avoid using blackstrap molasses, as it is too bitter for this recipe.  
+- **Oats:** Use old-fashioned whole rolled oats for the best texture. Quick oats are too fine and will make the cookies dry.  
+- **Butterscotch Morsels:** Ensure they are fresh and not stale for the best flavor and texture.  

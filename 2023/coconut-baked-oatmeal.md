@@ -20,15 +20,17 @@
 - 1/2 tsp kosher salt 
 - 1 can coconut milk 
 - 2 1/4 cup rolled oats (not quick cooking)
-- bluberries, strawberries, raspberries, blackberries; washed (optional)
-- coconut whipped cream (optional)
+- (optional) blueberries, strawberries, raspberries, or blackberries; washed
+- (optional) coconut whipped cream
 
 ### instructions
-1. Preheat the oven to 375F (without convection) and melt coconut oil (or replacement) to grease baking dish.
-1. Smash bananas in large mixing bowl. Combine all ingredients up to rolled oats and mix well.  Spoon in oats and 
+Preheat the oven to 375F (without convection) and melt coconut oil (or replacement) to grease baking dish.
+
+Smash bananas in large mixing bowl. Combine all ingredients up to rolled oats and mix well.  Spoon in oats and 
 stir to combine.
-1. Bake for 45 minutes.  Remove and let cool for a couple minutes before digging in.  Optionally, top with fruit and 
+
+Bake for 45 minutes.  Remove and let cool for a couple of minutes before digging in.  Optionally, top with fruit and 
 coconut whipped cream.
 
 ### notes
-Can be served warm or cold. Keeps for a few days in the fridge.
+Can be served warm or cold. Keeps for a few days in the fridge. Can be assembled the night before and baked morning of.

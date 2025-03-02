@@ -10,35 +10,30 @@
 <br>
 
 ### ingredients
-- 4 cups vegetable stock
-- 1.5 lbs assorted mushrooms (a mixture is best); cleaned, trimmed and thinly sliced
+- 4 cups vegetable broth
+- 1.5 lbs mushrooms; cleaned, trimmed and thinly sliced
 - 4 Tbsp olive oil
 - 4 Tbsp butter
 - 1 yellow onion; chopped
 - 4 garlic cloves; minced
 - 1.5 cup arborio rice
-- 2 tsp soy sauce; shoyu, tamari or light chinese
+- 1 Tbsp soy sauce; shoyu, tamari or light chinese
 - 1 Tbsp light (shiro) miso
-- 1/2 cup white wine or sake
+- 1/2 cup sake or white wine
 - 1 oz grated high quality parmesan
 - more parmesan and any finely minced herb for serving
-- (optional) 1 oz dried porcini or shitake
 
 ### instructions
-1. If you have dried mushrooms, heat stock and allow dried mushrooms to steep until soft, about 5 minutes for 
-porcinis or up to an hour for shitakes. Remove hydrated mushrooms and roughly chop. Add mushroom scraps to the stock 
-and allow to sit until later when the stock is added to the rice. 
-1. Heat olive and oil and butter in the pressure cooker and add all of the mushrooms. Cook until mushrooms have softened, but you don't need to take it until they're completely dried and browning.
-1. Add onion and garlic and cook until barely softened, then add rice and cook until starting to become translucent 
-around the edges; about 5 minutes. 
-1. Stir in soy/tamari and miso paste until distributed then add wine and cook until the alcohol is released; about 
-2-3 minutes. 
-1. Pour the stock into the pot through a mesh strainer and discard the mushroom scraps. Cook on low pressure for 5 
-minutes (10 psi on most cookers). Release steam valve and open the pressure cooker. 
-1. Stir in parmesan and check the seasoning. 
-1. Serve with extra grated parmesan and herbs at the table.
+Heat olive and oil and butter in the pressure cooker on sauté mode and add the mushrooms. Cook until mushrooms have softened, but you don't need to take it until they're completely dried and browning - some remaining moisture is fine.
+
+Add onion and garlic and cook until barely softened, then add rice and cook until starting to become translucent around the edges; about 5 minutes. 
+
+Stir in soy sauce and miso paste until distributed then add wine and cook until the alcohol is released; about 2-3 minutes. 
+
+Pour in the broth and stir. Cook on low pressure for 5 minutes (10 psi on most cookers). Release steam valve and open the pressure cooker. If still a little loose, continue to cook on sauté mode while stirring to release more of the rice starch.
+
+Stir in parmesan then check the seasoning. If it's under-seasoned can add a pinch of salt or more soy sauce. Serve with extra grated parmesan and herbs at the table.
 
 ### notes
-Not a good choice for someone who doesn't like mushrooms.  The dried mushrooms are nice but not necessary - I 
-generally skip the extra step. Also, if the rissotto comes out a little too dry, feel free to loosen it with a 
-few tablespoons of stock or heavy cream.
+A mixture of mushrooms is nice.
+
