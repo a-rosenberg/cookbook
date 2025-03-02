@@ -19,7 +19,7 @@
 ### instructions
 1. Combine sugar, salt, vinegar and water in bowl and stir until dissolved.
 2. Pour into mason jar until vegetables are fully covered or brine reaches the top.
-3. Place in fridge.  Can be eaten after a day or two.  Will be fully 'ready' after four days.  Will keep for a month.
+3. Place in fridge.  Good after sitting overnight.  Will be fully 'ready' after 3-4 days.  Will keep for a month.
 
 ### notes
 This is enough brine for a wide mouth tallboy mason jar.

@@ -1,6 +1,6 @@
-<p align="right">01.04.2025</p>
+<p align="right">2025-03-02</p>
 
-<h1 align="center">mochi bars</h1>
+<h1 align="center">chewy mochi rice bars</h1>
 
 <div align="center">
   <a href="#ingredients">ingredients</a> | 
@@ -10,22 +10,21 @@
 <br>
 
 ### ingredients
-- 1/2 cup mochi flour  
-- 1/2 cup water or almond milk  
+- 1/2 Cup mochi flour  
+- 1/2 Cup water or almond milk  
 - 2 Tbsp butter, sliced  
 - 2 Tbsp maple syrup  
-- 2 cups puffed brown rice (aka brown rice crisps)  
-- (optional) 1/4 cup unsweetened shredded coconut  
+- 2 Cups puffed brown rice (aka brown rice crisps)  
+- (optional) 1/4 Cup unsweetened shredded coconut  
 - Pinch of salt  
 
 ### instructions
-1. Mix together mochi flour, liquid, butter, salt, and maple syrup in a large microwave-safe bowl. Use a large bowl to allow room for mixing in the rice and coconut later.  
-2. Microwave the mixture covered on high (1200W) for 1 minute. Stir to finish melting the butter.  
-3. Cook again for 2 minutes on high.  
-4. Mix in the puffed brown rice and optional shredded coconut until evenly combined.  
-5. Transfer the mixture to a buttered sheet pan or plain parchment paper. Shape into a rectangle for easy cutting. A 1/4 sheet pan works well.  
-6. Let cool, then cut into bars as desired.  
+1. Mix together flour, liquid, butter, salt, and syrup in a large microwave-safe bowl (large so we can mix in the rice and coconut later).  
+2. Microwave covered on high (1200W) for 1 minute.  
+3. Stir to finish melting the butter.  
+4. Cook again for 2 minutes on high.  
+5. Mix brown rice and coconut until evenly combined.  
+6. Place mixture on a buttered sheet pan or plain parchment paper in the desired shape. I like a rectangle that I can cut into 4 smaller rectangle bars (see photo on 1/4 pan).  
 
 ### notes
-- For portability, wrap bars in parchment paper and place them in a reusable bag like a Stasher bag.  
-- Great for taking on rides or as a quick snack.  
+For a ride, I like to take a couple in a folded-over piece of parchment paper inside a Stasher bag.  

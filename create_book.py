@@ -6,14 +6,14 @@ import subprocess
 TIME_ORDER: bool = False  # if not time ordered, goes alphabetical
 NEWLINE = '\n'
 RECIPE_DIRECTORY = os.path.join(os.path.dirname(__file__), 'recipes')
-OVERRIDE_DIRECTORY = os.path.join(os.path.dirname(__file__), '2023')  # None
+OVERRIDE_DIRECTORY = os.path.join(os.path.dirname(__file__), '2025')  # None
 RECIPE_DIRECTORY = RECIPE_DIRECTORY if not OVERRIDE_DIRECTORY else OVERRIDE_DIRECTORY
 REMOVE_DATES: bool = True
 
 for path in [os.path.join(RECIPE_DIRECTORY, x) for x in os.listdir(RECIPE_DIRECTORY)
              if x.endswith('.md') and not x.startswith('print_')]:
     new_rows = []
-    date = None
+    date = 'meh' # None
     title = None
 
     with open(path) as fid:
@@ -30,7 +30,7 @@ for path in [os.path.join(RECIPE_DIRECTORY, x) for x in os.listdir(RECIPE_DIRECT
                 elif title_match:
                     title = title_match.group(1)
                 else:
-                    new_rows.append(row)
+                    new_rows.append(row.strip() + NEWLINE)
 
     if date and title:
 
