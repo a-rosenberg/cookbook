@@ -20,3 +20,7 @@
 3. Preheat oven to 400°F and let the tofu marinate while it’s heating.
 4. When oven is hot, place on a large sheet pan lined with parchment or Silpat.
 5. Cook for 25-30 minutes, flipping in the middle.
+
+### notes
+- This is lighty seasoned and ready for use in other recipes. 
+- I like to use this on rice bowls with vegetables and a peanut sauce.

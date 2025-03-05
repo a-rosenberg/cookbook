@@ -8,7 +8,7 @@
 <br>
 
 ### ingredients
-- 2 rice cooker Cups short-grain rice
+- 2 rice cooker Cups short or medium-grain rice
 - 2 small to medium sweet potatoes, peeled and cubed 1/2"  
 - 1/2 Cup green onion, thinly sliced  
 - 1/4 Cup soy sauce

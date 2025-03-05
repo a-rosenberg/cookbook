@@ -9,6 +9,7 @@ RECIPE_DIRECTORY = os.path.join(os.path.dirname(__file__), 'recipes')
 OVERRIDE_DIRECTORY = os.path.join(os.path.dirname(__file__), '2025')  # None
 RECIPE_DIRECTORY = RECIPE_DIRECTORY if not OVERRIDE_DIRECTORY else OVERRIDE_DIRECTORY
 REMOVE_DATES: bool = True
+PDF_NAME = 'recipe-book.pdf'
 
 for path in [os.path.join(RECIPE_DIRECTORY, x) for x in os.listdir(RECIPE_DIRECTORY)
              if x.endswith('.md') and not x.startswith('print_')]:
@@ -59,7 +60,7 @@ compile_command = (f'/opt/homebrew/bin/pandoc -s '
                    f'--toc --toc-depth=1 '
                    f'--pdf-engine="/Library/TeX/texbin/pdflatex" '
                    f'--include-in-header titlesec.tex '
-                   f'-o recipe-book.pdf {" ".join(all_printable_paths)}')
+                   f'-o {PDF_NAME} {" ".join(all_printable_paths)}')
 
 subprocess.call(compile_command, shell=True)
 [os.remove(os.path.join(RECIPE_DIRECTORY, x)) for x in os.listdir(RECIPE_DIRECTORY) if x.startswith('print_')]
