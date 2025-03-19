@@ -16,6 +16,6 @@
 
 ### instructions
 1. Combine oats, almond milk, salt, maple syrup, blueberries, and cocoa powder (if using) in a microwave-safe bowl.  
-2. Cover and microwave at 1200W for 2 minutes at power level 7.  
+2. Cover and microwave (1200W) for 2 minutes at power level 7/10.  
 3. Microwave for an additional 30 seconds at full power.  
 4. Stir and let sit briefly before serving.  

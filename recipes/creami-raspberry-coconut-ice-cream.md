@@ -1,4 +1,4 @@
-<h1 align="center">creami - coconut raspberry ice cream</h1>
+<h1 align="center">creami coconut raspberry ice cream</h1>
 
 <div align="center">
   <a href="#ingredients">ingredients</a> | 

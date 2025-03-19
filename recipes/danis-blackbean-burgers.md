@@ -1,5 +1,3 @@
-<p align="right">2025-03-02</p>
-
 <h1 align="center">dani's black bean burgers</h1>
 
 <div align="center">
@@ -10,13 +8,13 @@
 <br>
 
 ### ingredients
-- 4 cans black beans, unsalted, rinsed and drained  
-- 1/2 large onion, small dice  
-- 1 red pepper, small dice  
+- 4 cans black beans, unsalted, rinsed and drained
+- 1/2 large onion, small dice
+- 1 red pepper, small dice
 - 1 large zucchini (300g pre-shred), grated and pressed  
-- 4 carrots (200g pre-shred), grated and pressed  
-- 50g Parmesan  
-- 4 eggs  
+- 4 carrots (200g pre-shred), grated and pressed
+- 50g Parmesan
+- 4 eggs
 - 2 Tbsp soy sauce  
 - 6 shakes Worcestershire sauce  
 - Salt to taste  

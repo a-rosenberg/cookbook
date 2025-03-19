@@ -1,5 +1,3 @@
-<p align="right">2025-03-02</p>
-
 <h1 align="center">mushroom sprout polenta</h1>
 
 <div align="center">

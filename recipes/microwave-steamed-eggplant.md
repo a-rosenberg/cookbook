@@ -19,3 +19,6 @@
 4. Place in a microwave-safe steaming vessel and cook for 3-5 minutes at 1200W.  
 5. Toss and check seasoning. Cook for another 3-5 minutes.  
 6. Add garlic, stir, and cook for 30-60 seconds longer.  
+
+### notes
+This goes great in pasta and red sauce to make a dish similar to Pasta a la Norma.

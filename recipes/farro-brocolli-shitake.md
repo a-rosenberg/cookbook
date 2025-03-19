@@ -1,6 +1,4 @@
-<p align="right">01.04.2025</p>
-
-<h1 align="center">vegan farro with broccoli and shiitakes</h1>
+<h1 align="center">farro, broccolis and shiitakes</h1>
 
 <div align="center">
   <a href="#ingredients">ingredients</a> | 

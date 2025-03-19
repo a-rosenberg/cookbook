@@ -1,5 +1,3 @@
-<p align="right">2025-03-02</p>
-
 <h1 align="center">microwave quinoa fruit puree</h1>
 
 <div align="center">

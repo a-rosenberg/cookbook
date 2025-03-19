@@ -1,6 +1,4 @@
-<p align="right">12.15.2022</p>
-
-<h1 align="center">rosenberg's matzoh ball soup</h1>
+<h1 align="center">rosenberg matzoh ball soup</h1>
 
 <div align="center">
   <a href="#ingredients">ingredients</a> | 
@@ -13,11 +11,11 @@
 - 1 Manishewvitz matzoh ball mix packet
 - 2 large eggs 
 - 1/4 cup extra virgin olive oil or neutral oil 
-- 4 stalks celery; diced
-- 6 carrots; diced - no need to peel
-- 8 cups vegetable broth; preferably from better than bouillon concentrate
+- 4 stalks celery; thinly sliced
+- 6 carrots; thinly sliced - no need to peel
+- 10 cups vegetable broth; preferably from better than bouillon concentrate
 - egg soup noodles
-- 1 handful parsley; chopped 
+- (optional) 1 handful parsley; chopped 
 - (optional) 1 bulb fresh fennel; cut into small, bite-sized pieces, fronds reserved 
 
 
