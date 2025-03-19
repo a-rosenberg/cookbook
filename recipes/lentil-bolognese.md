@@ -11,7 +11,7 @@
 
 ### ingredients
 - 3 Tbsp olive oil
-- 2 carrots; small dice
+- 2-3 carrots; small dice
 - 1-2 celery stalks; small dice
 - 1 onion; small dice
 - 1 cup beluga (black) lentils
@@ -37,8 +37,9 @@ Pressure cooker recipe:
 1. Remove and blend half the sauce then put back into the pot.  Stir in butter and balsamic and season to taste.
 
 ### notes
-Can use any type of broth.  Mushroom or chicken broth would be nice. For boxed pasta I prefer *De Cecco* brand and a
-shape without holes or tubes for the sauce to get stuck in.  Good options are farfalle, oriechette or fettuccine.  Also
+A thick balsamic works best here - look for ~ density 1.30.
+
+For boxed pasta I prefer *De Cecco* brand and a shape without holes or tubes for the sauce to get stuck in.  Good options are farfalle, oriechette or fettuccine.  Also
 goes really well over roasted spaghetti squash.
 
 
