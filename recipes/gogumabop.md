@@ -24,8 +24,8 @@
 1. Rinse and fill water for rice as normal in an electric rice cooker.  
 2. Top with cubed sweet potato and cook.
 3. While the rice is cooking, combine the rest of the ingredients in a mason jar and shake to combine/dissolve.
-4. When rice is done cooking, stir to incorporate sweet potato.  
-5. Serve topped with a few spoonfuls of the sauce.
+4. When rice is done cooking, stir to incorporate sweet potato while keeping chunks.  
+5. Serve topped with a few spoonfuls of the sauce and any toppings.
 
 ### notes
 - Serves 2–4.
