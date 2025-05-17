@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>nora's kitchen</title>
+  <link rel="stylesheet" href="static/styles.css">
+</head>
+<body>
+  <div class="container">
+    <div class="banner">
+      <h1>nora's kitchen</h1>
+    </div>
+
+    <div class="search-bar-container">
+      <input type="text" id="searchInput" placeholder="search recipes or ingredients...">
+      <button id="randomBtn">random</button>
+    </div>
+
+    <div class="grid-cards">
+      {% for r in recipes %}
+      <div class="card" data-title="{{ r.title | lower }}" data-ingredients="{{ r.ingredients | join(' ') | lower }}">
+        <a href="{{ r.filename }}">
+          <h3 class="card-title">{{ r.title | lower }}</h3>
+        </a>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  <script>
+    // Filter on input 'Enter'
+    document.getElementById('searchInput').addEventListener('keyup', function(e) {
+      if (e.key === 'Enter') {
+        const filter = this.value.toLowerCase();
+        document.querySelectorAll('.card').forEach(card => {
+          const title = card.dataset.title;
+          const ingredients = card.dataset.ingredients;
+          card.style.display = (title.includes(filter) || ingredients.includes(filter)) ? 'block' : 'none';
+        });
+      }
+    });
+
+    // Random recipe button
+    document.getElementById('randomBtn').addEventListener('click', function() {
+      const cards = Array.from(document.querySelectorAll('.card a'));
+      const randomLink = cards[Math.floor(Math.random() * cards.length)].href;
+      window.location.href = randomLink;
+    });
+  </script>
+</body>
+</html>

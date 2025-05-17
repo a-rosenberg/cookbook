@@ -1,0 +1,37 @@
+<p align="right">12.16.2022</p>
+
+<h1 align="center">stewed chinese dumplings</h1>
+
+<div align="center">
+  <a href="#ingredients">ingredients</a> | 
+  <a href="#instructions">instructions</a> | 
+  <a href="#notes">notes</a>
+</div>
+<br>
+
+### ingredients
+- 1 bag frozen wontons, dumplings, gyoza, etc
+- 10-14 oz mushrooms; cut into bike sized pieces
+- 2 cups veggie broth 
+- 2-4 baby/shangai bok choy; sliced and washed
+- 2 cloves garlic; minced
+- 1” ginger; peeled and minced 
+- 2 Tbsp oyster sauce
+- 1 Tbsp rice vinegar 
+- Neutral oil for cooking
+- 1 Tbsp sesame oil
+- 2 green onion; sliced 
+- 1-3 Tsp chili crisp; depending on desired heat
+- White sesame seeds; for garnish
+
+### instructions
+1. Heat large pan over medium heat and add 1 Tbsp of oil. Add mushrooms and cook, covered for a few minutes to steam through then uncover and finish browning. When cooked through, add garlic and ginger and cook for 1 minute while stirring frequently.
+1. Add bag of frozen dumplings, 1-2 cups of the broth, and the oyster sauce. Stir to combine.  Lay bok choy over the top of the stew. Cook, covered again, for 5 minutes to steam the dumplings.
+1. Uncover, add rice vinegar and simmer until sauce is desired consistency.
+1. Take off heat and add sesame oil, chili crisp and green onion. Mix then top with sesame seeds.
+
+### notes
+- Used king trumpet mushrooms sliced into slabs.  Can also use oyster, shitake, maitake, beech, etc.  
+- Loved the Trader Joe’s vegetable gyoza
+- 1 Tbsp Momofuku black truffle chili crisp was high end of what I’d want for spice level. 
+- Went with about 1.75 cup of broth
