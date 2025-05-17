@@ -17,6 +17,7 @@ body {
   background: var(--bg);
   color: var(--text);
   text-transform: lowercase;
+  font-size: 16px; /* prevent mobile zoom on input */
 }
 
 .container {
@@ -39,9 +40,21 @@ body {
 .banner h1 {
   margin: 0;
   font-size: 2.8rem;
+  white-space: nowrap; /* prevent wrapping */
 }
 
-/* Search & Random in same row */
+/* Responsive adjustments */
+@media (max-width: 600px) {
+  .header-banner .recipe-title,
+  .banner h1 {
+    font-size: 2rem;
+  }
+  body {
+    padding: 1rem;
+  }
+}
+
+/* Search & Random button in same row */
 .search-bar-container {
   display: flex;
   width: 100%;
@@ -52,6 +65,7 @@ body {
 .search-bar-container button {
   font-family: 'Space Mono', monospace;
   text-transform: lowercase;
+  font-size: 16px;
 }
 
 #searchInput {
