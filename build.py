@@ -3,7 +3,7 @@ import json
 import shutil
 from jinja2 import Environment, FileSystemLoader
 
-def build_recipes(json_dir='recipes', template_dir='templates', output_dir='site'):
+def build_recipes(json_dir='recipes', template_dir='templates', output_dir='docs'):
     env = Environment(loader=FileSystemLoader(template_dir), autoescape=True)
     recipe_tpl = env.get_template('recipe.html')
     index_tpl = env.get_template('index.html')
@@ -47,7 +47,7 @@ def build_recipes(json_dir='recipes', template_dir='templates', output_dir='site
     index_html = index_tpl.render(recipes=recipes)
     open(os.path.join(output_dir, 'index.html'), 'w', encoding='utf-8').write(index_html)
 
-    print(f"Generated site with {len(recipes)} recipes.")
+    print(f"Generated docs with {len(recipes)} recipes.")
 
 if __name__ == '__main__':
     build_recipes()
