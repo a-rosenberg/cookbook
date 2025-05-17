@@ -40,7 +40,9 @@ body {
 .banner h1 {
   margin: 0;
   font-size: 2.8rem;
-  white-space: nowrap; /* prevent wrapping */
+  /* allow wrapping on long titles */
+  white-space: normal;
+  word-break: break-word;
 }
 
 /* Responsive adjustments */
