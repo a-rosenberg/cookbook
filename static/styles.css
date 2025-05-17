@@ -2,9 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@300;400&display=swap');
 
 :root {
-  --bg: #fcf9f3; /* subtle cream */
+  --bg: #fcf9f3;    /* subtle cream */
   --card-bg: #ffffff;
-  --accent: #769c7c; /* mellow green */
+  --accent: #769c7c;/* mellow green */
   --text: #333333;
   --border: #ccc;
   --shadow: rgba(0,0,0,0.08);
@@ -26,28 +26,25 @@ body {
 }
 
 /* Banner */
-.header-banner,
 .banner {
   background: var(--accent);
   color: var(--card-bg);
   padding: 2rem;
-  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   border-radius: 8px;
   margin-bottom: 2rem;
 }
 
-.header-banner .recipe-title,
 .banner h1 {
   margin: 0;
   font-size: 2.8rem;
-  /* allow wrapping on long titles */
-  white-space: normal;
+  white-space: normal;    /* allow wrapping */
   word-break: break-word;
 }
 
-/* Responsive adjustments */
 @media (max-width: 600px) {
-  .header-banner .recipe-title,
   .banner h1 {
     font-size: 2rem;
   }
@@ -56,7 +53,7 @@ body {
   }
 }
 
-/* Search & Random button in same row */
+/* Search & Random button */
 .search-bar-container {
   display: flex;
   width: 100%;

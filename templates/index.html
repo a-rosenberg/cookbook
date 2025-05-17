@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>nora's kitchen</title>
+  <link rel="icon" href="static/nora_favicon.png">
   <link rel="stylesheet" href="static/styles.css">
 </head>
 <body>
@@ -31,7 +32,7 @@
   </div>
 
   <script>
-    // Filter on typing (search as you type)
+    // Live search
     const searchInput = document.getElementById('searchInput');
     const filterCards = () => {
       const filter = searchInput.value.toLowerCase();
@@ -39,16 +40,15 @@
         const title = card.dataset.title;
         const ingredients = card.dataset.ingredients;
         card.style.display = (title.includes(filter) || ingredients.includes(filter))
-          ? 'block'
-          : 'none';
+          ? 'block' : 'none';
       });
     };
     searchInput.addEventListener('input', filterCards);
 
-    // Random recipe button
-    document.getElementById('randomBtn').addEventListener('click', function() {
-      const cards = Array.from(document.querySelectorAll('.card a'));
-      const randomLink = cards[Math.floor(Math.random() * cards.length)].href;
+    // Random recipe
+    document.getElementById('randomBtn').addEventListener('click', () => {
+      const links = Array.from(document.querySelectorAll('.card a'));
+      const randomLink = links[Math.floor(Math.random() * links.length)].href;
       window.location.href = randomLink;
     });
   </script>
