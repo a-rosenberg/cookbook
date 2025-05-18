@@ -4,27 +4,30 @@ import shutil
 from jinja2 import Environment, FileSystemLoader
 
 def build_recipes(json_dir='recipes', template_dir='templates', output_dir='docs'):
-    # Set up Jinja2 environment
     env = Environment(loader=FileSystemLoader(template_dir), autoescape=True)
     recipe_tpl = env.get_template('recipe.html')
     index_tpl = env.get_template('index.html')
 
-    # Clean and prepare output directory
-    if os.path.exists(output_dir):
-        shutil.rmtree(output_dir)
-    # Copy entire static folder (including logo, styles, etc.)
-    shutil.copytree('static', os.path.join(output_dir, 'static'))
-
+    # Recreate entire output directory
+    shutil.rmtree(output_dir, ignore_errors=True)
     os.makedirs(os.path.join(output_dir, 'recipes'), exist_ok=True)
 
-    # Generate recipe pages
+    # Copy static assets
+    shutil.copytree('static', os.path.join(output_dir, 'static'))
+
     recipes = []
-    for fname in sorted(os.listdir(json_dir)):
-        if not fname.endswith('.json'):
+
+    for filename in sorted(os.listdir(json_dir)):
+        if not filename.endswith('.json'):
             continue
-        data = json.load(open(os.path.join(json_dir, fname), 'r', encoding='utf-8'))
-        name = os.path.splitext(fname)[0]
-        out_path = os.path.join(output_dir, 'recipes', f"{name}.html")
+
+        name = os.path.splitext(filename)[0]
+        html_file = f"{name}.html"
+        out_path = os.path.join(output_dir, 'recipes', html_file)
+
+        with open(os.path.join(json_dir, filename), 'r', encoding='utf-8') as f:
+            data = json.load(f)
+
         html = recipe_tpl.render(
             title=data.get('title', ''),
             introduction=data.get('introduction', ''),
@@ -32,12 +35,13 @@ def build_recipes(json_dir='recipes', template_dir='templates', output_dir='docs
             instructions=data.get('instructions', []),
             notes=data.get('notes', '')
         )
+
         with open(out_path, 'w', encoding='utf-8') as f:
             f.write(html)
 
         recipes.append({
             'title': data.get('title', ''),
-            'filename': f"recipes/{name}.html",
+            'filename': f"recipes/{html_file}",
             'ingredients': data.get('ingredients', [])
         })
 
