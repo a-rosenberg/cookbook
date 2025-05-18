@@ -22,12 +22,19 @@
     <div class="grid-cards">
       {% for r in recipes %}
       <div class="card"
-           data-title="{{ r.title | lower }}"
-           data-ingredients="{{ r.ingredients | join(' ') | lower }}">
-        <a href="{{ r.filename }}">
-          <h3 class="card-title">{{ r.title | lower }}</h3>
-        </a>
-      </div>
+         data-title="{{ r.title | lower }}"
+         data-ingredients="{{ r.ingredients | join(' ') | lower }}"
+         data-tags="{{ r.tags | join(' ') | lower }}">
+      <a href="{{ r.filename }}">
+        <h3 class="card-title">
+          {{ r.title | lower }}
+          {% if r.vegan %}
+            <span class="pill">v</span>
+          {% endif %}
+        </h3>
+      </a>
+</div>
+
       {% endfor %}
     </div>
   </div>
@@ -40,7 +47,8 @@
       document.querySelectorAll('.card').forEach(card => {
         const title = card.dataset.title;
         const ingredients = card.dataset.ingredients;
-        card.style.display = (title.includes(filter) || ingredients.includes(filter))
+        const tags = card.dataset.tags;
+        card.style.display = (title.includes(filter) || ingredients.includes(filter) || tags.includes(filter))
           ? 'block' : 'none';
       });
     };

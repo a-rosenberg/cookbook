@@ -157,3 +157,16 @@ li {
 .back-button:hover {
   color: var(--accent);
 }
+
+.pill {
+  display: inline-block;
+  margin-left: 0.5rem;
+  padding: 0.1rem 0.4rem;
+  font-size: 0.5rem;
+  font-weight: bold;
+  background: var(--accent);
+  color: white;
+  border-radius: 999px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}

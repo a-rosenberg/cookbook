@@ -1,6 +1,6 @@
 {
   "date": "2016-02-02",
-  "title": "(jeff's) naan",
+  "title": "jeff's naan",
   "introduction": "",
   "ingredients": [
     "2 tsp dry active yeast",
@@ -20,5 +20,8 @@
     "Loosely cover the dough and let it rise until double in size (about 1 hour). After it rises, gently flatten the",
     "Heat a large, heavy bottomed skillet over medium heat (I prefer cast iron for this). Working with one ball at a time,"
   ],
-  "notes": "This is pretty much just the budget bytes homemade naan recipe. These keep well stored in mason jars then reheated on a hot pan like they were cooked."
+  "notes": "This is pretty much just the budget bytes homemade naan recipe. These keep well stored in mason jars then reheated on a hot pan like they were cooked.",
+  "tags": [
+    "indian"
+  ]
 }

@@ -16,5 +16,9 @@
     "Add to blender in the general order the ingredients are listed.  If you want to really mix it up add one of the 'optional' spices.",
     "Blend until smooth, using the tamper or adding almond milk to help everything combine."
   ],
-  "notes": "Add frozen blueberries or spinach but not both unless you want a brown smoothie."
+  "notes": "Add frozen blueberries or spinach but not both unless you want a brown smoothie.",
+  "tags": [
+    "breakfast",
+    "vegan"
+  ]
 }

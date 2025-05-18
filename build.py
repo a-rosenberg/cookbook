@@ -33,7 +33,8 @@ def build_recipes(json_dir='recipes', template_dir='templates', output_dir='docs
             introduction=data.get('introduction', ''),
             ingredients=data.get('ingredients', []),
             instructions=data.get('instructions', []),
-            notes=data.get('notes', '')
+            notes=data.get('notes', ''),
+            tags=data.get('tags', [])
         )
 
         with open(out_path, 'w', encoding='utf-8') as f:
@@ -42,7 +43,9 @@ def build_recipes(json_dir='recipes', template_dir='templates', output_dir='docs
         recipes.append({
             'title': data.get('title', ''),
             'filename': f"recipes/{html_file}",
-            'ingredients': data.get('ingredients', [])
+            'ingredients': data.get('ingredients', []),
+            'vegan': 'vegan' in data.get('tags', []),
+            'tags': data.get('tags', []),
         })
 
     # Generate index page

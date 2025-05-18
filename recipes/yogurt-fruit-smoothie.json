@@ -9,5 +9,10 @@
   "instructions": [
     "Combine all ingredients in a blender.",
     "Blend until smooth and serve immediately."
+  ],
+  "notes": "Scales at 100%",
+  "tags": [
+    "breakfast",
+    "quick"
   ]
 }

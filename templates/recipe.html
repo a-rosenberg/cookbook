@@ -14,6 +14,14 @@
       <h1 class="recipe-title">{{ title | lower }}</h1>
     </header>
 
+    {% if tags %}
+    <div class="section-card">
+      {% for tag in tags %}
+        <span class="pill">{{ tag }}</span>
+      {% endfor %}
+    </div>
+    {% endif %}
+
     {% if introduction %}
     <section class="section-card">
       <h2>introduction</h2>
