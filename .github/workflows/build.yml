@@ -1,0 +1,48 @@
+name: Build and Deploy Site
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1) Check out your code
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true    # allows pushing back
+          fetch-depth: 0              # get full history
+
+      # 2) Set up Python
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'       # adjust if you need a specific 3.x
+
+      # 3) Install dependencies (if any)
+      - name: Install dependencies
+        run: |
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          fi
+
+      # 4) Run your build script (which clears & repopulates docs/)
+      - name: Build site
+        run: python build.py
+
+      # 5) Commit & push the docs/ folder back to main
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain docs)" ]]; then
+            git add docs
+            git commit -m "Auto-build site [skip ci]"
+            git push
+          else
+            echo "No changes to deploy"
+          fi
