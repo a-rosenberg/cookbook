@@ -3,17 +3,14 @@ name: pages build and deployment
 on:
   push:
     branches:
-      - master
+      - master   # or main, whichever your default is
 
 jobs:
   pages:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deploy-pages.outputs.page_url }}
 
     steps:
-      # 1) Check out your repo
+      # 1) Check out your code
       - name: Checkout
         uses: actions/checkout@v3
 
@@ -30,11 +27,11 @@ jobs:
             pip install -r requirements.txt
           fi
 
-      # 4) Build the site (this will clear & repopulate docs/)
+      # 4) Build your site (recreates docs/)
       - name: Build site
         run: python build.py
 
-      # 5) Upload the freshly built docs/ folder
+      # 5) Upload the freshly-built docs/ folder
       - name: Upload artifact for deployment
         uses: actions/upload-pages-artifact@v1
         with:
