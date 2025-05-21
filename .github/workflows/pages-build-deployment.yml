@@ -1,43 +1,60 @@
+# ----------------------------------------------------------
+# GitHub Pages – build Jinja site & deploy from docs/ folder
+# ----------------------------------------------------------
 name: pages build and deployment
 
 on:
   push:
     branches:
-      - master   # or main, whichever your default is
+      - master          # ↙ change if your default branch is 'main'
+
+# minimum scopes needed by actions/deploy-pages@v1
+permissions:
+  contents: read        # to checkout the repo
+  pages: write          # to deploy to GitHub Pages
+  id-token: write       # to authenticate the deployment
+
+# never publish two revisions of the same ref at once
+concurrency:
+  group: "pages-${{ github.ref }}"
+  cancel-in-progress: true
 
 jobs:
-  pages:
+  # ---- Build the static site ----
+  build:
     runs-on: ubuntu-latest
-
     steps:
-      # 1) Check out your code
-      - name: Checkout
+      - name: Checkout source
         uses: actions/checkout@v3
 
-      # 2) Set up Python
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
 
-      # 3) Install dependencies
       - name: Install dependencies
         run: |
           if [ -f requirements.txt ]; then
             pip install -r requirements.txt
           fi
 
-      # 4) Build your site (recreates docs/)
-      - name: Build site
+      - name: Build site (populates docs/)
         run: python build.py
 
-      # 5) Upload the freshly-built docs/ folder
-      - name: Upload artifact for deployment
+      - name: Upload docs/ as Pages artifact
         uses: actions/upload-pages-artifact@v1
         with:
           path: docs
 
-      # 6) Deploy to GitHub Pages
+  # ---- Deploy to GitHub Pages ----
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages         # required; creates “GitHub Pages” env
+      url: ${{ steps.deployer.outputs.page_url }}
+
+    steps:
       - name: Deploy to GitHub Pages
-        id: deploy-pages
+        id: deployer
         uses: actions/deploy-pages@v1
