@@ -1,4 +1,4 @@
-name: Build and Deploy Site
+name: Build & Deploy Site to GitHub Pages
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - master
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
@@ -14,35 +14,36 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
         with:
-          persist-credentials: true    # allows pushing back
-          fetch-depth: 0              # get full history
+          fetch-depth: 0
+          persist-credentials: true
 
       # 2) Set up Python
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'       # adjust if you need a specific 3.x
+          python-version: '3.x'
 
-      # 3) Install dependencies (if any)
+      # 3) Install dependencies
       - name: Install dependencies
         run: |
           if [ -f requirements.txt ]; then
             pip install -r requirements.txt
           fi
 
-      # 4) Run your build script (which clears & repopulates docs/)
+      # 4) Run your build script
       - name: Build site
         run: python build.py
 
-      # 5) Commit & push the docs/ folder back to main
-      - name: Commit and Push
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          if [[ -n "$(git status --porcelain docs)" ]]; then
-            git add docs
-            git commit -m "Auto-build site [skip ci]"
-            git push
-          else
-            echo "No changes to deploy"
-          fi
+      # 5) Deploy the resulting docs/ to your master/docs via gh-pages
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # target your main branch instead of the default gh-pages branch:
+          publish_branch: master
+          # local folder to push:
+          publish_dir: docs
+          # remote path within publish_branch:
+          destination_dir: docs
+          # avoid infinite loops:
+          commit_message: "Auto build & deploy site [skip ci]"
