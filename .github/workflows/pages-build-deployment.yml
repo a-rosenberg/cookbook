@@ -2,9 +2,9 @@ name: pages build and deployment
 
 on:
   push:
-    branches: [ master ]          # change to main if that’s your default
+    branches: [ master ]          # change to main if needed
 
-# permissions required by deploy-pages@v1
+# minimum scopes deploy-pages needs
 permissions:
   contents: read
   pages: write
@@ -15,15 +15,14 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-# ---------------- BUILD JOB ----------------
+# ---------- BUILD ----------
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout source
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      # language tooling (allowed)
+      - uses: actions/setup-python@v4
         with:
           python-version: "3.x"
 
@@ -33,28 +32,26 @@ jobs:
             pip install -r requirements.txt
           fi
 
-      - name: Build site (regenerates docs/)
-        run: python build.py
+      - name: Build site
+        run: python build.py        # regenerates docs/
 
-      # ----- upload docs/ as a regular artifact -----
-      - name: Upload site artifact
-        uses: actions/upload-artifact@v3
+      # REQUIRED so the next step can resolve its dependencies
+      - uses: actions/configure-pages@v3
+
+      # upload the docs/ folder as the GitHub Pages artifact
+      - uses: actions/upload-pages-artifact@v1
         with:
-          name: github-pages          # **match this in deploy step**
-          path: docs                  # folder to publish
-          if-no-files-found: error
+          path: docs
 
-# ---------------- DEPLOY JOB ----------------
+# ---------- DEPLOY ----------
   deploy:
     needs: build
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Deploy to GitHub Pages
-        id: deploy
+        id: deployment
         uses: actions/deploy-pages@v1
-        with:
-          artifact_name: github-pages   # <-- same name as upload step
