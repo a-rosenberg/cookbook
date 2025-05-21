@@ -2,7 +2,7 @@ name: pages build and deployment
 
 on:
   push:
-    branches: [ master ]          # change to main if needed
+    branches: [ master ] # change to main if needed
 
 # minimum scopes deploy-pages needs
 permissions:
@@ -19,12 +19,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4  # Updated
 
       # language tooling (allowed)
-      - uses: actions/setup-python@v4
+      - uses: actions/setup-python@v5 # Updated
         with:
           python-version: "3.x"
+          cache: 'pip' # Optional: add caching for dependencies
 
       - name: Install deps
         run: |
@@ -33,13 +34,13 @@ jobs:
           fi
 
       - name: Build site
-        run: python build.py        # regenerates docs/
+        run: python build.py # regenerates docs/
 
       # REQUIRED so the next step can resolve its dependencies
-      - uses: actions/configure-pages@v3
+      - uses: actions/configure-pages@v5 # Updated
 
       # upload the docs/ folder as the GitHub Pages artifact
-      - uses: actions/upload-pages-artifact@v1
+      - uses: actions/upload-pages-artifact@v3 # Updated
         with:
           path: docs
 
@@ -54,4 +55,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4 # Updated
