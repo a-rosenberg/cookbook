@@ -1,0 +1,46 @@
+name: pages build and deployment
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  pages:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy-pages.outputs.page_url }}
+
+    steps:
+      # 1) Check out your repo
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      # 2) Set up Python
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      # 3) Install dependencies
+      - name: Install dependencies
+        run: |
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          fi
+
+      # 4) Build the site (this will clear & repopulate docs/)
+      - name: Build site
+        run: python build.py
+
+      # 5) Upload the freshly built docs/ folder
+      - name: Upload artifact for deployment
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: docs
+
+      # 6) Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages
+        id: deploy-pages
+        uses: actions/deploy-pages@v1
