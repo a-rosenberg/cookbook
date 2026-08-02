@@ -10,8 +10,23 @@
     const emptyState = document.querySelector("#emptyState");
     const emptyClear = document.querySelector("#emptyClear");
     const randomButton = document.querySelector("#randomBtn");
+    const filterPanel = document.querySelector("#filterPanel");
+    const filterToggle = document.querySelector("#filterToggle");
+    const filterRow = document.querySelector("#filterOptions");
+    const mobileLayout = window.matchMedia("(max-width: 600px)");
     const initialTag = new URLSearchParams(window.location.search).get("tag")?.trim().toLowerCase();
     let activeFilter = "all";
+
+    const setFilterPanelOpen = (isOpen) => {
+      if (!filterPanel || !filterToggle) return;
+      const open = !mobileLayout.matches || isOpen;
+      filterPanel.classList.toggle("is-open", open);
+      filterToggle.setAttribute("aria-expanded", String(open));
+    };
+
+    const syncFilterPanel = () => {
+      setFilterPanelOpen(Boolean(initialTag));
+    };
 
     if (initialTag && !filterButtons.some((button) => button.dataset.filter === initialTag)) {
       const activeTagButton = document.createElement("button");
@@ -20,9 +35,22 @@
       activeTagButton.dataset.filter = initialTag;
       activeTagButton.setAttribute("aria-pressed", "true");
       activeTagButton.textContent = initialTag;
-      document.querySelector(".filter-row").append(activeTagButton);
+      filterRow.append(activeTagButton);
       filterButtons.push(activeTagButton);
     }
+
+    filterToggle?.addEventListener("click", () => {
+      if (!mobileLayout.matches) return;
+      setFilterPanelOpen(!filterPanel.classList.contains("is-open"));
+    });
+
+    if (typeof mobileLayout.addEventListener === "function") {
+      mobileLayout.addEventListener("change", syncFilterPanel);
+    } else {
+      mobileLayout.addListener(syncFilterPanel);
+    }
+
+    syncFilterPanel();
 
     const setActiveFilter = (filter, updateUrl = false) => {
       activeFilter = filter || "all";

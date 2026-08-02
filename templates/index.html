@@ -61,12 +61,18 @@
             <button class="button button-accent" id="randomBtn" type="button">surprise me <span aria-hidden="true">↗</span></button>
           </div>
 
-          <div class="filter-row" aria-label="filter recipes by category">
-            <span class="filter-label">browse by</span>
+          <div class="filter-panel" id="filterPanel">
+            <span class="filter-label filter-label-desktop">browse by</span>
+            <button class="filter-toggle" id="filterToggle" type="button" aria-expanded="true" aria-controls="filterOptions">
+              <span>browse by</span>
+              <span class="filter-chevron" aria-hidden="true">⌄</span>
+            </button>
+            <div class="filter-row" id="filterOptions" role="group" aria-label="filter recipes by category">
             <button class="filter-chip is-active" type="button" data-filter="all" aria-pressed="true">all</button>
             {% for tag in tag_counts[:8] %}
             <button class="filter-chip" type="button" data-filter="{{ tag.name | lower }}" aria-pressed="false">{{ tag.name }} <span>{{ tag.count }}</span></button>
             {% endfor %}
+            </div>
           </div>
         </div>
 

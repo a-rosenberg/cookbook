@@ -376,7 +376,7 @@ h3 {
   color: #8a938b;
 }
 
-.filter-row {
+.filter-panel {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
@@ -386,8 +386,47 @@ h3 {
   border-top: 1px solid var(--line);
 }
 
-.filter-label {
+.filter-label,
+.filter-toggle {
+  color: var(--muted);
+  font-family: var(--mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  text-transform: lowercase;
+}
+
+.filter-label-desktop {
   margin-right: 0.25rem;
+}
+
+.filter-toggle {
+  display: none;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  text-align: left;
+}
+
+.filter-chevron {
+  color: var(--accent-dark);
+  font-size: 1rem;
+  letter-spacing: 0;
+  line-height: 1;
+  transition: transform 160ms ease;
+}
+
+.filter-panel.is-open .filter-chevron {
+  transform: rotate(180deg);
+}
+
+.filter-row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
 }
 
 .filter-chip,
@@ -869,8 +908,28 @@ h3 {
     align-items: start;
   }
 
-  .filter-label {
-    width: 100%;
+  .filter-panel {
+    display: block;
+  }
+
+  .filter-label-desktop {
+    display: none;
+  }
+
+  .filter-toggle {
+    display: flex;
+    cursor: pointer;
+  }
+
+  .filter-row {
+    display: none;
+    padding-top: 0.7rem;
+    border-top: 1px solid var(--line);
+    margin-top: 0.7rem;
+  }
+
+  .filter-panel.is-open .filter-row {
+    display: flex;
   }
 
   .recipe-grid {
