@@ -231,7 +231,7 @@ h3 {
   display: grid;
   place-items: center;
   align-self: center;
-  transform: translateY(-50%);
+  transform: none;
 }
 
 .hero-art img {
