@@ -25,6 +25,7 @@ html {
 body {
   margin: 0;
   min-width: 320px;
+  zoom: 0.9;
   background:
     radial-gradient(circle at 90% 0%, rgba(118, 156, 124, 0.09), transparent 28rem),
     var(--bg);
@@ -161,9 +162,15 @@ input:focus-visible {
   min-height: 290px;
   overflow: hidden;
   padding: clamp(1.5rem, 2.5vw, 2.5rem);
-  border-radius: 1.5rem;
+  border-radius: 1.5rem 1.5rem 0 0;
   background: var(--accent);
   color: white;
+}
+
+.hero-section {
+  overflow: hidden;
+  border-radius: 1.5rem;
+  background: var(--surface);
   box-shadow: var(--shadow);
 }
 
@@ -319,7 +326,7 @@ h3 {
 }
 
 .browse-section {
-  padding: clamp(3.5rem, 6.5vw, 6.5rem) 0 4rem;
+  padding: clamp(1.75rem, 3.25vw, 3.25rem) 0 4rem;
 }
 
 .section-heading {
@@ -344,9 +351,8 @@ h3 {
 
 .discovery-tools {
   padding: 1rem;
-  border: 1px solid var(--line);
-  border-radius: 1rem;
-  background: rgba(255, 255, 255, 0.62);
+  border-radius: 0;
+  background: var(--surface);
 }
 
 .search-row {
@@ -852,7 +858,15 @@ h3 {
     display: block;
     min-height: 0;
     padding: 2rem 1.5rem 8rem;
+    border-radius: 1rem 1rem 0 0;
+  }
+
+  .hero-section {
     border-radius: 1rem;
+  }
+
+  .discovery-tools {
+    border-radius: 0;
   }
 
   .hero h1 {

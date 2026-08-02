@@ -26,34 +26,26 @@
     </header>
 
     <main id="main-content">
-      <section class="hero" aria-labelledby="hero-title">
-        <div class="hero-copy">
-<!--          <p class="eyebrow">a personal recipe collection</p>-->
-          <h1 id="hero-title">nora's kitchen</h1>
-          <p class="hero-description">A growing collection of things we eat.</p>
-          <a class="button button-light" href="#browse">browse recipes <span aria-hidden="true">↓</span></a>
-        </div>
-        <div class="hero-art" aria-hidden="true">
-          <img src="static/nora_logo.png" alt="">
-        </div>
-        <dl class="hero-stats" aria-label="recipe collection stats">
-          <div>
-            <dt>{{ total_recipes }}</dt>
-            <dd>recipes</dd>
+      <section class="hero-section" aria-labelledby="hero-title">
+        <div class="hero">
+          <div class="hero-copy">
+<!--            <p class="eyebrow">a personal recipe collection</p>-->
+            <h1 id="hero-title">nora's kitchen</h1>
+            <p class="hero-description">A growing collection of things we eat.</p>
+            <a class="button button-light" href="#browse">browse recipes <span aria-hidden="true">↓</span></a>
           </div>
-        </dl>
-      </section>
+          <div class="hero-art" aria-hidden="true">
+            <img src="static/nora_logo.png" alt="">
+          </div>
+          <dl class="hero-stats" aria-label="recipe collection stats">
+            <div>
+              <dt>{{ total_recipes }}</dt>
+              <dd>recipes</dd>
+            </div>
+          </dl>
+        </div>
 
-      <section class="browse-section" id="browse" aria-labelledby="browse-title">
-<!--        <div class="section-heading">-->
-<!--          <div>-->
-<!--&lt;!&ndash;            <h2 id="browse-title">browse</h2>&ndash;&gt;-->
-<!--            <p class="eyebrow">the collection</p>-->
-<!--          </div>-->
-<!--&lt;!&ndash;          <p class="section-description">Search by recipe, ingredient, or category.</p>&ndash;&gt;-->
-<!--        </div>-->
-
-        <div class="discovery-tools">
+        <div class="discovery-tools" id="browse">
           <div class="search-row">
             <label class="visually-hidden" for="searchInput">search recipes</label>
             <span class="search-icon" aria-hidden="true">⌕</span>
@@ -75,6 +67,10 @@
             </div>
           </div>
         </div>
+
+      </section>
+
+      <section class="browse-section" aria-label="recipe collection">
 
         <div class="results-bar">
           <p id="resultSummary" aria-live="polite">showing <strong>{{ total_recipes }}</strong> recipes</p>
