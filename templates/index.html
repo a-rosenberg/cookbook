@@ -3,63 +3,114 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A personal collection of recipes from Nora's kitchen.">
   <title>nora's kitchen</title>
   <link rel="icon" href="static/nora_favicon.png">
   <link rel="apple-touch-icon" href="static/nora_favicon.png">
   <link rel="stylesheet" href="static/styles.css">
+  <script src="static/site.js" defer></script>
 </head>
 <body>
-  <div class="container">
-    <div class="banner">
-      <h1>nora's kitchen</h1>
-    </div>
+  <a class="skip-link" href="#main-content">skip to recipes</a>
 
-    <div class="search-bar-container">
-      <input type="text" id="searchInput" placeholder="search recipes or ingredients...">
-      <button id="randomBtn">random</button>
-    </div>
-
-    <div class="grid-cards">
-      {% for r in recipes %}
-      <div class="card"
-         data-title="{{ r.title | lower }}"
-         data-ingredients="{{ r.ingredients | join(' ') | lower }}"
-         data-tags="{{ r.tags | join(' ') | lower }}">
-      <a href="{{ r.filename }}">
-        <h3 class="card-title">
-          {{ r.title | lower }}
-          {% if r.vegan %}
-            <span class="pill">v</span>
-          {% endif %}
-        </h3>
+  <div class="site-shell">
+    <header class="site-header">
+      <a class="brand" href="index.html" aria-label="nora's kitchen home">
+        <img class="brand-mark" src="static/nora_favicon.png" alt="">
+        <span>
+          <span class="brand-kicker">a personal recipe collection</span>
+          <span class="brand-name">nora's kitchen</span>
+        </span>
       </a>
-</div>
+      <a class="header-link" href="#browse">browse recipes <span aria-hidden="true">↘</span></a>
+    </header>
 
-      {% endfor %}
-    </div>
+    <main id="main-content">
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-copy">
+          <p class="eyebrow">a personal recipe collection</p>
+          <h1 id="hero-title">recipes worth making twice.</h1>
+          <p class="hero-description">A growing collection of things we like to eat.</p>
+          <a class="button button-light" href="#browse">browse recipes <span aria-hidden="true">↓</span></a>
+        </div>
+        <div class="hero-art" aria-hidden="true">
+          <img src="static/nora_logo.png" alt="">
+        </div>
+        <dl class="hero-stats" aria-label="recipe collection stats">
+          <div>
+            <dt>{{ total_recipes }}</dt>
+            <dd>recipes</dd>
+          </div>
+        </dl>
+      </section>
+
+      <section class="browse-section" id="browse" aria-labelledby="browse-title">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">the collection</p>
+            <h2 id="browse-title">browse the collection.</h2>
+          </div>
+          <p class="section-description">Search by recipe, ingredient, or mood.</p>
+        </div>
+
+        <div class="discovery-tools">
+          <div class="search-row">
+            <label class="visually-hidden" for="searchInput">search recipes</label>
+            <span class="search-icon" aria-hidden="true">⌕</span>
+            <input type="search" id="searchInput" placeholder="search recipes or ingredients..." autocomplete="off">
+            <button class="button button-accent" id="randomBtn" type="button">surprise me <span aria-hidden="true">↗</span></button>
+          </div>
+
+          <div class="filter-row" aria-label="filter recipes by category">
+            <span class="filter-label">browse by</span>
+            <button class="filter-chip is-active" type="button" data-filter="all" aria-pressed="true">all</button>
+            {% for tag in tag_counts[:8] %}
+            <button class="filter-chip" type="button" data-filter="{{ tag.name | lower }}" aria-pressed="false">{{ tag.name }} <span>{{ tag.count }}</span></button>
+            {% endfor %}
+          </div>
+        </div>
+
+        <div class="results-bar">
+          <p id="resultSummary" aria-live="polite">showing <strong>{{ total_recipes }}</strong> recipes</p>
+          <button class="text-button" id="clearFilters" type="button" hidden>clear filters</button>
+        </div>
+
+        <div class="recipe-grid" id="recipeGrid">
+          {% for r in recipes %}
+          <article class="recipe-card"
+                   data-search="{{ (r.title ~ ' ' ~ (r.ingredients | join(' ')) ~ ' ' ~ (r.tags | join(' '))) | lower }}"
+                   data-tags="{{ r.tags | join('|') | lower }}">
+            <a class="recipe-card-link" href="{{ r.filename }}">
+              <div class="card-topline">
+                <span class="card-category">{{ r.tags[0] if r.tags else 'from the kitchen' }}</span>
+                <span class="card-arrow" aria-hidden="true">↗</span>
+              </div>
+              <h3>{{ r.title | lower }}</h3>
+              <div class="card-footer">
+                <span>{{ r.tags | length }} {% if r.tags | length == 1 %}tag{% else %}tags{% endif %}</span>
+                {% if r.vegan %}<span class="vegan-mark"><span aria-hidden="true">✦</span> vegan</span>{% endif %}
+              </div>
+            </a>
+          </article>
+          {% endfor %}
+        </div>
+
+        <div class="empty-state" id="emptyState" hidden>
+          <span class="empty-mark" aria-hidden="true">◌</span>
+          <h3>nothing found yet.</h3>
+          <p>Try another ingredient, recipe name, or category.</p>
+          <button class="button button-outline" id="emptyClear" type="button">show all recipes</button>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <a class="brand brand-small" href="index.html" aria-label="back to nora's kitchen home">
+        <img class="brand-mark" src="static/nora_favicon.png" alt="">
+        <span class="brand-name">nora's kitchen</span>
+      </a>
+      <p>made for cooking at home.</p>
+    </footer>
   </div>
-
-  <script>
-    // Live search
-    const searchInput = document.getElementById('searchInput');
-    const filterCards = () => {
-      const filter = searchInput.value.toLowerCase();
-      document.querySelectorAll('.card').forEach(card => {
-        const title = card.dataset.title;
-        const ingredients = card.dataset.ingredients;
-        const tags = card.dataset.tags;
-        card.style.display = (title.includes(filter) || ingredients.includes(filter) || tags.includes(filter))
-          ? 'block' : 'none';
-      });
-    };
-    searchInput.addEventListener('input', filterCards);
-
-    // Random recipe
-    document.getElementById('randomBtn').addEventListener('click', () => {
-      const links = Array.from(document.querySelectorAll('.card a'));
-      const randomLink = links[Math.floor(Math.random() * links.length)].href;
-      window.location.href = randomLink;
-    });
-  </script>
 </body>
 </html>

@@ -2,49 +2,106 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ title | lower }} from nora's kitchen.">
   <title>{{ title | lower }} | nora's kitchen</title>
   <link rel="icon" href="../static/nora_favicon.png">
+  <link rel="apple-touch-icon" href="../static/nora_favicon.png">
   <link rel="stylesheet" href="../static/styles.css">
+  <script src="../static/site.js" defer></script>
 </head>
-<body>
-  <div class="container">
-    <a href="../index.html" class="back-button">← back to home</a>
-    <header class="header-banner">
-      <h1 class="recipe-title">{{ title | lower }}</h1>
+<body data-recipe-id="{{ recipe_id }}">
+  <a class="skip-link" href="#main-content">skip to recipe</a>
+
+  <div class="site-shell">
+    <header class="site-header">
+      <a class="brand" href="../index.html" aria-label="nora's kitchen home">
+        <img class="brand-mark" src="../static/nora_favicon.png" alt="">
+        <span>
+          <span class="brand-kicker">a personal recipe collection</span>
+          <span class="brand-name">nora's kitchen</span>
+        </span>
+      </a>
+      <a class="header-link" href="../index.html">all recipes <span aria-hidden="true">↗</span></a>
     </header>
 
-    {% if tags %}
-    <div class="section-card">
-      {% for tag in tags %}
-        <span class="pill">{{ tag }}</span>
-      {% endfor %}
-    </div>
-    {% endif %}
+    <main id="main-content">
+      <nav class="breadcrumb" aria-label="breadcrumb">
+        <a href="../index.html">recipes</a>
+        <span aria-hidden="true">/</span>
+        <span>{{ title | lower }}</span>
+      </nav>
 
-    {% if introduction %}
-    <section class="section-card">
-      <h2>introduction</h2>
-      <p>{{ introduction }}</p>
-    </section>
-    {% endif %}
+      <header class="recipe-hero">
+        <p class="eyebrow">from nora's kitchen</p>
+        <h1>{{ title | lower }}</h1>
+        {% if tags %}
+        <div class="tag-list" aria-label="recipe categories">
+          {% for tag in tags %}<a class="tag" href="../index.html?tag={{ tag | urlencode }}">{{ tag }}</a>{% endfor %}
+        </div>
+        {% endif %}
+        {% if introduction %}<p class="recipe-introduction">{{ introduction }}</p>{% endif %}
+        <div class="recipe-actions" aria-label="recipe actions">
+          <button class="button button-accent" type="button" data-action="print">print recipe <span aria-hidden="true">↗</span></button>
+          <button class="button button-outline" type="button" data-action="share">share recipe <span aria-hidden="true">↗</span></button>
+        </div>
+      </header>
 
-    <section class="section-card">
-      <h2>ingredients</h2>
-      <ul>{% for item in ingredients %}<li>{{ item }}</li>{% endfor %}</ul>
-    </section>
+      <div class="recipe-layout">
+        <aside class="ingredients-panel section-card">
+          <div class="panel-heading">
+            <div>
+              <p class="eyebrow">mise en place</p>
+              <h2>ingredients</h2>
+            </div>
+            <button class="text-button" type="button" data-action="reset-checklist">reset</button>
+          </div>
+          <p class="panel-hint">tap ingredients as you gather them.</p>
+          <ul class="ingredient-list">
+            {% for item in ingredients %}
+            <li>
+              <label>
+                <input type="checkbox" data-ingredient-index="{{ loop.index0 }}">
+                <span>{{ item }}</span>
+              </label>
+            </li>
+            {% endfor %}
+          </ul>
+        </aside>
 
-    <section class="section-card">
-      <h2>instructions</h2>
-      <ol>{% for step in instructions %}<li>{{ step }}</li>{% endfor %}</ol>
-    </section>
+        <div class="instructions-column">
+          <section class="section-card instruction-card">
+            <div class="panel-heading">
+              <div>
+                <p class="eyebrow">step by step</p>
+                <h2>instructions</h2>
+              </div>
+            </div>
+            <ol class="instruction-list">
+              {% for step in instructions %}
+              <li><p>{{ step }}</p></li>
+              {% endfor %}
+            </ol>
+          </section>
 
-    {% if notes %}
-    <section class="section-card">
-      <h2>notes</h2>
-      <p>{{ notes }}</p>
-    </section>
-    {% endif %}
+          {% if notes %}
+          <section class="notes-card" aria-labelledby="notes-title">
+            <p class="eyebrow">a few thoughts</p>
+            <h2 id="notes-title">notes</h2>
+            <p>{{ notes }}</p>
+          </section>
+          {% endif %}
+        </div>
+      </div>
+    </main>
+
+    <footer class="site-footer">
+      <a class="brand brand-small" href="../index.html" aria-label="back to nora's kitchen home">
+        <img class="brand-mark" src="../static/nora_favicon.png" alt="">
+        <span class="brand-name">nora's kitchen</span>
+      </a>
+      <a class="text-button" href="#main-content">back to top ↑</a>
+    </footer>
   </div>
 </body>
 </html>
