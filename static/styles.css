@@ -60,7 +60,7 @@ input:focus-visible {
 }
 
 .site-shell {
-  width: min(1180px, calc(100% - 3rem));
+  width: min(1040px, calc(100% - 3rem));
   margin: 0 auto;
 }
 
