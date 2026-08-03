@@ -917,6 +917,10 @@ h3 {
     width: 100%;
   }
 
+  #randomBtn {
+    display: none;
+  }
+
   .filter-row {
     align-items: start;
   }
