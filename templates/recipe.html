@@ -18,11 +18,11 @@
       <a class="brand" href="../index.html" aria-label="nora's kitchen home">
         <img class="brand-mark" src="../static/nora_favicon.png" alt="">
         <span>
-          <span class="brand-kicker">a personal recipe collection</span>
+          <span class="brand-kicker">home page // est. 1995</span>
           <span class="brand-name">nora's kitchen</span>
         </span>
       </a>
-      <a class="header-link" href="../index.html">all recipes <span aria-hidden="true">↗</span></a>
+      <a class="header-link" href="../index.html">&lt;&lt; back to home</a>
     </header>
 
     <main id="main-content">
@@ -33,7 +33,7 @@
       </nav>
 
       <header class="recipe-hero">
-        <p class="eyebrow">from nora's kitchen</p>
+        <p class="eyebrow">you found a recipe!</p>
         <h1>{{ title | lower }}</h1>
         {% if tags %}
         <div class="tag-list" aria-label="recipe categories">
@@ -42,8 +42,8 @@
         {% endif %}
         {% if introduction %}<p class="recipe-introduction">{{ introduction }}</p>{% endif %}
         <div class="recipe-actions" aria-label="recipe actions">
-          <button class="button button-accent" type="button" data-action="print">print recipe <span aria-hidden="true">↗</span></button>
-          <button class="button button-outline" type="button" data-action="share">share recipe <span aria-hidden="true">↗</span></button>
+          <button class="button button-accent" type="button" data-action="print">print recipe</button>
+          <button class="button button-outline" type="button" data-action="share">tell a friend</button>
         </div>
       </header>
 
@@ -51,12 +51,12 @@
         <aside class="ingredients-panel section-card">
           <div class="panel-heading">
             <div>
-              <p class="eyebrow">mise en place</p>
+              <p class="eyebrow">step 1: get stuff</p>
               <h2>ingredients</h2>
             </div>
-            <button class="text-button" type="button" data-action="reset-checklist">reset</button>
+            <button class="text-button" type="button" data-action="reset-checklist">[ reset list ]</button>
           </div>
-          <p class="panel-hint">tap ingredients as you gather them.</p>
+          <p class="panel-hint">check stuff off as you gather it.</p>
           <ul class="ingredient-list">
             {% for item in ingredients %}
             <li>
@@ -73,7 +73,7 @@
           <section class="section-card instruction-card">
             <div class="panel-heading">
               <div>
-                <p class="eyebrow">step by step</p>
+                <p class="eyebrow">step 2: do cooking</p>
                 <h2>instructions</h2>
               </div>
             </div>
@@ -86,7 +86,7 @@
 
           {% if notes %}
           <section class="notes-card" aria-labelledby="notes-title">
-            <p class="eyebrow">a few thoughts</p>
+            <p class="eyebrow">nora's notes</p>
             <h2 id="notes-title">notes</h2>
             <p>{{ notes }}</p>
           </section>
@@ -100,7 +100,7 @@
         <img class="brand-mark" src="../static/nora_favicon.png" alt="">
         <span class="brand-name">nora's kitchen</span>
       </a>
-      <a class="text-button" href="#main-content">back to top ↑</a>
+      <a class="text-button" href="#main-content">[ back to top ]</a>
     </footer>
   </div>
 </body>

@@ -18,21 +18,22 @@
       <a class="brand" href="index.html" aria-label="nora's kitchen home">
         <img class="brand-mark" src="static/nora_favicon.png" alt="">
         <span>
-          <span class="brand-kicker">a personal recipe collection</span>
+          <span class="brand-kicker">home page // est. 1995</span>
           <span class="brand-name">nora's kitchen</span>
         </span>
       </a>
-      <a class="header-link" href="#browse">browse recipes <span aria-hidden="true">↘</span></a>
+      <a class="header-link" href="#browse">skip to recipes &gt;&gt;</a>
     </header>
 
     <main id="main-content">
       <section class="hero-section" aria-labelledby="hero-title">
+        <div class="retro-banner" role="status"><span class="blink">*** NEW! ***</span> updated whenever nora remembers <span class="blink">*** NEW! ***</span></div>
         <div class="hero">
           <div class="hero-copy">
-<!--            <p class="eyebrow">a personal recipe collection</p>-->
-            <h1 id="hero-title">nora's kitchen</h1>
-            <p class="hero-description">A growing collection of things we eat.</p>
-            <a class="button button-light" href="#browse">browse recipes <span aria-hidden="true">↓</span></a>
+            <p class="eyebrow">welcome, fellow web surfer!</p>
+            <h1 id="hero-title">nora's kitchen!</h1>
+            <p class="hero-description">recipes worth making twice. browse the collection.</p>
+            <a class="button button-light" href="#browse">enter kitchen &gt;&gt;</a>
           </div>
           <div class="hero-art" aria-hidden="true">
             <img src="static/nora_logo.png" alt="">
@@ -40,7 +41,7 @@
           <dl class="hero-stats" aria-label="recipe collection stats">
             <div>
               <dt>{{ total_recipes }}</dt>
-              <dd>recipes</dd>
+              <dd>recipes online</dd>
             </div>
           </dl>
         </div>
@@ -50,7 +51,7 @@
             <label class="visually-hidden" for="searchInput">search recipes</label>
             <span class="search-icon" aria-hidden="true">⌕</span>
             <input type="search" id="searchInput" placeholder="search recipes or ingredients..." autocomplete="off">
-            <button class="button button-accent" id="randomBtn" type="button">surprise me <span aria-hidden="true">↗</span></button>
+            <button class="button button-accent" id="randomBtn" type="button">random recipe!?</button>
           </div>
 
           <div class="filter-panel" id="filterPanel">
@@ -99,7 +100,7 @@
 
         <div class="empty-state" id="emptyState" hidden>
           <span class="empty-mark" aria-hidden="true">◌</span>
-          <h3>nothing found yet.</h3>
+          <h3>404: recipe not found!</h3>
           <p>Try another ingredient, recipe name, or category.</p>
           <button class="button button-outline" id="emptyClear" type="button">show all recipes</button>
         </div>
@@ -111,7 +112,7 @@
         <img class="brand-mark" src="static/nora_favicon.png" alt="">
         <span class="brand-name">nora's kitchen</span>
       </a>
-      <p>made for cooking at home.</p>
+      <p>best viewed with a hungry stomach.<br><span class="visitor-counter">you are visitor #1995*</span></p>
     </footer>
   </div>
 </body>
